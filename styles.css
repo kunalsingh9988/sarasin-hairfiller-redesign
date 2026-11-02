@@ -73,3 +73,12 @@ summary span{display:inline-block;flex:none;width:19px;height:19px;background:ur
 .faq-content summary{font-size:16px;line-height:1.4;padding-block:20px}
 @media(max-width:900px){.faq-grid{grid-template-columns:1fr;gap:42px}.faq-content{padding-top:0}.faq-result{width:min(100%,520px);margin-top:30px}}
 @media(max-width:560px){.faq-grid{gap:36px}.faq-result{margin-top:26px}.faq-content summary{font-size:15px;padding-block:18px}}
+
+/* Authentic clinic setting completes the consultation invitation. */
+.next-grid{grid-template-columns:minmax(0,1fr) minmax(240px,.72fr) minmax(0,.95fr);gap:4%;align-items:center}
+.next-photo{min-width:0;margin:0}
+.next-photo img{display:block;width:100%;aspect-ratio:4/5;object-fit:cover;object-position:center}
+.next-photo figcaption{margin-top:10px;color:#63857b;font-size:11px;letter-spacing:.03em}
+.next-grid .related{align-self:center;min-width:0}
+@media(max-width:1000px){.next-grid{grid-template-columns:1fr 1fr;gap:34px 7%}.next-copy{grid-column:1}.next-photo{grid-column:2;grid-row:1 / span 2}.next-grid .related{grid-column:1;grid-row:2}}
+@media(max-width:700px){.next-grid{grid-template-columns:1fr;gap:36px}.next-copy,.next-photo,.next-grid .related{grid-column:1;grid-row:auto}.next-photo{width:min(100%,480px)}.next-photo img{aspect-ratio:1}}
