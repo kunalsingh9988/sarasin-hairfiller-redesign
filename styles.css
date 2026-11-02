@@ -60,3 +60,16 @@ summary span{display:inline-block;flex:none;width:19px;height:19px;background:ur
 .orbit-note{margin:22px 0 0;text-align:center;color:#d5e5dc;font-size:10px;letter-spacing:.03em}
 @media(max-width:800px){.orbit{width:min(100% - 32px,520px);margin-block:24px 6px}}
 @media(max-width:560px){.orbit{width:min(100% - 28px,330px)}.orbit-center{font-size:31px}.orbit-item{width:38%;border-width:2px}.orbit-item span{padding:24px 4px 11px;font-size:12px;letter-spacing:.06em}.orbit-one{top:1%;left:-2%}.orbit-two{top:55%;right:-4%}.orbit-three{bottom:-3%;left:-4%}}
+
+/* FAQ: a real clinic result beside the answers, without cropping the comparison. */
+.faq-grid{display:grid;grid-template-columns:minmax(0,.92fr) minmax(0,1.08fr);gap:8%;align-items:start}
+.faq-aside h2{margin-bottom:0}
+.faq-result{width:min(100%,485px);margin:36px 0 0}
+.faq-result img{width:100%;height:auto;display:block}
+.faq-result figcaption{margin-top:11px;color:#6e867e;font-size:11px;line-height:1.55}
+.faq-content{padding-top:72px;min-width:0}
+.faq-intro{max-width:440px;margin:0 0 31px;font-size:14px;line-height:1.6}
+.faq-content .faq-list{max-width:none;margin:0}
+.faq-content summary{font-size:16px;line-height:1.4;padding-block:20px}
+@media(max-width:900px){.faq-grid{grid-template-columns:1fr;gap:42px}.faq-content{padding-top:0}.faq-result{width:min(100%,520px);margin-top:30px}}
+@media(max-width:560px){.faq-grid{gap:36px}.faq-result{margin-top:26px}.faq-content summary{font-size:15px;padding-block:18px}}
