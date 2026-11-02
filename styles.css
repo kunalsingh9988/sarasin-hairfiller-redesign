@@ -82,3 +82,8 @@ summary span{display:inline-block;flex:none;width:19px;height:19px;background:ur
 .next-grid .related{align-self:center;min-width:0}
 @media(max-width:1000px){.next-grid{grid-template-columns:1fr 1fr;gap:34px 7%}.next-copy{grid-column:1}.next-photo{grid-column:2;grid-row:1 / span 2}.next-grid .related{grid-column:1;grid-row:2}}
 @media(max-width:700px){.next-grid{grid-template-columns:1fr;gap:36px}.next-copy,.next-photo,.next-grid .related{grid-column:1;grid-row:auto}.next-photo{width:min(100%,480px)}.next-photo img{aspect-ratio:1}}
+
+/* Horizontal clinic descriptor beneath the Sarasin wordmark. */
+.wordmark{flex-direction:column;align-items:flex-end;gap:3px}
+.wordmark-small{writing-mode:horizontal-tb;transform:none;margin:0 2px 0 0;font-size:10px;line-height:1;letter-spacing:.32em}
+@media(max-width:560px){.wordmark-small{font-size:9px}}
