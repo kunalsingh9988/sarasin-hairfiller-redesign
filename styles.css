@@ -28,3 +28,21 @@ summary span{display:inline-block;flex:none;width:19px;height:19px;background:ur
 .button-outline:hover span{filter:brightness(0) invert(1)}
 @media(max-width:800px){.hero-image{height:auto;padding:30px 8% 58px}.hero-image img{width:min(100%,520px)}.fit-photo img{height:auto}}
 @media(max-width:560px){.hero-image{height:auto;padding:20px 20px 70px}.hero-image .image-label{right:20px;bottom:18px;max-width:calc(100% - 40px)}.comparison-tags{top:30px;width:calc(100% - 40px)}.comparison-tags span{padding:6px 8px;font-size:9px}.fact-icon{width:17px;height:17px;left:0;top:5px}.fit-photo img,.result-image img{height:auto}}
+
+/* The dose cards use illustrative coverage maps, not promised treatment areas. */
+.price-grid{gap:16px;align-items:stretch}
+.price-grid .price-card{display:flex;flex-direction:column;min-width:0;min-height:0;padding:0;background:#f4f6f1;border:1px solid #e3ebe4}
+.price-illustration{width:100%;aspect-ratio:8/5;object-fit:cover;background:#dfece7}
+.price-card-content{display:flex;flex:1;flex-direction:column;padding:26px 28px 28px}
+.price-grid .price-kicker{font-size:10px;font-weight:700;letter-spacing:.15em;color:#5e8177}
+.price-card h3{margin:15px 0 9px;font-family:'DM Serif Display',Georgia,serif;font-size:29px;font-weight:400;line-height:1.12;letter-spacing:-.025em}
+.price-grid .price-description{margin:0 0 26px;font-size:13px;line-height:1.55;min-height:61px}
+.price-card-bottom{margin-top:auto;padding-top:18px;border-top:1px solid #d8e2da}
+.price-grid .price-includes{margin:0 0 13px;font-size:11px;line-height:1.5;color:#5a716a}
+.price-includes b{color:var(--ink);font-weight:700}
+.price-amount{display:flex;justify-content:space-between;align-items:baseline;gap:12px}
+.price-grid .price-amount strong{margin:0;font-size:48px;line-height:1}
+.price-grid .price-amount span{font-size:11px;letter-spacing:0;color:#5a716a;white-space:nowrap}
+.price-note{max-width:880px;font-size:12px;line-height:1.6;margin-top:18px}
+@media(max-width:800px){.price-card-content{padding:22px}.price-card h3{font-size:25px}.price-grid .price-description{min-height:82px}}
+@media(max-width:560px){.price-grid{gap:16px}.price-illustration{aspect-ratio:8/5}.price-card-content{padding:24px}.price-grid .price-description{min-height:0;margin-bottom:22px}.price-grid .price-amount strong{font-size:45px}}

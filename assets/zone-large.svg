@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" role="img" aria-labelledby="title">
+  <title id="title">Illustratie van een grotere behandelzone op de hoofdhuid</title>
+  <rect width="480" height="300" fill="#dfece7"/>
+  <circle cx="240" cy="139" r="119" fill="#eaf3ed" opacity=".8"/>
+  <path d="M149 243c-17-30-28-70-25-108C129 68 170 25 240 25s111 43 116 110c3 38-8 78-25 108" fill="#f5eee3" stroke="#56736b" stroke-width="2.5"/>
+  <path d="M148 133c12-73 53-99 92-99s80 26 92 99c-18-27-41-37-92-37s-74 10-92 37Z" fill="#82978b"/>
+  <path d="M176 68c12 19 33 30 64 32m64-32c-12 19-33 30-64 32m0-66v92" fill="none" stroke="#d2dfd5" stroke-width="3" stroke-linecap="round"/>
+  <path d="M156 151c-6 39 1 70 15 92m153-92c6 39-1 70-15 92" fill="none" stroke="#b7c9bc" stroke-width="2" stroke-linecap="round"/>
+  <path d="M176 105c13-29 36-39 64-39s51 10 64 39c13 29 15 83 3 111-12 28-39 34-67 34s-55-6-67-34c-12-28-10-82 3-111Z" fill="#b7d8bf" fill-opacity=".85" stroke="#2e695e" stroke-width="2" stroke-dasharray="5 4"/>
+  <path d="M191 273h98" stroke="#79998d" stroke-width="1"/>
+  <circle cx="205" cy="273" r="4" fill="#2e695e"/>
+  <circle cx="240" cy="273" r="4" fill="#2e695e"/>
+  <circle cx="275" cy="273" r="4" fill="#2e695e"/>
+</svg>
