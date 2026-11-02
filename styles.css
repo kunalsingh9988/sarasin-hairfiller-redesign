@@ -46,3 +46,17 @@ summary span{display:inline-block;flex:none;width:19px;height:19px;background:ur
 .price-note{max-width:880px;font-size:12px;line-height:1.6;margin-top:18px}
 @media(max-width:800px){.price-card-content{padding:22px}.price-card h3{font-size:25px}.price-grid .price-description{min-height:82px}}
 @media(max-width:560px){.price-grid{gap:16px}.price-illustration{aspect-ratio:8/5}.price-card-content{padding:24px}.price-grid .price-description{min-height:0;margin-bottom:22px}.price-grid .price-amount strong{font-size:45px}}
+
+/* Photographic pillars for the 360-degree clinic, care and lifestyle vision. */
+.orbit-visual{min-width:0}
+.orbit{width:min(100%,520px);height:auto;aspect-ratio:1;overflow:visible}
+.orbit-center{position:relative;z-index:1;font-size:clamp(36px,3.5vw,50px);line-height:.94}
+.orbit-item{display:block;width:30%;height:auto;aspect-ratio:1;overflow:hidden;border:3px solid #f0f5ee;background:#f0f5ee;box-shadow:0 12px 28px #082e2a55}
+.orbit-item img{width:100%;height:100%;object-fit:cover}
+.orbit-item span{position:absolute;left:0;right:0;bottom:0;display:block;padding:27px 5px 14px;background:linear-gradient(transparent,#0b2e2bd9);color:#fff;text-align:center;font-size:13px;font-weight:700;letter-spacing:.12em;line-height:1.1;text-shadow:0 1px 2px #0b2e2b}
+.orbit-one{top:3%;left:0}
+.orbit-two{top:45%;right:-3%}
+.orbit-three{bottom:0;left:-3%}
+.orbit-note{margin:22px 0 0;text-align:center;color:#d5e5dc;font-size:10px;letter-spacing:.03em}
+@media(max-width:800px){.orbit{width:min(100% - 32px,520px);margin-block:24px 6px}}
+@media(max-width:560px){.orbit{width:min(100% - 28px,330px)}.orbit-center{font-size:31px}.orbit-item{width:38%;border-width:2px}.orbit-item span{padding:24px 4px 11px;font-size:12px;letter-spacing:.06em}.orbit-one{top:1%;left:-2%}.orbit-two{top:55%;right:-4%}.orbit-three{bottom:-3%;left:-4%}}
