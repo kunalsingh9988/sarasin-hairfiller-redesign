@@ -109,3 +109,109 @@ h1 em,h2 em{font-family:inherit;font-weight:500;font-style:normal;letter-spacing
 .product-bridge small{font-size:12px}
 .wordmark-small{font-size:11px}
 @media(max-width:560px){.quick-facts small{font-size:10px}.guide-card nav a{font-size:12px}.price-grid .price-amount span{font-size:11px}.wordmark-small{font-size:10px}}
+
+/* Keep patient photography, its controls, and its caption in distinct rows. */
+.hero-image{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:12px;padding-block:34px}
+.hero-result-frame{flex:none;width:min(100%,575px);aspect-ratio:1;margin-top:31px}
+.hero-result-frame img{display:block;width:100%;height:100%;object-fit:contain;box-shadow:none}
+.hero-carousel-controls{position:static;display:flex;justify-content:center;align-items:center;gap:2px;margin:0;order:2}
+.hero-carousel-dot{display:grid;place-items:center;width:44px;height:44px;border:0;background:transparent}
+.hero-carousel-dot::after{content:"";width:10px;height:10px;border:1px solid var(--deep);border-radius:50%;background:transparent}
+.hero-carousel-dot.is-active{background:transparent}
+.hero-carousel-dot.is-active::after{background:var(--deep)}
+.hero-carousel-pause{width:44px;height:44px;margin:0 0 0 5px}
+.hero-image .image-label{position:static;order:3;display:block;width:min(100%,575px);max-width:none;margin:0;padding:0 4px;background:transparent;text-align:center;font-size:12px;line-height:1.45;color:#31554c}
+.comparison-tags{gap:8px}
+.comparison-tags span{font-size:11px;line-height:1.2}
+.hero-result-frame .comparison-tags{top:-32px;left:0;right:0}
+.price-grid .price-kicker{font-size:11px}
+
+/* Media should show its entire source, including the treatment-zone diagram. */
+.price-illustration{height:auto;aspect-ratio:8/5;object-fit:contain}
+.faq-result img{height:auto;max-height:none;object-fit:contain}
+.next-photo img{height:auto;aspect-ratio:1;object-fit:contain}
+.video-card{display:grid;grid-template-columns:minmax(0,40%) minmax(0,1fr);align-items:center;background:#e7f1ed}
+.video-card img{width:100%;height:100%;object-fit:contain;object-position:center;filter:none;transition:none;background:#dcebe5}
+.video-card-title{position:static;min-width:0;padding:22px;color:var(--ink);background:none;font-size:clamp(19px,2vw,28px);line-height:1.2}
+.video-card-title small{margin-top:12px;color:#315c51;font-size:12px}
+.video-card .play{top:50%;left:20%;width:48px;height:48px;background-size:22px}
+
+/* Touch-sized controls and small-screen reflow. */
+html{-webkit-text-size-adjust:100%;-webkit-tap-highlight-color:transparent}
+a,button,summary{touch-action:manipulation}
+button{-webkit-user-select:none;user-select:none}
+.guide-card nav a{min-height:44px}
+.audience-links a{display:inline-flex;align-items:center;min-height:44px}
+.trust-bar a{white-space:normal;overflow-wrap:anywhere}
+h1,h2,h3,.video-card-title,.product-bridge{overflow-wrap:anywhere}
+.site-header{padding-left:env(safe-area-inset-left,0px);padding-right:env(safe-area-inset-right,0px)}
+.site-footer{padding-bottom:calc(22px + env(safe-area-inset-bottom,0px))}
+@media(hover:none){.button:hover{transform:none}.video-card:hover img{transform:none}.related a:hover{padding-left:0}}
+.button:active,.video-card:active,.menu-toggle:active{transform:scale(.98)}
+
+@media(max-width:800px){
+  .price-grid{grid-template-columns:1fr}
+  .price-grid .price-card{display:grid;grid-template-columns:minmax(0,30%) minmax(0,70%);min-height:0}
+  .price-illustration{width:100%;height:100%;aspect-ratio:auto;object-fit:contain}
+  .price-card-content{min-width:0}
+  .price-grid .price-description{min-height:0}
+  .video-card{height:270px}
+}
+@media(max-width:560px){
+  .announcement{font-size:10px;line-height:1.3;letter-spacing:.06em;text-align:center}
+  .breadcrumbs{font-size:11px}
+  .quick-facts small{font-size:11px}
+  .hero-image{gap:8px;padding-block:20px 24px}
+  .hero-image .image-label{max-width:none;padding:0 5px;text-align:center;font-size:11px}
+  .comparison-tags span{font-size:10px;padding:6px 7px}
+  .price-grid .price-card{grid-template-columns:1fr}
+  .price-illustration{height:auto;aspect-ratio:8/5;object-fit:contain}
+  .video-card{height:230px}
+  .video-card-title{font-size:19px;padding:13px}
+  .video-card-title small{font-size:11px}
+  .video-card .play{width:42px;height:42px;background-size:19px}
+  .orbit{display:flex;flex-wrap:wrap;align-content:center;justify-content:center;gap:12px;width:100%;height:auto;aspect-ratio:auto;margin:26px 0 0;border:0}
+  .orbit::before,.orbit::after{display:none}
+  .orbit-center{flex:0 0 100%;font-size:31px;line-height:1;text-align:center;margin-bottom:5px}
+  .orbit-item,.orbit-one,.orbit-two,.orbit-three{position:relative;top:auto;right:auto;bottom:auto;left:auto;flex:0 0 calc((100% - 12px)/2);width:calc((100% - 12px)/2);height:auto;aspect-ratio:1;box-shadow:none}
+  .orbit-item span{font-size:11px;letter-spacing:.04em;padding:24px 3px 11px}
+  .orbit-note{margin-top:16px}
+}
+@media(max-width:390px){
+  .wrap{width:calc(100% - 48px);margin-inline:24px}
+  .announcement{padding-inline:24px}
+  .hero-copy{padding-inline:24px}
+  .hero-image{padding-inline:24px}
+  .hero h1{font-size:clamp(36px,9.8vw,42px)}
+  .comparison-tags{left:24px;width:calc(100% - 48px)}
+  .price-grid .price-card{grid-template-columns:1fr}
+  .price-card-content{padding:18px}
+}
+@media(max-width:280px){
+  .wrap{width:calc(100% - 32px);margin-inline:16px}
+  .announcement{padding-inline:16px}
+  .hero-copy{padding-inline:16px}
+  .hero-image{padding-inline:16px}
+  .hero h1{font-size:32px}
+  .hero-buttons{width:100%;min-width:0}
+  .hero-buttons .button,.bridge-actions .button{width:100%;min-width:0;gap:6px;padding-inline:12px;overflow-wrap:anywhere}
+  .hero-buttons .text-link{white-space:normal;overflow-wrap:anywhere}
+  .quick-facts{grid-template-columns:1fr}
+  .quick-facts>div{min-width:0}
+  .quick-facts>div+div{border-left:0;margin-left:0}
+  .comparison-tags span{font-size:9px}
+  .video-card{grid-template-columns:minmax(0,36%) minmax(0,64%)}
+  .video-card .play{left:18%}
+}
+@media(max-width:200px){
+  .header-inner{height:auto;min-height:68px;flex-wrap:wrap;gap:0;padding-block:10px}
+  .wordmark{font-size:25px}
+  .menu-toggle{flex:0 0 44px}
+  .breadcrumbs{position:static;flex-wrap:wrap;gap:4px 6px;margin-bottom:20px}
+  .hero-copy{padding-top:28px}
+  .hero-carousel-controls{max-width:100%;flex-wrap:wrap}
+  .page-guides,.guide-card,.intro,.fit-grid,.result-grid,.care-grid,.longevity-grid,.next-grid{grid-template-columns:minmax(0,1fr)}
+  .guide-card nav a,.guide-cta,.fit-content,.result-copy,.next-copy,.related,.related a{min-width:0;overflow-wrap:anywhere}
+  .guide-card nav a span,.guide-cta span,.related a span{flex:none}
+  .fit-content .button,.next-copy .button{width:100%;min-width:0;gap:6px;padding-inline:8px;overflow-wrap:anywhere}
+}
