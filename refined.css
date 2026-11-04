@@ -271,9 +271,6 @@ summary,.button{overflow-wrap:anywhere}
 .longevity-grid h2{font-size:clamp(40px,4.5vw,65px)}
 .longevity-grid .bridge-actions{margin-block:14px}
 .faq-content{padding-top:0}
-.faq-photo-details{margin-top:20px;border-top:1px solid var(--line)}
-.faq-photo-details summary{font-size:14px}
-.faq-photo-details .faq-result{margin-top:0}
 .faq-grid{align-items:start}
 .trust-bar{scroll-margin-top:90px}
 .trust-bar span,.related h3,.price-grid .price-kicker{color:#48665e}
@@ -352,8 +349,6 @@ summary,.button{overflow-wrap:anywhere}
   .faq{padding-block:40px}
   .faq-grid{grid-template-columns:minmax(0,1fr);gap:18px}
   .faq-aside h2{margin-bottom:0}
-  .faq-photo-details{margin-top:16px}
-  .faq-photo-details summary{padding-block:14px}
   .faq-content summary{font-size:16px;padding-block:15px}
   .next-grid{grid-template-columns:minmax(0,.8fr) minmax(0,1.2fr);gap:22px;padding-block:40px;align-items:start}
   .next-copy{grid-column:1/-1;grid-row:1}

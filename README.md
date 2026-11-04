@@ -21,7 +21,7 @@ Run `python3 -m http.server 8000` in this directory, then open `http://localhost
 
 ## Compact mobile reading flow
 
-The overview and suitability content are combined. Both page-navigation sections remain available as native disclosures. On screens up to 800px, navigation panels, zone descriptions and the extra FAQ photograph start closed; their full content remains in the HTML and opens with a tap or keyboard. Desktop starts with these panels expanded. Prices, quantities, zone illustrations, treatment steps, the main patient result, videos and longevity content stay visible in the primary reading flow. Additional patient examples are available in the results and FAQ sections.
+The overview and suitability content are combined. Both page-navigation sections remain available as native disclosures. On screens up to 800px, navigation panels and zone descriptions start closed; their full content remains in the HTML and opens with a tap or keyboard. Desktop starts with these panels expanded. Prices, quantities, zone illustrations, treatment steps, the main patient result, videos and longevity content stay visible in the primary reading flow. Additional patient examples are available in the results section. The FAQ contains its heading and questions without a patient photograph.
 
 The product thumbnail has a smaller WebP version; clinical before/after photographs remain unchanged. Image dimensions reserve space during loading. Structured data covers the page, breadcrumbs and the six visible FAQ entries.
 
