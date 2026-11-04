@@ -215,3 +215,225 @@ h1,h2,h3,.video-card-title,.product-bridge{overflow-wrap:anywhere}
   .guide-card nav a span,.guide-cta span,.related a span{flex:none}
   .fit-content .button,.next-copy .button{width:100%;min-width:0;gap:6px;padding-inline:8px;overflow-wrap:anywhere}
 }
+
+/* A shorter reading flow, with the complete detail one tap away. */
+h1,h2,h3,h1 em,h2 em{letter-spacing:-.035em}
+.hero-source{display:inline-flex;align-items:center;gap:8px;margin-top:22px;color:#42685c;font-size:12px}
+.hero-source img{width:17px;height:17px;flex:none}
+.guide-card{display:block;padding:26px}
+.guide-card summary{padding:0;min-height:52px;align-items:center}
+.guide-card summary h2{margin:0;font-size:clamp(25px,2.3vw,35px)}
+.guide-card summary>span{flex:none}
+.guide-card nav{grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:0 20px;margin-top:22px}
+.guide-card nav a{min-width:0;min-height:44px;line-height:1.35}
+.guide-card nav a:nth-child(2){border-top:1px solid #c5dad2}
+.guide-card .guide-cta{margin-top:16px}
+.treatment-overview{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:5%;align-items:start}
+.treatment-overview h2,.section-top>h2{font-size:clamp(38px,4vw,60px);margin-bottom:22px}
+.treatment-explainer p{max-width:65ch;font-size:15px}
+.treatment-explainer .lead{font-size:21px;line-height:1.4;color:var(--ink)}
+.suitability{padding:28px;background:#e8f3ef;border-radius:18px;min-width:0}
+.suitability h3{font-size:24px;line-height:1.15;margin-bottom:14px}
+.suitability>p{font-size:14px}
+.suitability .small-note{font-size:12px;margin-bottom:8px}
+.suitability .check-list{margin-block:14px}
+.suitability .audience-links{margin:0;gap:0 18px}
+.steps article{display:flex;align-items:flex-start;gap:16px;min-height:0;padding:24px}
+.steps article>span{flex:0 0 35px}
+.steps article>div{min-width:0}
+.steps h3{font-size:22px;line-height:1.2;margin:2px 0 10px}
+.steps p{font-size:14px;margin:0}
+.result-copy h2{font-size:clamp(38px,4vw,59px)}
+.extra-results{border-top:1px solid #759b8f;margin-top:20px;max-width:500px}
+.extra-results summary{font-size:14px;color:#fff}
+.extra-results summary span{filter:brightness(0) invert(1)}
+.extra-results img{width:100%;height:auto;border-radius:14px}
+.extra-results figcaption{font-size:12px;color:#d5e5df;line-height:1.5;margin-top:10px}
+.price-grid .price-card{display:block}
+.price-overview{min-width:0}
+.price-overview .price-illustration{width:100%;height:auto;aspect-ratio:8/5;object-fit:contain}
+.price-card-heading{padding:22px 24px 0}
+.price-card-heading h3{font-size:23px;margin-block:10px 15px}
+.price-card-heading .price-amount{flex-wrap:wrap;gap:4px 12px}
+.price-card-heading .price-amount strong{font-size:40px}
+.zone-details{margin:20px 24px 0;border-top:1px solid #cbdcd4}
+.zone-details summary{padding-block:16px;font-size:14px}
+.zone-details summary>span{font-size:0}
+summary,.button{overflow-wrap:anywhere}
+.orbit-center{overflow-wrap:anywhere}
+.zone-details p{font-size:14px;margin-bottom:12px}
+.zone-details>div{padding-bottom:8px}
+.price-followup{display:flex;align-items:center;justify-content:space-between;gap:24px;margin-top:18px}
+.price-followup .price-note{margin:0;max-width:75ch}
+.price-followup .button{flex:none}
+.section-top>h2{margin-bottom:0}
+.care-grid h2,.faq h2,.next-section h2{font-size:clamp(38px,4vw,60px)}
+.longevity-grid h2{font-size:clamp(40px,4.5vw,65px)}
+.longevity-grid .bridge-actions{margin-block:14px}
+.faq-content{padding-top:0}
+.faq-photo-details{margin-top:20px;border-top:1px solid var(--line)}
+.faq-photo-details summary{font-size:14px}
+.faq-photo-details .faq-result{margin-top:0}
+.faq-grid{align-items:start}
+.trust-bar{scroll-margin-top:90px}
+.trust-bar span,.related h3,.price-grid .price-kicker{color:#48665e}
+.guide-card h2 em{color:#426b60}
+.orbit-item{box-shadow:none}
+::selection{background:#c7e3d6;color:#153e3a}
+
+@media(max-width:1000px){.price-followup{align-items:flex-start;flex-direction:column}}
+@media(max-width:800px){
+  :root{--mobile-gutter:clamp(24px,6vw,48px)}
+  .wrap{width:calc(100% - var(--mobile-gutter)*2);margin-inline:var(--mobile-gutter)}
+  .hero-copy.wrap{width:100%;margin:0;padding-inline:var(--mobile-gutter)}
+  .hero-image,.announcement{padding-inline:var(--mobile-gutter)}
+  .section-space{padding-block:40px}
+  .hero-copy{padding-top:24px;padding-bottom:26px}
+  .breadcrumbs{position:static;flex-wrap:wrap;margin-bottom:22px}
+  .hero h1{font-size:clamp(36px,6vw,52px);margin-bottom:18px}
+  .hero-lede{font-size:15px;line-height:1.6;margin-bottom:12px}
+  .hero-buttons{margin-top:10px;gap:16px}
+  .hero-source{margin-top:16px}
+  .hero-image{padding-block:10px 20px;gap:5px}
+  .hero-result-frame{width:min(100%,420px)}
+  .page-guides{padding-top:26px;gap:12px}
+  .guide-card{padding:20px}
+  .guide-card summary h2{font-size:24px}
+  .guide-card nav{margin-top:14px}
+  .treatment-overview{grid-template-columns:minmax(0,1fr);gap:22px}
+  .treatment-overview h2,.section-top>h2,.result-copy h2,.care-grid h2,.faq h2,.next-section h2,.longevity-grid h2{font-size:clamp(31px,5.2vw,42px);line-height:1.12}
+  .treatment-explainer .lead{font-size:18px}
+  .treatment-explainer p{margin-bottom:14px}
+  .suitability{padding:22px}
+  .suitability h3{font-size:23px}
+  .suitability .check-list{grid-template-columns:1fr 1fr}
+  .journey{padding-top:0}
+  .steps{grid-template-columns:minmax(0,1fr);gap:10px}
+  .steps article{padding:18px 20px;gap:14px}
+  .steps h3{font-size:20px;margin-bottom:7px}
+  .steps p{max-width:none;font-size:14px;line-height:1.55}
+  .section-top{gap:18px;margin-bottom:24px}
+  .section-top>p{margin:0}
+  .result-grid,.care-grid,.longevity-grid{padding-block:40px;gap:24px}
+  .result-copy h2{margin-bottom:18px}
+  .result-copy p:not(.eyebrow){margin-bottom:12px}
+  .result-image{width:min(100%,420px);margin-inline:auto}
+  .extra-results{margin-top:14px}
+  .extra-results summary{padding-block:14px}
+  .price-grid{grid-template-columns:minmax(0,1fr);gap:12px}
+  .price-grid .price-card{display:block}
+  .price-overview{display:grid;grid-template-columns:104px minmax(0,1fr);align-items:center;gap:16px;padding:18px}
+  .price-overview .price-illustration{width:104px;height:104px;aspect-ratio:1;object-fit:contain;background:transparent}
+  .price-card-heading{padding:0}
+  .price-card-heading h3{font-size:21px;line-height:1.2;margin:7px 0 10px}
+  .price-card-heading .price-amount strong{font-size:34px}
+  .zone-details{margin:0 18px}
+  .zone-details summary{padding-block:13px;font-size:13px}
+  .price-followup{gap:14px}
+  .care-grid{grid-template-columns:minmax(0,1fr);gap:16px}
+  .care-grid>div:first-child>p{margin-bottom:0}
+  .video-grid{grid-template-columns:1fr 1fr;gap:12px}
+  .video-card{display:flex;flex-direction:column;justify-content:flex-start;align-items:stretch;height:auto}
+  .video-card img{width:100%;height:220px;object-fit:contain}
+  .video-card .play{left:50%;top:110px}
+  .video-card-title{font-size:21px;line-height:1.2;padding:18px;min-height:100px}
+  .video-card-title small{font-size:12px;margin-top:8px}
+  .longevity-grid{gap:22px}
+  .longevity-grid>div:first-child>p{font-size:15px;line-height:1.6}
+  .product-bridge{margin-top:18px;width:100%}
+  .longevity-grid small{font-size:12px;line-height:1.5}
+  .orbit{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;width:min(100%,420px);height:auto;aspect-ratio:auto;border:0;margin:0 auto}
+  .orbit::before,.orbit::after{display:none}
+  .orbit-center{grid-column:1/-1;margin-bottom:0;font-size:25px;line-height:1.05}
+  .orbit-center br{display:none}
+  .orbit-item,.orbit-one,.orbit-two,.orbit-three{position:relative;inset:auto;flex:none;width:100%;height:auto;aspect-ratio:1;box-shadow:none}
+  .orbit-item span{font-size:11px;letter-spacing:.03em;padding:23px 2px 10px}
+  .orbit-note{margin-top:12px}
+  .faq{padding-block:40px}
+  .faq-grid{grid-template-columns:minmax(0,1fr);gap:18px}
+  .faq-aside h2{margin-bottom:0}
+  .faq-photo-details{margin-top:16px}
+  .faq-photo-details summary{padding-block:14px}
+  .faq-content summary{font-size:16px;padding-block:15px}
+  .next-grid{grid-template-columns:minmax(0,.8fr) minmax(0,1.2fr);gap:22px;padding-block:40px;align-items:start}
+  .next-copy{grid-column:1/-1;grid-row:1}
+  .next-photo{grid-column:1;grid-row:2;width:100%;align-self:center}
+  .next-grid .related{grid-column:2;grid-row:2;align-self:center}
+  .next-photo figcaption{font-size:11px;line-height:1.4}
+  .next-grid .related h3{margin-bottom:6px;font-size:11px}
+  .related a{font-size:18px;padding-block:11px;min-height:44px}
+  .site-footer{padding-top:36px}
+  .footer-grid{grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:20px}
+  .footer-grid>div:first-child{grid-column:1/-1}
+  .footer-grid>div:nth-child(2){grid-column:1;grid-row:2}
+  .footer-grid>div:nth-child(4){grid-column:2;grid-row:2}
+  .footer-grid>div:nth-child(3){grid-column:1/-1;grid-row:3}
+  .footer-grid>div:nth-child(3) a{display:inline-block;margin-right:18px}
+  .footer-bottom{margin-top:24px;padding-top:16px}
+}
+@media(max-width:560px){
+  .hero h1{font-size:clamp(36px,8.5vw,44px)}
+  .hero-buttons{gap:14px}
+  .hero-source{margin-top:14px}
+  .quick-facts{padding-block:20px;gap:17px 10px}
+  .guide-card summary h2{font-size:22px}
+  .page-guides .guide-card nav{grid-template-columns:1fr 1fr;gap:0 12px}
+  .guide-card nav a{font-size:12px}
+  .guide-card nav a:nth-child(2){border-top:1px solid #c5dad2}
+  .section-space{padding-block:34px}
+  .treatment-overview h2,.section-top>h2,.result-copy h2,.care-grid h2,.faq h2,.next-section h2,.longevity-grid h2{font-size:32px}
+  .suitability{padding:20px}
+  .suitability .check-list{grid-template-columns:minmax(0,1fr);margin-block:10px}
+  .suitability .check-list li{font-size:14px;line-height:1.4;padding-block:9px}
+  .suitability .audience-links{gap:0 12px}
+  .suitability .audience-links a{font-size:12px}
+  .journey{padding-top:0}
+  .steps article{padding:16px;gap:12px}
+  .steps article>span{flex-basis:30px;width:30px;height:30px}
+  .steps h3{font-size:19px}
+  .result-grid,.care-grid,.longevity-grid,.next-grid{padding-block:34px}
+  .result-image{width:100%}
+  .result-copy .light-link{font-size:12px;margin-top:12px}
+  .price-overview{grid-template-columns:80px minmax(0,1fr);gap:12px;padding:16px}
+  .price-overview .price-illustration{width:80px;height:90px}
+  .price-card-heading h3{font-size:18px;margin-block:6px 8px}
+  .price-card-heading .price-amount strong{font-size:30px}
+  .price-grid .price-kicker{font-size:10px;letter-spacing:.06em}
+  .price-card-heading .price-amount span{font-size:11px}
+  .zone-details{margin-inline:16px}
+  .zone-details p{font-size:14px}
+  .price-followup .button{width:100%;gap:14px}
+  .video-grid{gap:10px}
+  .video-card img{height:180px}
+  .video-card .play{top:90px;left:50%;width:42px;height:42px}
+  .video-card-title{font-size:17px;padding:13px 12px;min-height:95px}
+  .video-card-title{line-height:1.3}
+  .video-card-title small{font-size:11px}
+  .product-bridge{gap:12px;padding:12px}
+  .product-bridge img{width:72px;height:90px}
+  .product-bridge strong{font-size:14px}
+  .orbit{gap:9px;margin-top:0}
+  .orbit-item span{font-size:11px;letter-spacing:0;padding-bottom:9px}
+  .price-grid .price-kicker,.wordmark-small{font-size:11px}
+  .orbit-note{font-size:11px}
+  .faq{padding-block:34px}
+  .faq-content summary{font-size:15px;padding-block:14px}
+  .next-grid{gap:20px 16px}
+  .related a{font-size:16px}
+}
+@media(max-width:360px){.page-guides .guide-card nav{grid-template-columns:minmax(0,1fr)}.guide-card nav a:nth-child(2){border-top:0}}
+@media(max-width:280px){
+  :root{--mobile-gutter:16px}
+  p,li,a{overflow-wrap:anywhere}
+  .steps article{display:block}
+  .steps article>span{margin-bottom:10px}
+  .price-overview{grid-template-columns:minmax(0,1fr)}
+  .price-overview .price-illustration{width:100%;height:100px}
+  .video-grid{grid-template-columns:minmax(0,1fr)}
+  .orbit{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .orbit-item:last-child{grid-column:1/-1;width:50%;justify-self:center}
+  .next-grid{grid-template-columns:minmax(0,1fr)}
+  .next-photo,.next-grid .related{grid-column:1;grid-row:auto}
+  .footer-grid{grid-template-columns:minmax(0,1fr)}
+  .footer-grid>div:nth-child(n){grid-column:1;grid-row:auto}
+}

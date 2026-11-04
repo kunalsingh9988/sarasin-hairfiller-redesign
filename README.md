@@ -1,6 +1,6 @@
 # Sarasin Clinic Hairfiller page concept
 
-Standalone HTML, CSS and JavaScript redesign of the [Hairfiller page](https://sarasinclinic.com/behandelingen/hairfiller/). This is a concept deployment on Vercel and does not change the clinic website or Shopify theme.
+Standalone HTML, CSS and JavaScript refinement of the [Hairfiller page](https://sarasinclinic.com/behandelingen/hairfiller/). This is a concept deployment on Vercel and does not change the clinic website or Shopify theme.
 
 ## Approach
 
@@ -18,3 +18,15 @@ The supplied Figma frame was visible in the browser but the connected Figma inte
 ## Local preview
 
 Run `python3 -m http.server 8000` in this directory, then open `http://localhost:8000`.
+
+## Compact mobile reading flow
+
+The overview and suitability content are combined. Both page-navigation sections remain available as native disclosures. On screens up to 800px, navigation panels, zone descriptions and the extra FAQ photograph start closed; their full content remains in the HTML and opens with a tap or keyboard. Desktop starts with these panels expanded. Prices, quantities, zone illustrations, treatment steps, the main patient result, videos and longevity content stay visible in the primary reading flow. Additional patient examples are available in the results and FAQ sections.
+
+The product thumbnail has a smaller WebP version; clinical before/after photographs remain unchanged. Image dimensions reserve space during loading. Structured data covers the page, breadcrumbs and the six visible FAQ entries.
+
+At a 390 × 844 Chromium viewport, the default reading flow decreased from 13,025px to 7,727px (about 41%). This compares the normal initial states, with the secondary disclosures available to expand. Responsive checks covered 160–1920px widths, and keyboard/disclosure, navigation, carousel, FAQ and video interactions were checked at phone, tablet and desktop widths. Physical iOS/Android device behavior has not been verified.
+
+## Clinic-site handoff
+
+This review deployment deliberately uses `noindex,follow` and a canonical link to the existing clinic page. When integrating the approved design into the clinic's real URL, confirm its intended indexing policy, retain a self-referencing canonical and verify the rendered page in Search Console. Recheck clinical copy, prices, booking links, the sitemap, internal links and the clinic's existing structured data in that environment. The preview does not verify or change those production settings. FAQ markup describes visible content and does not guarantee a rich search result.

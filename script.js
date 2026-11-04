@@ -1,6 +1,24 @@
 const menuToggle = document.querySelector('.menu-toggle');
 const mobileMenu = document.querySelector('#mobile-menu');
 
+// Keep secondary detail available on demand on phones, expanded on desktop.
+const compactReading = window.matchMedia('(max-width: 800px)');
+const readingDetails = [...document.querySelectorAll('[data-mobile-disclosure]')];
+function adaptReadingDetails() {
+  readingDetails.forEach((details) => { details.open = !compactReading.matches; });
+}
+adaptReadingDetails();
+compactReading.addEventListener('change', adaptReadingDetails);
+
+document.querySelectorAll('a[href^="#"]').forEach((link) => {
+  link.addEventListener('click', () => {
+    const target = document.getElementById(link.getAttribute('href').slice(1));
+    for (let parent = target?.parentElement; parent; parent = parent.parentElement) {
+      if (parent instanceof HTMLDetailsElement) parent.open = true;
+    }
+  });
+});
+
 menuToggle?.addEventListener('click', () => {
   const isOpen = menuToggle.getAttribute('aria-expanded') === 'true';
   menuToggle.setAttribute('aria-expanded', String(!isOpen));
