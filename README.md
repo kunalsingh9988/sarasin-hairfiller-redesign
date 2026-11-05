@@ -8,6 +8,7 @@ Standalone HTML, CSS and JavaScript refinement of the [Hairfiller page](https://
 - Compact disclosure sections preserve care details and common questions without making the main reading path long.
 - One clear booking destination and relevant links to the clinic's priority treatments and webshop.
 - Semantic headings, descriptive metadata, responsive layout, keyboard accessible navigation and video dialog.
+- Mobile navigation overlays the page without changing the header height or page position. The background is locked while open; Escape, the backdrop, navigation links and the close button dismiss it. Short viewports scroll within the menu, and returning to desktop clears the overlay state.
 
 The before/after photographs and video stills are from the existing public Sarasin Clinic Hairfiller page. The hero and supporting result imagery include patients of different genders and show actual treatment journeys. The three `assets/vision-*.jpg` images in the Sarasin 360° graphic were generated as editorial illustrations; they are not photographs of Sarasin staff, patients, products, or facilities. Individual results vary; the clinic should review result captions and clinical claims before this concept replaces production content. Pricing and instructions were transcribed from the page as viewed on 2 November 2026 and should be confirmed before launch. Icons are from [Lucide](https://lucide.dev/) and include the package license in `assets/icons/LICENSE`.
 
