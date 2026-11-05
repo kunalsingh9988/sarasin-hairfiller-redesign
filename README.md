@@ -14,6 +14,8 @@ The before/after photographs and video stills are from the existing public Saras
 
 The closing consultation section uses the Beveren interior photograph from the public Sarasin Clinic homepage.
 
+The pricing cards use three AI-generated photorealistic scalp images instead of SVG diagrams. These are illustrative examples of local, medium and broader thinning, not patient photographs, treatment results, diagnostic categories or guaranteed coverage for a given volume. The page explicitly discloses this. Asset paths and generation prompts are documented in [assets/zone-images.md](assets/zone-images.md).
+
 The supplied Figma frame was visible in the browser but the connected Figma integration lacked permission to inspect its layers and assets. This version uses the visible frame, the live Sarasin Clinic homepage and the Hairfiller page as visual and content references. The canonical URL points to the existing clinic page to avoid competing search listings while this remains a separate concept deployment.
 
 ## Local preview
