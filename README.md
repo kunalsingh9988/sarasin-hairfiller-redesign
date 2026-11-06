@@ -32,4 +32,6 @@ At a 390 × 844 Chromium viewport, the default reading flow decreased from 13,02
 
 ## Clinic-site handoff
 
+The [6 November client-feedback checklist](CLIENT-FEEDBACK-2026-11-06.md) records the implementation, verification and remaining client dependencies. Booking buttons use a contrasting citrine accent, and the pricing cards now use simple zone headings with indicative outlines and captions on the example scalp images. The corresponding Figma review frames received the requested refinements, but are not a complete synchronized copy of every website section.
+
 This review deployment deliberately uses `noindex,follow` and a canonical link to the existing clinic page. When integrating the approved design into the clinic's real URL, confirm its intended indexing policy, retain a self-referencing canonical and verify the rendered page in Search Console. Recheck clinical copy, prices, booking links, the sitemap, internal links and the clinic's existing structured data in that environment. The preview does not verify or change those production settings. FAQ markup describes visible content and does not guarantee a rich search result.

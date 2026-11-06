@@ -3,7 +3,7 @@
 @font-face{font-family:"Bricolage Grotesque";src:url("assets/fonts/BricolageGrotesque-SemiBold.woff2") format("woff2");font-weight:600;font-display:swap}
 @font-face{font-family:"Bricolage Grotesque";src:url("assets/fonts/BricolageGrotesque-Bold.woff2") format("woff2");font-weight:700;font-display:swap}
 
-:root{--ink:#153e3a;--deep:#12433d;--mint:#e8f3ef;--cream:#f7f8f5;--line:#d8e8e2;--body:#455f59}
+:root{--ink:#153e3a;--deep:#12433d;--mint:#e8f3ef;--cream:#f7f8f5;--line:#d8e8e2;--body:#455f59;--action:#dce784;--action-hover:#cbd865;--action-border:#667328}
 html{scroll-padding-top:100px}
 body{font-family:"Bricolage Grotesque",Arial,sans-serif}
 h1,h2,h3{letter-spacing:-.045em;font-weight:600}
@@ -17,6 +17,12 @@ h1 em,h2 em{font-family:inherit;font-weight:500;font-style:normal;letter-spacing
 .section-space{padding-block:76px}
 .button{border-radius:11px;min-height:51px;transition:background .2s,color .2s,transform .2s}
 .button-small{min-height:42px}
+/* Reserve the contrasting citrine accent for consultation actions. */
+.button[href^="https://booking.sarasinclinic.com/"]{background:var(--action);border-color:var(--action-border);color:var(--deep);font-weight:700}
+.button[href^="https://booking.sarasinclinic.com/"]:hover{background:var(--action-hover);border-color:var(--deep);color:var(--deep)}
+.button[href^="https://booking.sarasinclinic.com/"]:active{background:#bfce56}
+.button[href^="https://booking.sarasinclinic.com/"]:focus-visible{outline-color:var(--deep)}
+.button[href^="https://booking.sarasinclinic.com/"] span{filter:none}
 .button:focus-visible,a:focus-visible,summary:focus-visible,.video-card:focus-visible,.menu-toggle:focus-visible{outline:3px solid #3e9082;outline-offset:4px}
 .site-header{background:rgba(251,252,249,.97)}
 .header-inner{height:76px}
@@ -253,8 +259,16 @@ h1,h2,h3,h1 em,h2 em{letter-spacing:-.035em}
 .price-grid .price-card{display:block}
 .price-overview{min-width:0}
 .price-overview .price-illustration{width:100%;height:auto;aspect-ratio:8/5;object-fit:contain}
+.zone-visual{margin:0;min-width:0}
+.zone-photo{position:relative;overflow:hidden}
+.price-overview .zone-photo .price-illustration{width:100%;height:auto;aspect-ratio:960/601;object-fit:contain}
+.zone-marker{position:absolute;left:54%;top:57%;width:18%;height:24%;transform:translate(-50%,-50%);border:2px dashed #fff;outline:1px solid #153e3a;border-radius:50%;pointer-events:none}
+.zone-medium .zone-marker{left:51%;top:50%;width:39%;height:57%}
+.zone-large .zone-marker{left:52%;top:50%;width:63%;height:82%}
+.zone-visual figcaption{padding:10px 24px;color:var(--deep);font-size:13px;line-height:1.4;background:#e8f3ef}
 .price-card-heading{padding:22px 24px 0}
-.price-card-heading h3{font-size:23px;margin-block:10px 15px}
+.price-card-heading h3{font-size:23px;margin-block:0 9px}
+.price-card-heading .price-kicker{display:block;margin-bottom:16px;text-transform:none;letter-spacing:0;font-size:13px}
 .price-card-heading .price-amount{flex-wrap:wrap;gap:4px 12px}
 .price-card-heading .price-amount strong{font-size:40px}
 .zone-details{margin:20px 24px 0;border-top:1px solid #cbdcd4}
@@ -322,8 +336,10 @@ summary,.button{overflow-wrap:anywhere}
   .price-grid .price-card{display:block}
   .price-overview{display:grid;grid-template-columns:104px minmax(0,1fr);align-items:center;gap:16px;padding:18px}
   .price-overview .price-illustration{width:104px;height:104px;aspect-ratio:1;object-fit:contain;background:transparent}
+  .zone-visual figcaption{padding:7px 0 0;background:transparent;font-size:11px;line-height:1.35}
   .price-card-heading{padding:0}
-  .price-card-heading h3{font-size:21px;line-height:1.2;margin:7px 0 10px}
+  .price-card-heading h3{font-size:21px;line-height:1.2;margin:0 0 7px}
+  .price-card-heading .price-kicker{margin-bottom:10px;font-size:12px}
   .price-card-heading .price-amount strong{font-size:34px}
   .zone-details{margin:0 18px}
   .zone-details summary{padding-block:13px;font-size:13px}
@@ -390,9 +406,9 @@ summary,.button{overflow-wrap:anywhere}
   .result-grid,.care-grid,.longevity-grid,.next-grid{padding-block:34px}
   .result-image{width:100%}
   .result-copy .light-link{font-size:12px;margin-top:12px}
-  .price-overview{grid-template-columns:80px minmax(0,1fr);gap:12px;padding:16px}
+  .price-overview{grid-template-columns:104px minmax(0,1fr);gap:12px;padding:16px}
   .price-overview .price-illustration{width:80px;height:90px}
-  .price-card-heading h3{font-size:18px;margin-block:6px 8px}
+  .price-card-heading h3{font-size:18px;margin-block:0 6px}
   .price-card-heading .price-amount strong{font-size:30px}
   .price-grid .price-kicker{font-size:10px;letter-spacing:.06em}
   .price-card-heading .price-amount span{font-size:11px}
