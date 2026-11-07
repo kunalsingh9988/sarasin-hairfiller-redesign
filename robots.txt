@@ -1,0 +1,4 @@
+# Review deployment. HTML and HTTP noindex remain enabled until launch approval.
+# The production WordPress domain, canonicals and sitemap must be confirmed by Joachim.
+User-agent: *
+Allow: /

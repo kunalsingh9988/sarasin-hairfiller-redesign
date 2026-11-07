@@ -1,0 +1,71 @@
+{
+  "source": "https://sarasinclinic.com/behandelingen/hairfiller/",
+  "reviewDate": "2026-11-07",
+  "peptides": [
+    ["Decapeptide-10", "CG-Keramin2", "Ondersteuning van hoofdhuid en haarwortel"],
+    ["Octapeptide-11", "CG-Seperin", "Beoogde bescherming tegen stressgerelateerde celschade"],
+    ["Octapeptide-2", "Prohairin-β4", "Ondersteuning van de activiteit van haarfollikels"],
+    ["Decapeptide-18", "CG-WINT", "Beoogde ondersteuning van folliculaire activiteit"],
+    ["Decapeptide-28", "CG-Rehairin", "Beoogde ondersteuning bij haaruitval"],
+    ["Oligopeptide-54", "CG-Nokkin", "Beoogde ondersteuning bij haarverlies"],
+    ["Oligopeptide-71", "CG-Edrin", "Beoogde ondersteuning van haargroei"]
+  ],
+  "comparison": [
+    ["Werking", "Peptide-hyaluronzuurformule via injecties in de hoofdhuid.", "Naaldvrije behandeling met gecontroleerde microstroom (CLEM)."],
+    ["Voor wie", "Bij dunner haar of diffuus haarverlies, als injecties passend zijn.", "Bij diffuse haaruitval of wie een naaldvrije aanpak zoekt; geschiktheid wordt beoordeeld."],
+    ["Comfort", "Prikjes kunnen gevoelig zijn; tijdelijke roodheid of zwelling is mogelijk.", "De clinic beschrijft de behandeling als doorgaans comfortabel en ontspannend."],
+    ["Startkuur", "Doorgaans 4 sessies, ongeveer 2–4 weken uit elkaar; jouw behandelaar bepaalt het protocol.", "De bronpagina noemt 4–6 wekelijkse sessies; bevestig jouw plan tijdens het consult."],
+    ["Wanneer evalueren?", "De bronpagina noemt eerste veranderingen na 4–6 weken en evaluatie rond 3 maanden.", "De bronpagina noemt veranderingen vanaf ongeveer 4 weken en evaluatie tot 6 maanden."],
+    ["Onderhoud", "Afhankelijk van het plan ongeveer elke 3–6 maanden.", "De bronpagina noemt jaarlijks onderhoud."],
+    ["Dagelijkse activiteiten", "Meestal kort herstel; houd rekening met de nazorginstructies.", "Volgens de clinic doorgaans geen geplande hersteltijd."]
+  ],
+  "reviews": [
+    {"quote": "Je krijgt professionele uitleg en de juiste behandeling", "author": "Marita S."},
+    {"quote": "Vriendelijke ontvangst en perfecte uitleg over de behandeling.", "author": "Isabelle D.S."}
+  ],
+  "videos": [
+    {"id": "IJwhkNviX20", "title": "Hairfiller: uitleg van de clinic"},
+    {"id": "wYIBTb6Cfnw", "title": "Hair Filler Magic: patiëntverhaal"},
+    {"id": "M76uytFjRjo", "title": "Voor en na: patiëntverhaal"},
+    {"id": "J4glhlyh1c4", "title": "Tussentijdse resultaten"},
+    {"id": "fZMP_egLUwY", "title": "Oorzaken van haaruitval uitgelegd"},
+    {"id": "x1Ei7ne13Y4", "title": "Gunther Levi: veelgestelde vragen"},
+    {"id": "WdqKQ2NF8t8", "title": "Peter Vanlaet: Hairfiller Magic"}
+  ],
+  "faq": [
+    {"id": "verwachtingen", "q": "Wat mag ik verwachten van een Hairfiller behandeling?", "a": "Eerst analyseren we je hoofdhuid en haarverlies. Daarna bepalen we zones, hoeveelheid en sessies. De formule wordt met fijne injecties aangebracht. We bespreken ook aanvullende thuisverzorging. Het resultaat en de geschiktheid verschillen per persoon."},
+    {"id": "prp", "q": "PRP of Hairfiller tegen haaruitval?", "a": "PRP en Hairfiller zijn verschillende behandelingen. Welke aanpak past, bespreek je met de behandelend arts op basis van de oorzaak van jouw haarverlies. Ook andere medische behandelingen kunnen geschikter zijn."},
+    {"id": "risicos", "q": "Wat zijn de risico’s en mogelijke complicaties?", "a": "Tijdelijke roodheid, gevoeligheid, zwelling, jeuk of blauwe plekken zijn mogelijk. Het toestemmingsdocument vermeldt ook zeldzame infecties. Klachten verdwijnen vaak binnen enkele dagen, maar kunnen langer duren. Neem bij aanhoudende of toenemende klachten contact op met je behandelaar. Lees vóór je besluit ook het toestemmingsdocument."},
+    {"id": "resultaat", "q": "Welk resultaat kan ik verwachten en hoe lang blijft het?", "a": "De clinic beschrijft minder haaruitval en mogelijk voller of steviger haar als behandeldoelen. Veranderingen zijn geleidelijk; evaluatie gebeurt doorgaans rond drie maanden. Het resultaat is niet permanent of gegarandeerd. Onderhoud en je uitgangssituatie bepalen mee het vervolg."},
+    {"id": "protocol", "q": "Hoe verloopt een Hairfiller protocol?", "a": "De bronpagina beschrijft een standaardkuur van vier sessies, vaak twee weken uit elkaar. Een intensiever plan kan daarna maandelijkse sessies gedurende drie tot zes maanden omvatten. Onderhoud wordt individueel afgesproken. De bron noemt ook intervallen van twee tot vier weken: volg daarom jouw persoonlijke behandelplan."},
+    {"id": "thuisverzorging", "q": "Welke aanvullende verzorging bespreekt de clinic?", "a": "De bronpagina noemt Sarasin Hair Grow Serum en de Hydra Roller als aanvullende thuisverzorging. Gebruik en timing worden met de behandelaar afgesproken; ga direct na injecties niet zelf rollen of masseren. De actuele producten en instructies moeten door de clinic worden bevestigd."},
+    {"id": "kleuren", "q": "Wanneer mag ik mijn haar weer kleuren?", "a": "De richtlijn op de bronpagina is zeven dagen na de behandeling. Je persoonlijke instructies van de behandelaar blijven leidend."},
+    {"id": "wassen", "q": "Wanneer mag ik mijn haar weer wassen?", "a": "De richtlijn op de bronpagina is na 24 uur. Vermijd in die eerste periode ook stylingproducten en volg je persoonlijke nazorginstructies."},
+    {"id": "pijn", "q": "Doet een Hairfiller behandeling pijn?", "a": "De prikjes kunnen gevoelig of onaangenaam zijn. Na afloop kan de hoofdhuid tijdelijk gevoelig of gezwollen zijn. Bespreek pijnstilling vooraf met je behandelaar; neem niet op eigen initiatief medicatie voor de behandeling."},
+    {"id": "baard", "q": "Kan Hairfiller ook worden gebruikt voor baardgroei?", "a": "Hairfiller is ontwikkeld voor de hoofdhuid. De bronpagina vermeldt dat toepassing in de baardstreek zelden gebeurt. Laat eerst beoordelen of dit voor jouw situatie geschikt en verantwoord is; een resultaat kan niet worden beloofd."},
+    {"id": "dermatoloog", "q": "Moet ik eerst naar een dermatoloog?", "a": "Je kunt een intake bij de clinic aanvragen. Bij plots of pleksgewijs haarverlies, pijn, ontsteking, littekens of een mogelijke ziekte- of medicatieoorzaak is medische beoordeling belangrijk. Een juiste diagnose bepaalt welke behandeling zinvol is."},
+    {"id": "sessies", "q": "Hoeveel sessies zijn er gemiddeld nodig?", "a": "De bronpagina noemt doorgaans een startkuur van vier sessies en op andere plaatsen drie tot vier sessies, met twee tot vier weken ertussen. Het exacte aantal, de timing en eventueel onderhoud moeten worden bevestigd in jouw consult."},
+    {"id": "alternatieven", "q": "Zijn er alternatieven zonder injecties?", "a": "REYU Hair is de naaldvrije microstroomoptie die de clinic beschrijft. Afhankelijk van de diagnose zijn ook verzorging, medische behandeling, PRP of haartransplantatie onderwerpen voor het consult. Bekijk de vergelijking op deze pagina."},
+    {"id": "zelfzorg", "q": "Wat kan ik zelf doen voor mijn haar?", "a": "Milde verzorging, gevarieerde voeding, minder hitte en strakke kapsels en aandacht voor stress passen bij een bredere aanpak. Laat mogelijke tekorten beoordelen voordat je supplementen gebruikt. Masseer of rol de hoofdhuid niet direct na een behandeling."}
+  ],
+  "articles": [
+    {"slug": "hairfiller-of-reyu", "title": "Hairfiller of REYU Hair: wat bespreek je tijdens het consult?", "description": "Een helder overzicht van injecties, microstroom, behandeltrajecten en de vragen die je kunt stellen.", "sections": [
+      ["Begin bij de oorzaak, niet bij de behandeling", "Dunner wordend haar kan verschillende oorzaken hebben. Bespreek wanneer het begon, je gezondheid, medicatie en wat je wilt bereiken. Soms is medische beoordeling nodig voordat een cosmetisch traject passend is."],
+      ["Het belangrijkste verschil", "Hairfiller is een injecteerbare peptide-hyaluronzuurformule. REYU Hair gebruikt gecontroleerde microstroom zonder injecties. Het zijn verschillende benaderingen; de ene is niet automatisch beter of geschikt voor iedereen."],
+      ["Vraag naar het volledige traject", "Vraag hoeveel sessies worden voorgesteld, welk interval past, wat het totaal kost en wanneer de clinic het resultaat evalueert. Vraag ook naar risico’s, herstel en eventueel onderhoud. De bronpagina noemt verschillende intervallen: je persoonlijke plan moet duidelijk zijn."],
+      ["Neem deze vragen mee", "Wat is de vermoedelijke oorzaak? Is aanvullende diagnostiek nodig? Waarom past deze behandeling? Welke alternatieven zijn er? Welke verandering is realistisch en hoe beoordelen we die? Bespreek ook of een combinatie of juist geen behandeling verstandig is."]
+    ]},
+    {"slug": "hairfiller-voor-en-nazorg", "title": "Hairfiller: voorbereiding en nazorg in één overzicht", "description": "Wat je vooraf bespreekt, welke nazorg de clinic beschrijft en wanneer je contact opneemt.", "sections": [
+      ["Vóór je afspraak", "Kom met een schone hoofdhuid zonder haarlak, gel of haarvezels. Bespreek medicatie, allergieën, zwangerschap, borstvoeding en je medische voorgeschiedenis. Vraag vooraf wat je eventueel tegen gevoeligheid mag gebruiken."],
+      ["De eerste dagen", "De bronpagina noemt 24 uur wachten met wassen en stylingproducten, 48 uur met intensief sporten of zweten en zeven dagen met kleuren. Vermijd direct na de behandeling warmte, sauna, zonnebank, masseren en krabben. Jouw persoonlijke instructies gaan voor."],
+      ["Bijwerkingen en contact", "Gevoeligheid, roodheid, zwelling, jeuk of blauwe plekken kunnen voorkomen. Het toestemmingsdocument noemt ook zeldzame infecties. Neem bij aanhoudende of toenemende klachten contact op met je behandelaar. Gebruik de website niet als vervanging voor persoonlijke medische opvolging."],
+      ["Thuisproducten zijn geen standaardadvies voor iedereen", "De clinic noemt Hair Grow Serum en Hydra Roller als mogelijke aanvulling. Laat bevestigen wanneer je die mag gebruiken. Begin niet direct na injecties zelf met rollen of masseren en gebruik supplementen niet als vervanging voor een diagnose."]
+    ]},
+    {"slug": "haaruitval-consult-voorbereiden", "title": "Haaruitval: zo bereid je een eerste consult voor", "description": "Een praktische vragenlijst over klachten, hoofdhuid, gezondheid en realistische verwachtingen.", "sections": [
+      ["Beschrijf wat je merkt", "Noteer sinds wanneer je haar dunner wordt, of het plots begon en of het om één plek of een groter gebied gaat. Vermeld pijn, jeuk, roodheid of littekens. Foto’s uit verschillende perioden kunnen helpen om veranderingen te bespreken."],
+      ["Neem je gezondheid mee in het gesprek", "Erfelijkheid, hormonale veranderingen, leeftijd, een bevalling, stress en voeding kunnen een rol spelen. Vertel welke medicatie en supplementen je gebruikt. Een arts kan beoordelen of verder onderzoek of verwijzing nodig is."],
+      ["Vraag om een duidelijk plan", "Bespreek geschiktheid, alternatieven, risico’s, kosten, sessies, nazorg en hoe het resultaat wordt geëvalueerd. Een foto van iemand anders is geen voorspelling van jouw uitkomst."],
+      ["Wanneer medische beoordeling voorrang heeft", "Laat plots of pleksgewijs haarverlies, ontsteking, pijn of littekens beoordelen. De juiste aanpak hangt af van de diagnose. Voedingssupplementen en cosmetische behandelingen vervangen dat onderzoek niet."]
+    ]}
+  ]
+}

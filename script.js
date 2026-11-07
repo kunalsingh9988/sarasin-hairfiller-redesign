@@ -1,3 +1,5 @@
+// Resolve carousel assets beside this script, including the optional WordPress plugin URL.
+const sarasinAssetBase = new URL('assets/', document.currentScript?.src || window.location.href);
 const menuToggle = document.querySelector('.menu-toggle');
 const mobileMenu = document.querySelector('#mobile-menu');
 const menuBackdrop = document.querySelector('.menu-backdrop');
@@ -123,12 +125,12 @@ if (heroCarousel) {
   let paused = reducedMotion.matches;
   let timer;
 
-  results.slice(1).forEach(({ src }) => { const preload = new Image(); preload.src = src; });
+  results.slice(1).forEach(({ src }) => { const preload = new Image(); preload.src = new URL(src.replace(/^assets\//, ''), sarasinAssetBase).href; });
 
   function showResult(index) {
     current = index;
     const result = results[current];
-    image.src = result.src;
+    image.src = new URL(result.src.replace(/^assets\//, ''), sarasinAssetBase).href;
     image.alt = result.alt;
     afterTag.textContent = result.after;
     caption.textContent = result.caption;

@@ -1,0 +1,72 @@
+/* Pilot extensions preserve the clinic's existing type, palette and rounded sections. */
+.review-notice{padding-block:12px;color:#48665e;font-size:12px;line-height:1.5}
+.clinic-zone-reference{max-width:820px;margin:0 auto 26px;padding:22px;background:#f0f7f4;border-radius:18px}
+.clinic-zone-reference img{display:block;width:100%;height:auto;object-fit:contain}
+.clinic-zone-reference figcaption{margin-top:14px;font-size:12px;line-height:1.5;color:#48665e}
+.price-overview{display:block}
+.info-disclosures{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:0 28px}
+.info-disclosures details{min-width:0;border-bottom:1px solid var(--line);padding:6px 0}
+.info-disclosures summary{min-height:56px;gap:16px;font-size:17px;font-weight:600;line-height:1.35}
+.info-disclosures p,.info-disclosures li{font-size:15px;line-height:1.65}
+.info-disclosures details>div{padding:4px 0 20px}
+.info-disclosures ul{padding-left:20px}
+.data-table-scroll{overflow-x:auto;max-width:100%;border-radius:12px;border:1px solid var(--line);overscroll-behavior-inline:contain}
+.data-table-scroll:focus-visible{outline:3px solid #3e9082;outline-offset:4px}
+.pilot-table{width:100%;border-collapse:collapse;font-size:14px;line-height:1.5;min-width:520px}
+.pilot-table th,.pilot-table td{text-align:left;vertical-align:top;padding:13px 16px;border-bottom:1px solid var(--line)}
+.pilot-table th{background:#e8f3ef;color:var(--deep);font-weight:600}
+.pilot-table tbody tr:last-child td{border-bottom:0}
+.pilot-table caption{text-align:left;padding:14px 16px;font-weight:600;color:var(--deep)}
+.pilot-note{font-size:12px;line-height:1.6;color:#48665e;margin-block:16px}
+.pilot-actions{display:flex;flex-wrap:wrap;gap:14px 24px;align-items:center;margin-block:20px}
+.pilot-actions a:not(.button),.source-links a{text-decoration:underline;text-underline-offset:4px}
+.gallery-archive{margin-top:24px;border-top:1px solid #759b8f}
+.gallery-archive summary{font-size:14px;color:#fff;min-height:52px}
+.source-gallery{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px;margin-top:20px}
+.source-gallery figure{margin:0;min-width:0}
+.source-gallery img{width:100%;height:auto;border-radius:12px}
+.source-gallery figcaption{font-size:12px;line-height:1.5;margin-top:8px;color:#dcebe3}
+.review-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:24px}
+.review-grid blockquote{margin:0;padding:26px;background:#eef5f1;border-radius:16px;line-height:1.6;font-size:20px}
+.review-grid cite{display:block;margin-top:14px;font-size:13px;font-style:normal;font-weight:600}
+.source-links{display:flex;flex-wrap:wrap;gap:16px 28px;padding-block:16px}
+.source-links a{min-height:44px;display:inline-flex;align-items:center;font-size:14px}
+.archive-videos{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;margin-top:12px}
+.archive-videos button{display:flex;align-items:center;justify-content:space-between;gap:14px;min-height:52px;padding:14px 16px;border:1px solid var(--line);border-radius:12px;background:#eff6f2;color:var(--deep);text-align:left;cursor:pointer}
+.archive-videos button::after{content:'';width:20px;height:20px;flex:none;background:url('assets/icons/play.svg') center/contain no-repeat}
+.article-list{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:28px}
+.article-list article{min-width:0;border-top:1px solid #a9c9bf;padding-top:20px}
+.article-list h3{font-size:23px;line-height:1.25;margin-bottom:12px}
+.article-list p{font-size:14px}
+.article-list a{display:inline-flex;align-items:center;gap:8px;min-height:44px;font-weight:600;text-decoration:underline;text-underline-offset:4px}
+.article-page{max-width:820px;padding-block:50px 80px}
+.article-page h1{font-size:clamp(34px,4vw,58px);line-height:1.12;margin-block:25px}
+.article-page h2{font-size:clamp(25px,3vw,34px);margin-top:38px;line-height:1.2}
+.article-page p{font-size:17px;line-height:1.75;max-width:70ch}
+.article-page .pilot-note{font-size:13px}
+.article-breadcrumb{display:flex;flex-wrap:wrap;gap:8px 12px;font-size:13px}
+.article-breadcrumb a{text-decoration:underline;text-underline-offset:3px}
+.source-author{display:grid;gap:8px;padding-block:22px;border-top:1px solid var(--line)}
+.source-author p{margin:0;font-size:14px}
+@media(max-width:800px){
+  .clinic-zone-reference{padding:16px;margin-bottom:16px}
+  .clinic-zone-reference figcaption{font-size:11px;margin-top:10px}
+  .info-disclosures{grid-template-columns:minmax(0,1fr)}
+  .info-disclosures summary{min-height:52px;font-size:16px}
+  .info-disclosures p,.info-disclosures li{font-size:14px}
+  .source-gallery{grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}
+  .article-list{grid-template-columns:minmax(0,1fr);gap:18px}
+  .article-list h3{font-size:21px;margin-bottom:8px}
+  .article-list article{padding-top:16px}
+  .article-page{padding-block:28px 50px}
+  .article-page p{font-size:16px;line-height:1.65}
+  .price-overview{display:block;padding:18px}
+}
+@media(max-width:560px){
+  .review-grid{grid-template-columns:minmax(0,1fr);gap:12px}
+  .review-grid blockquote{font-size:18px;padding:20px}
+  .archive-videos{grid-template-columns:minmax(0,1fr)}
+  .pilot-table th,.pilot-table td{padding:12px}
+  .clinic-zone-reference{padding:14px 10px}
+}
+@media(max-width:280px){.source-gallery{grid-template-columns:minmax(0,1fr)}}

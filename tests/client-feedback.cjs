@@ -28,11 +28,12 @@ function contrast(foreground, background) {
       await page.setViewportSize({ width, height: 1000 });
       await page.goto(baseURL, { waitUntil: 'networkidle' });
       await page.locator('#prijzen').scrollIntoViewIfNeeded();
-      await page.locator('.price-illustration').evaluateAll(images => Promise.all(images.map(image => image.decode())));
+      await page.locator('[data-clinic-zone-reference] img').evaluate(image => image.decode());
       const state = await page.evaluate(() => {
         const headings = [...document.querySelectorAll('.price-card h3')].map(node => node.textContent);
         const prices = [...document.querySelectorAll('.price-amount strong')].map(node => node.textContent);
-        const images = [...document.querySelectorAll('.zone-photo img')].every(image => image.complete && image.naturalWidth > 0);
+      const zoneImage = document.querySelector('[data-clinic-zone-reference] img');
+      const images = !!zoneImage && zoneImage.complete && zoneImage.naturalWidth > 0;
         const markers = [...document.querySelectorAll('.zone-marker')].map(node => {
           const marker = node.getBoundingClientRect();
           const photo = node.parentElement.getBoundingClientRect();
@@ -55,14 +56,14 @@ function contrast(foreground, background) {
           height: document.documentElement.scrollHeight
         };
       });
-      assert.equal(state.revision, '2026-11-06');
+      assert.equal(state.revision, '2026-11-07');
       assert.equal(state.overflow, false, `Horizontal overflow at ${width}px`);
       assert.deepEqual(state.headings, ['Kleine zone', 'Middelgrote zone', 'Grote zone']);
       assert.deepEqual(state.prices, ['€ 210', '€ 310', '€ 415']);
       assert(state.images && state.markers.every(Boolean), `Missing image or marker at ${width}px`);
-      assert(state.disclosure.includes('AI-gegenereerde') && state.disclosure.includes('geen vaste dekking per ml'));
+      assert(state.disclosure.toLowerCase().includes('geen vaste dekking per ml'));
       assert.equal(state.zonesExpanded, width > 800);
-      assert.equal(state.faqCount, 6);
+      assert.equal(state.faqCount, 14);
       assert.equal(state.faqImages, 0);
       assert.equal(state.guideCount, 2);
       assert(state.font.includes('Bricolage Grotesque'));
