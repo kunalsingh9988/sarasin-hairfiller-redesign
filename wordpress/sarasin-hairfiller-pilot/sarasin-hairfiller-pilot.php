@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Sarasin Hairfiller Pilot — Staging Review
  * Description: Optional isolated review-page template. Does not create pages, publish posts, change themes or enable indexing.
- * Version: 0.1.0
+ * Version: 0.2.0
  * Requires at least: 6.0
  * Requires PHP: 7.4
  */
@@ -32,11 +32,11 @@ add_action('wp_enqueue_scripts', function () {
         return;
     }
     $base = plugin_dir_url(__FILE__) . 'public/';
-    wp_enqueue_style('sarasin-pilot-base', $base . 'styles.css', array(), '0.1.0');
-    wp_enqueue_style('sarasin-pilot-refined', $base . 'refined.css', array('sarasin-pilot-base'), '20261107');
-    wp_enqueue_style('sarasin-pilot-content', $base . 'pilot.css', array('sarasin-pilot-refined'), '20261107');
-    wp_enqueue_script('sarasin-pilot-ui', $base . 'script.js', array(), '20261107', true);
-    wp_enqueue_script('sarasin-pilot-measurement', $base . 'measurement.js', array(), '20261107', true);
+    wp_enqueue_style('sarasin-pilot-base', $base . 'styles.css', array(), '0.2.0');
+    wp_enqueue_style('sarasin-pilot-refined', $base . 'refined.css', array('sarasin-pilot-base'), '20261108');
+    wp_enqueue_style('sarasin-pilot-content', $base . 'pilot.css', array('sarasin-pilot-refined'), '20261108');
+    wp_enqueue_script('sarasin-pilot-ui', $base . 'script.js', array(), '20261108', true);
+    wp_enqueue_script('sarasin-pilot-measurement', $base . 'measurement.js', array(), '20261108', true);
 }, 50);
 
 // Asset rewriting is restricted to the explicitly selected pilot page template.

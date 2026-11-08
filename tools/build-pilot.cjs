@@ -74,6 +74,7 @@ html = html.replace(/<!-- SOURCE-ILLUSTRATIONS:START -->[\s\S]*?<!-- SOURCE-ILLU
 html = html.replace('<div class="info-disclosures">', `<div class="info-disclosures"><!-- SOURCE-ILLUSTRATIONS:START -->${sourceIllustrations}<!-- SOURCE-ILLUSTRATIONS:END -->`);
 if (!html.includes('href="#ervaringen">Ervaringen')) html = html.replace('<a href="#vragen">Veelgestelde vragen <span', '<a href="#ervaringen">Ervaringen <span aria-hidden="true">↗</span></a><a href="#alternatieven">Alternatieven <span aria-hidden="true">↗</span></a><a href="#vragen">Veelgestelde vragen <span');
 if (!html.includes('href="/blog/">Kennisbank</a>')) html = html.replace('<strong>Ontdek</strong>', '<strong>Ontdek</strong><a href="/blog/">Kennisbank</a>');
+html = require('./restore-content.cjs')(html);
 fs.writeFileSync(path.join(root, 'index.html'), html);
 
 const header = html.slice(html.indexOf('<a class="skip-link"'), html.indexOf('<main id="main">')).replace(/href="#(?!main")/g, 'href="/#');

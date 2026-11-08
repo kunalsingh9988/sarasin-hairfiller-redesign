@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-08",
+  "fileKey": "4bfik7c0UoRH24cfdhtyQX",
+  "currentDesktop": "40002295:3388",
+  "currentMobile": "40002295:4691",
+  "sourceReview": "40002327:190",
+  "originalSourceBlocks": 139,
+  "originalSourceTables": 7,
+  "desktopGallery": "40002330:190",
+  "mobileGallery": "40002330:676",
+  "desktopExpandedTables": "40002330:325",
+  "mobileExpandedTables": "40002330:823",
+  "desktopExpandedFAQs": "40002334:300",
+  "mobileExpandedFAQs": "40002334:450",
+  "visibleFontFamily": "Bricolage Grotesque",
+  "oversizedVisibleTextBoxes": 0,
+  "allPatientGalleryPhotosRetained": 40,
+  "images": "Original clinic assets and matching official YouTube thumbnails; all uploads completed without failures.",
+  "editability": "Editable text, auto-layout frames, vector logo/arrows, review instances and discrete photos. No complete-UI screenshot used as a design layer.",
+  "visualChecks": "Rendered desktop/mobile hero, reviews, author and expanded ingredient records inspected. Contrast, transparent panel backgrounds and clipped nested mobile table records were corrected.",
+  "previousDesign": "Previous bodies remain archived and hidden inside the existing wrappers; original V1 was not removed.",
+  "limits": "Review designs, not a production WordPress integration or pixel-for-pixel equivalence with every interactive browser state. Client and clinical approval remain pending."
+}

@@ -25,7 +25,7 @@ const base = process.argv[2] || 'http://127.0.0.1:8772';
  const faq=JSON.parse(schema)['@graph'].find(x=>x['@type']==='FAQPage');
  assert.equal(faq.mainEntity.length,14);
  assert.deepEqual(faq.mainEntity.map(x=>x.name),data.faq.map(f=>f.q));
- assert.equal(await page.locator('[data-video]').count(),9);
+ assert.equal(await page.locator('[data-video]').count(),11);
  const ids=await page.locator('[data-video]').evaluateAll(nodes=>nodes.map(n=>n.dataset.video));assert.equal(new Set(ids).size,9);
  const domIDs=await page.locator('[id]').evaluateAll(nodes=>nodes.map(n=>n.id));assert.equal(new Set(domIDs).size,domIDs.length,'Duplicate IDs');
  await page.evaluate(()=>{

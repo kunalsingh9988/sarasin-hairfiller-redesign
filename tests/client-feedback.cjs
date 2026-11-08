@@ -56,7 +56,7 @@ function contrast(foreground, background) {
           height: document.documentElement.scrollHeight
         };
       });
-      assert.equal(state.revision, '2026-11-07');
+      assert.equal(state.revision, '2026-11-08');
       assert.equal(state.overflow, false, `Horizontal overflow at ${width}px`);
       assert.deepEqual(state.headings, ['Kleine zone', 'Middelgrote zone', 'Grote zone']);
       assert.deepEqual(state.prices, ['€ 210', '€ 310', '€ 415']);

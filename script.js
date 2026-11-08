@@ -15,6 +15,18 @@ function adaptReadingDetails() {
 adaptReadingDetails();
 compactReading.addEventListener('change', adaptReadingDetails);
 
+// Review-checklist links must reveal their destination even inside a closed disclosure.
+function revealHashTarget() {
+  const target = document.getElementById(decodeURIComponent(location.hash.slice(1)));
+  if (!target) return;
+  for (let parent = target.parentElement; parent; parent = parent.parentElement) {
+    if (parent instanceof HTMLDetailsElement) parent.open = true;
+  }
+  if (location.hash.startsWith('#source-')) requestAnimationFrame(() => target.scrollIntoView());
+}
+revealHashTarget();
+window.addEventListener('hashchange', revealHashTarget);
+
 document.querySelectorAll('a[href^="#"]').forEach((link) => {
   link.addEventListener('click', () => {
     const target = document.getElementById(link.getAttribute('href').slice(1));

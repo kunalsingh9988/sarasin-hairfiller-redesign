@@ -1,0 +1,3590 @@
+{
+  "sections": [
+    {
+      "id": "hero",
+      "title": "Dunner haar? Ontdek Hairfiller.",
+      "bg": "rgb(246, 248, 245)",
+      "items": [
+        {
+          "kind": "link",
+          "text": "Home",
+          "url": "https://sarasinclinic.com/"
+        },
+        {
+          "kind": "paragraph",
+          "text": "/"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Behandelingen"
+        },
+        {
+          "kind": "paragraph",
+          "text": "/"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Hairfiller"
+        },
+        {
+          "kind": "heading",
+          "text": "Dunner haar? Ontdek Hairfiller.",
+          "level": 1
+        },
+        {
+          "kind": "paragraph",
+          "text": "Haarverlies kan iedereen treffen. Hairfiller combineert hyaluronzuur en peptiden in een injecteerbare behandeling. Tijdens een persoonlijk consult beoordelen we of dit bij jouw hoofdhuid en situatie past."
+        },
+        {
+          "kind": "button",
+          "text": "Plan een persoonlijk consult",
+          "url": "https://booking.sarasinclinic.com/appointment/locations"
+        },
+        {
+          "kind": "link",
+          "text": "Hoe werkt het?",
+          "url": "#behandeling"
+        },
+        {
+          "kind": "link",
+          "text": "Persoonlijk advies · Sarasin Clinic",
+          "url": "#over-info"
+        },
+        {
+          "kind": "image",
+          "src": "assets/real-result.jpg",
+          "alt": "Voor en na Hairfiller bij een persoon met dunner wordend haar; twee opnamen van de hoofdhuid naast elkaar",
+          "w": 1200,
+          "h": 1200
+        },
+        {
+          "kind": "caption",
+          "text": "Echt resultaat van Sarasin Clinic · na 4 maanden. Resultaten verschillen."
+        }
+      ]
+    },
+    {
+      "id": "quick-facts wrap",
+      "title": "",
+      "bg": "rgba(0, 0, 0, 0)",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "BEHANDELTIJD"
+        },
+        {
+          "kind": "paragraph",
+          "text": "± 15 minuten"
+        },
+        {
+          "kind": "paragraph",
+          "text": "RICHTPRIJS"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Vanaf € 210"
+        },
+        {
+          "kind": "paragraph",
+          "text": "STARTKUUR"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Doorgaans 4 sessies"
+        },
+        {
+          "kind": "paragraph",
+          "text": "HERSTEL"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Meestal kort"
+        }
+      ]
+    },
+    {
+      "id": "review-teaser wrap",
+      "title": "",
+      "bg": "rgba(0, 0, 0, 0)",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "“Je krijgt professionele uitleg en de juiste behandeling” — Marita S., algemene clinic-review"
+        },
+        {
+          "kind": "link",
+          "text": "Lees ervaringen en patiëntverhalen",
+          "url": "#ervaringen"
+        }
+      ]
+    },
+    {
+      "id": "page-guides wrap",
+      "title": "Wat vind je op deze pagina?",
+      "bg": "rgba(0, 0, 0, 0)",
+      "items": [
+        {
+          "kind": "disclosure",
+          "title": "Wat vind je op deze pagina?",
+          "items": [
+            {
+              "kind": "link",
+              "text": "Voor wie en hoe het werkt",
+              "url": "#behandeling"
+            },
+            {
+              "kind": "link",
+              "text": "Echte resultaten",
+              "url": "#resultaten"
+            },
+            {
+              "kind": "link",
+              "text": "Zones en prijzen",
+              "url": "#prijzen"
+            },
+            {
+              "kind": "link",
+              "text": "Ervaringen",
+              "url": "#ervaringen"
+            },
+            {
+              "kind": "link",
+              "text": "Alternatieven",
+              "url": "#alternatieven"
+            },
+            {
+              "kind": "link",
+              "text": "Veelgestelde vragen",
+              "url": "#vragen"
+            }
+          ]
+        },
+        {
+          "kind": "disclosure",
+          "title": "Meer over deze behandeling.",
+          "items": [
+            {
+              "kind": "link",
+              "text": "Het behandeltraject",
+              "url": "#werkwijze"
+            },
+            {
+              "kind": "link",
+              "text": "Voor- en nazorg",
+              "url": "#nazorg"
+            },
+            {
+              "kind": "link",
+              "text": "Behandeling in beeld",
+              "url": "#in-beeld"
+            },
+            {
+              "kind": "link",
+              "text": "Onze 360° visie",
+              "url": "#longevity"
+            },
+            {
+              "kind": "link",
+              "text": "Plan een consult",
+              "url": "https://booking.sarasinclinic.com/appointment/locations"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "behandeling",
+      "title": "Wat doet Hairfiller?",
+      "bg": "rgba(0, 0, 0, 0)",
+      "items": [
+        {
+          "kind": "heading",
+          "text": "Wat doet Hairfiller?",
+          "level": 2
+        },
+        {
+          "kind": "paragraph",
+          "text": "Een behandeling begint met inzicht in jouw haarverlies."
+        },
+        {
+          "kind": "paragraph",
+          "text": "We brengen een peptide-hyaluronzuurformule met fijne injecties in de gekozen zones aan. Deze is bedoeld om de conditie van de hoofdhuid en de omgeving van de haarfollikels te ondersteunen."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Haarverlies heeft verschillende oorzaken. Daarom bekijken we eerst je hoofdhuid, gezondheid en doelen. Het resultaat verschilt per persoon."
+        },
+        {
+          "kind": "heading",
+          "text": "Past dit bij jouw situatie?",
+          "level": 3
+        },
+        {
+          "kind": "paragraph",
+          "text": "Hairfiller kan een optie zijn voor volwassenen met dunner wordend haar of diffuus haarverlies, ongeacht gender. De oorzaak en je medische voorgeschiedenis bepalen of dit passend is."
+        },
+        {
+          "kind": "bullet",
+          "text": "Je haar oogt minder vol"
+        },
+        {
+          "kind": "bullet",
+          "text": "Je verliest meer haar dan gebruikelijk"
+        },
+        {
+          "kind": "bullet",
+          "text": "Je zoekt een aanpak zonder operatie"
+        },
+        {
+          "kind": "bullet",
+          "text": "Je wilt ondersteuning naast een bestaand haartraject"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Plots of pleksgewijs haarverlies, pijn, ontsteking of littekens? Laat dit eerst medisch beoordelen."
+        },
+        {
+          "kind": "link",
+          "text": "Haarverlies bij mannen",
+          "url": "https://sarasinclinic.com/behandelingen/hairfiller/mannen/"
+        },
+        {
+          "kind": "link",
+          "text": "Haarverlies bij vrouwen",
+          "url": "https://sarasinclinic.com/behandelingen/hairfiller/vrouw/"
+        }
+      ]
+    },
+    {
+      "id": "werkwijze",
+      "title": "Jouw traject in 3 stappen.",
+      "bg": "rgba(0, 0, 0, 0)",
+      "items": [
+        {
+          "kind": "heading",
+          "text": "Jouw traject in 3 stappen.",
+          "level": 2
+        },
+        {
+          "kind": "paragraph",
+          "text": "01"
+        },
+        {
+          "kind": "heading",
+          "text": "Analyse & advies",
+          "level": 3
+        },
+        {
+          "kind": "paragraph",
+          "text": "We bekijken je hoofdhuid, haarverlies en doelen. Samen kiezen we de zones, hoeveelheid en een passend protocol."
+        },
+        {
+          "kind": "paragraph",
+          "text": "02"
+        },
+        {
+          "kind": "heading",
+          "text": "Korte sessies",
+          "level": 3
+        },
+        {
+          "kind": "paragraph",
+          "text": "Na ontsmetting brengen we kleine hoeveelheden met een fijne naald aan. Een sessie duurt ongeveer 15 minuten."
+        },
+        {
+          "kind": "paragraph",
+          "text": "03"
+        },
+        {
+          "kind": "heading",
+          "text": "Evaluatie & onderhoud",
+          "level": 3
+        },
+        {
+          "kind": "paragraph",
+          "text": "Vaak starten we met vier sessies, ongeveer twee weken uit elkaar. Vervolg en onderhoud hangen af van je reactie en doelen."
+        }
+      ]
+    },
+    {
+      "id": "resultaten",
+      "title": "Echte beelden. Persoonlijke resultaten.",
+      "bg": "rgb(22, 63, 59)",
+      "items": [
+        {
+          "kind": "heading",
+          "text": "Echte beelden. Persoonlijke resultaten.",
+          "level": 2
+        },
+        {
+          "kind": "paragraph",
+          "text": "Haarkwaliteit verandert geleidelijk. Eerste veranderingen kunnen na enkele weken zichtbaar zijn; we evalueren vaak rond drie maanden. Wat haalbaar is, hangt af van je uitgangssituatie en behandelplan."
+        },
+        {
+          "kind": "disclosure",
+          "title": "Bekijk een extra patiëntvoorbeeld",
+          "items": [
+            {
+              "kind": "image",
+              "src": "assets/result-woman.jpg",
+              "alt": "Twee beelden van de hoofdhuid van een patiënt, voor en na een Hairfiller traject",
+              "w": 1200,
+              "h": 1200
+            },
+            {
+              "kind": "caption",
+              "text": "Echt patiëntbeeld van Sarasin Clinic. Resultaten verschillen per persoon."
+            }
+          ]
+        },
+        {
+          "kind": "gallery",
+          "title": "Alle 40 oorspronkelijke patiëntbeelden",
+          "images": [
+            {
+              "kind": "image",
+              "src": "assets/source/haarfiller-5sessies-2ml_012026.jpeg",
+              "alt": "man haarfiller voor en na 5 sessies met 2ml",
+              "w": 1080,
+              "h": 1350
+            },
+            {
+              "kind": "image",
+              "src": "assets/source/Haarfiller-vrouw_032025_2a.jpeg",
+              "alt": "Haarfiller vrouw voor en na",
+              "w": 1080,
+              "h": 1021
+            },
+            {
+              "kind": "image",
+              "src": "assets/source/SarasinClinic_haarfiller-man_5-sessies.jpg",
+              "alt": "haarfiller man resultaat na 5 sessies",
+              "w": 1200,
+              "h": 1200
+            },
+            {
+              "kind": "image",
+              "src": "assets/source/Haarfiller-vrouw_032025_2b.jpeg",
+              "alt": "Haarfiller vrouw voor en na",
+              "w": 1080,
+              "h": 1075
+            },
+            {
+              "kind": "image",
+              "src": "assets/source/3-sessies-Haarfiller-na-4-maand.jpg",
+              "alt": "haarfiller selfie man voor en na",
+              "w": 1200,
+              "h": 1200
+            },
+            {
+              "kind": "image",
+              "src": "assets/source/Haarfiller-vrouw_032025.jpg",
+              "alt": "Haarfiller resultaat vrouw dunner wordend haar",
+              "w": 1200,
+              "h": 1200
+            },
+            {
+              "kind": "image",
+              "src": "assets/source/Haarfiller-vrouw_032025_b.jpg",
+              "alt": "haarfiller vrouw voor en na",
+              "w": 1200,
+              "h": 1200
+            },
+            {
+              "kind": "image",
+              "src": "assets/source/Vrouw-4-sessies-haarfiller-en-2-sessies-reyu.jpg",
+              "alt": "Vrouw 4 sessies haarfiller + 2 sessies reyu",
+              "w": 1200,
+              "h": 1200
+            },
+            {
+              "kind": "image",
+              "src": "assets/source/Vrouw-4-sessies-haarfiller-en-2-sessies-reyu_2.jpg",
+              "alt": "Vrouw 4 sessies haarfiller + 2 sessies reyu",
+              "w": 1200,
+              "h": 1200
+            },
+            {
+              "kind": "image",
+              "src": "assets/source/sarasinclinic_hairfiller-na-3-maand_202501.jpg",
+              "alt": "sarasin clinic hairfiller na 3 maand",
+              "w": 1200,
+              "h": 1500
+            },
+            {
+              "kind": "image",
+              "src": "assets/source/sarasin-clinic-haarfiller-2-sessies.jpeg",
+              "alt": "hairfiller man voor en na 2 sessies",
+              "w": 1080,
+              "h": 1080
+            },
+            {
+              "kind": "image",
+              "src": "assets/source/SarasinClinic_haarfiller-vrouw_112024_4.jpg",
+              "alt": "haarfiller jonge vrouw voor en na",
+              "w": 1200,
+              "h": 1200
+            },
+            {
+              "kind": "image",
+              "src": "assets/source/SarasinClinic_haarfiller-vrouw_112024_3.jpg",
+              "alt": "haarfiller vrouw voor en na",
+              "w": 1200,
+              "h": 1200
+            },
+            {
+              "kind": "image",
+              "src": "assets/source/SarasinClinic_haarfiller-vrouw_112024_2.jpg",
+              "alt": "haarfiller vrouw voor en na",
+              "w": 1200,
+              "h": 1200
+            },
+            {
+              "kind": "image",
+              "src": "assets/source/SarasinClinic_haarfiller-vrouw_112024_1.jpg",
+              "alt": "haarfiller vrouw voor en na",
+              "w": 1200,
+              "h": 1200
+            },
+            {
+              "kind": "image",
+              "src": "assets/source/202408_SarasinClinic_haarfiller.png",
+              "alt": "haar filler man voor en na 1,5 jaar",
+              "w": 1079,
+              "h": 887
+            },
+            {
+              "kind": "image",
+              "src": "assets/source/SarasinClinic_haarfiller-na-3sessie-telkens-3-spuiten_2023-05-19.png",
+              "alt": "Sarasin Clinic haarfiller na 3 sessies telkens 3spuiten",
+              "w": 1080,
+              "h": 1080
+            },
+            {
+              "kind": "image",
+              "src": "assets/source/2023-01-haarfiller-man_Na-4-sessies.jpg",
+              "alt": "Sarasin Clinic hairfiller man na 4 sessies",
+              "w": 800,
+              "h": 800
+            },
+            {
+              "kind": "image",
+              "src": "assets/source/SarasinClinic_haarfiller-Na-3-sessie-102022-02.jpg",
+              "alt": "Sarasin Clinic haarfiller Na 3 sessies",
+              "w": 1181,
+              "h": 1181
+            },
+            {
+              "kind": "image",
+              "src": "assets/source/2022-12-23_SarasinClinic_Hairfiller-man_16.jpg",
+              "alt": "Sarasin Clinic Haar filler man",
+              "w": 800,
+              "h": 800
+            },
+            {
+              "kind": "image",
+              "src": "assets/source/2022-12-23_SarasinClinic_Haarfiller-man_17.jpg",
+              "alt": "Sarasin Clinic Haar filler man",
+              "w": 800,
+              "h": 800
+            },
+            {
+              "kind": "image",
+              "src": "assets/source/2022-12-23_SarasinClinic_Haarfiller-man_15.jpg",
+              "alt": "Sarasin Clinic Haar filler man",
+              "w": 800,
+              "h": 800
+            },
+            {
+              "kind": "image",
+              "src": "assets/source/2022-12-23_SarasinClinic_Haarfiller-man_12.jpg",
+              "alt": "Sarasin Clinic Haar filler man",
+              "w": 800,
+              "h": 800
+            },
+            {
+              "kind": "image",
+              "src": "assets/source/2022-12-23_SarasinClinic_Haarfiller-man_13.jpg",
+              "alt": "Sarasin Clinic Haar filler man",
+              "w": 800,
+              "h": 800
+            },
+            {
+              "kind": "image",
+              "src": "assets/source/2022-12-23_SarasinClinic_Haarfiller-vrouw_03.jpg",
+              "alt": "Sarasin Clinic Haar filler vrouw voor en na",
+              "w": 800,
+              "h": 693
+            },
+            {
+              "kind": "image",
+              "src": "assets/source/2022-12-23_SarasinClinic_Haarfiller-man_11.jpg",
+              "alt": "Sarasin Clinic Haar filler man voor en na",
+              "w": 800,
+              "h": 800
+            },
+            {
+              "kind": "image",
+              "src": "assets/source/2022-12-23_SarasinClinic_Haarfiller-vrouw_02.jpg",
+              "alt": "Sarasin Clinic Haar filler vrouw voor en na",
+              "w": 800,
+              "h": 607
+            },
+            {
+              "kind": "image",
+              "src": "assets/source/2022-12-23_SarasinClinic_Haarfiller-man_10.jpg",
+              "alt": "Sarasin Clinic Haar filler man voor en na",
+              "w": 800,
+              "h": 800
+            },
+            {
+              "kind": "image",
+              "src": "assets/source/2022-12-23_SarasinClinic_Haarfiller-man_09.jpg",
+              "alt": "Sarasin Clinic Haar filler detail voor en na",
+              "w": 800,
+              "h": 800
+            },
+            {
+              "kind": "image",
+              "src": "assets/source/2022-12-23_SarasinClinic_Haarfiller-man_08.jpg",
+              "alt": "Sarasin Clinic Haar filler man voor en na",
+              "w": 800,
+              "h": 800
+            },
+            {
+              "kind": "image",
+              "src": "assets/source/2022-12-23_SarasinClinic_Haarfiller-man_07.jpg",
+              "alt": "Sarasin Clinic Haar filler man voor en na",
+              "w": 800,
+              "h": 800
+            },
+            {
+              "kind": "image",
+              "src": "assets/source/2022-12-23_SarasinClinic_Haarfiller-man_06.jpg",
+              "alt": "Sarasin Clinic Haar filler man voor en na",
+              "w": 800,
+              "h": 653
+            },
+            {
+              "kind": "image",
+              "src": "assets/source/2022-12-23_SarasinClinic_Haarfiller-man_05.jpg",
+              "alt": "Sarasin Clinic Haar filler man voor en na",
+              "w": 800,
+              "h": 800
+            },
+            {
+              "kind": "image",
+              "src": "assets/source/2022-12-23_SarasinClinic_Haarfiller-man_04.jpg",
+              "alt": "Sarasin Clinic Haar filler man voor en na",
+              "w": 800,
+              "h": 800
+            },
+            {
+              "kind": "image",
+              "src": "assets/source/2022-12-23_SarasinClinic_Haarfiller-man_01.jpg",
+              "alt": "Sarasin Clinic Haar filler man voor en na",
+              "w": 800,
+              "h": 800
+            },
+            {
+              "kind": "image",
+              "src": "assets/source/2022-12-23_SarasinClinic_Haarfiller-vrouw_01.jpg",
+              "alt": "Sarasin Clinic Haar filler vrouw voor en na",
+              "w": 800,
+              "h": 709
+            },
+            {
+              "kind": "image",
+              "src": "assets/source/2022-12-23_SarasinClinic_Haarfiller-man_03.jpg",
+              "alt": "Sarasin Clinic Haar filler man voor en na",
+              "w": 800,
+              "h": 800
+            },
+            {
+              "kind": "image",
+              "src": "assets/source/2022-12-23_SarasinClinic_Haarfiller-man_02.jpg",
+              "alt": "Sarasin Clinic Haar filler man voor tijdens na",
+              "w": 800,
+              "h": 551
+            },
+            {
+              "kind": "image",
+              "src": "assets/source/2022-12-23_SarasinClinic_Haarfiller-man-na-3-sessies.jpg",
+              "alt": "Sarasin Clinic Haar filler man voor en na",
+              "w": 800,
+              "h": 800
+            },
+            {
+              "kind": "image",
+              "src": "assets/source/2022-12-23_SarasinClinic_Haarfiller-man_18.jpg",
+              "alt": "Sarasin Clinic Haar filler man voor en na",
+              "w": 800,
+              "h": 800
+            }
+          ]
+        },
+        {
+          "kind": "link",
+          "text": "Meer patiëntbeelden bij de clinic",
+          "url": "https://sarasinclinic.com/behandelingen/hairfiller/"
+        },
+        {
+          "kind": "image",
+          "src": "assets/result-man-5.jpg",
+          "alt": "Voor- en nafoto van een Sarasin Clinic patiënt na vijf Hairfiller sessies",
+          "w": 1200,
+          "h": 1200
+        },
+        {
+          "kind": "caption",
+          "text": "Echt patiëntbeeld · na 5 sessies. Resultaten verschillen per persoon."
+        }
+      ]
+    },
+    {
+      "id": "ervaringen",
+      "title": "Ervaringen uit de clinic.",
+      "bg": "rgba(0, 0, 0, 0)",
+      "items": [
+        {
+          "kind": "heading",
+          "text": "Ervaringen uit de clinic.",
+          "level": 2
+        },
+        {
+          "kind": "paragraph",
+          "text": "Deze bestaande reviews gaan over Sarasin Clinic in het algemeen, niet specifiek over Hairfiller-resultaten."
+        },
+        {
+          "kind": "quote",
+          "text": "“Je krijgt professionele uitleg en de juiste behandeling”",
+          "author": "Marita S."
+        },
+        {
+          "kind": "quote",
+          "text": "“Vriendelijke ontvangst en perfecte uitleg over de behandeling.”",
+          "author": "Isabelle D. S."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Overgenomen uit de openbare reviewpagina van Sarasin Clinic, gecontroleerd op 7 november 2026. Geen verzonnen beoordelingen, sterren of resultaten."
+        },
+        {
+          "kind": "link",
+          "text": "Lees de oorspronkelijke reviews",
+          "url": "https://sarasinclinic.com/ervaringen/"
+        },
+        {
+          "kind": "link",
+          "text": "Uitleg en resultaten op Instagram",
+          "url": "https://www.instagram.com/p/DMNFS29InWc/"
+        },
+        {
+          "kind": "heading",
+          "text": "BV’s & Hairfiller bij Sarasin Clinic",
+          "level": 3
+        },
+        {
+          "kind": "image",
+          "src": "assets/source/video-x1Ei7ne13Y4.jpg",
+          "alt": "Gunther Levi: veelgestelde vragen",
+          "w": 480,
+          "h": 360
+        },
+        {
+          "kind": "video",
+          "text": "Gunther Levi: veelgestelde vragen",
+          "url": "https://www.youtube.com/watch?v=x1Ei7ne13Y4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/source/video-WdqKQ2NF8t8.jpg",
+          "alt": "Peter Vanlaet: Hairfiller Magic",
+          "w": 480,
+          "h": 360
+        },
+        {
+          "kind": "video",
+          "text": "Peter Vanlaet: Hairfiller Magic",
+          "url": "https://www.youtube.com/watch?v=WdqKQ2NF8t8"
+        },
+        {
+          "kind": "heading",
+          "text": "Hairfiller in de media",
+          "level": 3
+        },
+        {
+          "kind": "paragraph",
+          "text": "Klik op een publicatie om het oorspronkelijke artikel te bekijken. Media-aandacht is geen wetenschappelijk bewijs."
+        },
+        {
+          "kind": "image",
+          "src": "assets/source/2023-08-SarasinClinic-BLIK-Gunther-Levi-haarfiller.jpg",
+          "alt": "BLIK: Gunther Levi: oorspronkelijke publicatie over Hairfiller",
+          "w": 600,
+          "h": 800
+        },
+        {
+          "kind": "link",
+          "text": "BLIK: Gunther Levi",
+          "url": "https://sarasinclinic.com/wp-content/uploads/2023/09/2023-08-SarasinClinic-BLIK-Gunther-Levi-haarfiller.pdf"
+        },
+        {
+          "kind": "image",
+          "src": "assets/source/SararsinClinic_Riadh-Bahri-HLN-haarfiller.jpg",
+          "alt": "HLN: Riadh Bahri: oorspronkelijke publicatie over Hairfiller",
+          "w": 600,
+          "h": 800
+        },
+        {
+          "kind": "link",
+          "text": "HLN: Riadh Bahri",
+          "url": "assets/source/SararsinClinic_Riadh-Bahri-HLN-haarfiller.jpg"
+        },
+        {
+          "kind": "disclosure",
+          "title": "Bekijk de oorspronkelijke reviewafbeelding",
+          "items": [
+            {
+              "kind": "image",
+              "src": "assets/source/SarasinClinic_reviews.jpg",
+              "alt": "Oorspronkelijke algemene reviewafbeelding van Sarasin Clinic",
+              "w": 600,
+              "h": 600
+            }
+          ]
+        },
+        {
+          "kind": "disclosure",
+          "title": "Alle video’s en patiëntverhalen",
+          "items": [
+            {
+              "kind": "paragraph",
+              "text": "Naast de twee video’s hierboven zijn ook deze video’s uit de bronpagina beschikbaar. Een externe video wordt pas geladen nadat je op afspelen klikt."
+            },
+            {
+              "kind": "video",
+              "text": "Hairfiller: uitleg van de clinic",
+              "url": "https://www.youtube.com/watch?v=IJwhkNviX20"
+            },
+            {
+              "kind": "video",
+              "text": "Hair Filler Magic: patiëntverhaal",
+              "url": "https://www.youtube.com/watch?v=wYIBTb6Cfnw"
+            },
+            {
+              "kind": "video",
+              "text": "Voor en na: patiëntverhaal",
+              "url": "https://www.youtube.com/watch?v=M76uytFjRjo"
+            },
+            {
+              "kind": "video",
+              "text": "Tussentijdse resultaten",
+              "url": "https://www.youtube.com/watch?v=J4glhlyh1c4"
+            },
+            {
+              "kind": "video",
+              "text": "Oorzaken van haaruitval uitgelegd",
+              "url": "https://www.youtube.com/watch?v=fZMP_egLUwY"
+            },
+            {
+              "kind": "video",
+              "text": "Gunther Levi: veelgestelde vragen",
+              "url": "https://www.youtube.com/watch?v=x1Ei7ne13Y4"
+            },
+            {
+              "kind": "video",
+              "text": "Peter Vanlaet: Hairfiller Magic",
+              "url": "https://www.youtube.com/watch?v=WdqKQ2NF8t8"
+            }
+          ]
+        },
+        {
+          "kind": "disclosure",
+          "title": "Hairfiller in de media",
+          "items": [
+            {
+              "kind": "link",
+              "text": "BLIK: Gunther Levi (PDF)",
+              "url": "https://sarasinclinic.com/wp-content/uploads/2023/09/2023-08-SarasinClinic-BLIK-Gunther-Levi-haarfiller.pdf"
+            },
+            {
+              "kind": "link",
+              "text": "HLN: Riadh Bahri (originele scan)",
+              "url": "assets/source/SararsinClinic_Riadh-Bahri-HLN-haarfiller.jpg"
+            },
+            {
+              "kind": "paragraph",
+              "text": "Deze links komen uit de behandelingspagina. Verhalen en media-aandacht zijn geen wetenschappelijk bewijs voor een behandeling."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "prijzen",
+      "title": "Zones & tarieven.",
+      "bg": "rgba(0, 0, 0, 0)",
+      "items": [
+        {
+          "kind": "heading",
+          "text": "Zones & tarieven.",
+          "level": 2
+        },
+        {
+          "kind": "paragraph",
+          "text": "De hoeveelheid stemmen we af op jouw behandelgebied. Vergelijk de tarieven per sessie en bekijk wat elke zone omvat."
+        },
+        {
+          "kind": "image",
+          "src": "assets/clinic-treatment-zones.png",
+          "alt": "Origineel zoneschema van Sarasin Clinic: kleine zone met één gebied, middelgrote zone met twee gebieden en grote zone met drie gebieden",
+          "w": 740,
+          "h": 306
+        },
+        {
+          "kind": "caption",
+          "text": "Het zoneschema van Sarasin Clinic. De nummers tonen de verdeling van de gebieden; je behandelaar bevestigt welke zones bij jou passen."
+        },
+        {
+          "kind": "heading",
+          "text": "Kleine zone",
+          "level": 3
+        },
+        {
+          "kind": "paragraph",
+          "text": "1 ml Hairfiller"
+        },
+        {
+          "kind": "paragraph",
+          "text": "€ 210"
+        },
+        {
+          "kind": "paragraph",
+          "text": "per sessie"
+        },
+        {
+          "kind": "disclosure",
+          "title": "Wat omvat deze zone?",
+          "items": [
+            {
+              "kind": "paragraph",
+              "text": "Voor één compacte plek waar je haar dunner wordt, bijvoorbeeld een deel van de haarlijn of kruin."
+            },
+            {
+              "kind": "paragraph",
+              "text": "Per sessie: 1 ml Hairfiller in de gekozen zone."
+            }
+          ]
+        },
+        {
+          "kind": "heading",
+          "text": "Middelgrote zone",
+          "level": 3
+        },
+        {
+          "kind": "paragraph",
+          "text": "2 ml Hairfiller"
+        },
+        {
+          "kind": "paragraph",
+          "text": "€ 310"
+        },
+        {
+          "kind": "paragraph",
+          "text": "per sessie"
+        },
+        {
+          "kind": "disclosure",
+          "title": "Wat omvat deze zone?",
+          "items": [
+            {
+              "kind": "paragraph",
+              "text": "Voor een ruimer gebied of meerdere plekken. We stemmen de verdeling af op jouw haarverlies."
+            },
+            {
+              "kind": "paragraph",
+              "text": "Per sessie: 2 ml Hairfiller, verdeeld over de gekozen zones."
+            }
+          ]
+        },
+        {
+          "kind": "heading",
+          "text": "Grote zone",
+          "level": 3
+        },
+        {
+          "kind": "paragraph",
+          "text": "3 ml Hairfiller"
+        },
+        {
+          "kind": "paragraph",
+          "text": "€ 415"
+        },
+        {
+          "kind": "paragraph",
+          "text": "per sessie"
+        },
+        {
+          "kind": "disclosure",
+          "title": "Wat omvat deze zone?",
+          "items": [
+            {
+              "kind": "paragraph",
+              "text": "Wanneer een groter deel van de hoofdhuid ondersteuning vraagt. Samen bepalen we welke gebieden prioriteit krijgen."
+            },
+            {
+              "kind": "paragraph",
+              "text": "Per sessie: 3 ml Hairfiller, verdeeld volgens jouw plan."
+            }
+          ]
+        },
+        {
+          "kind": "paragraph",
+          "text": "Geen vaste dekking per ml: na een hoofdhuidanalyse bepalen we de zones, hoeveelheid en sessies. De prijzen zijn per sessie. Vraag naar de totale kuurkosten en controleer het actuele tarief bij het boeken."
+        },
+        {
+          "kind": "button",
+          "text": "Bespreek jouw behandelzone",
+          "url": "https://booking.sarasinclinic.com/appointment/locations"
+        }
+      ]
+    },
+    {
+      "id": "nazorg",
+      "title": "Voor- en nazorg.",
+      "bg": "rgb(243, 244, 238)",
+      "items": [
+        {
+          "kind": "heading",
+          "text": "Voor- en nazorg.",
+          "level": 2
+        },
+        {
+          "kind": "paragraph",
+          "text": "De richtlijnen op één plek. Volg altijd het persoonlijke advies van je behandelaar."
+        },
+        {
+          "kind": "disclosure",
+          "title": "Vóór je afspraak",
+          "items": [
+            {
+              "kind": "bullet",
+              "text": "Kom met een schone hoofdhuid, zonder gel, haarlak of haarvezels."
+            },
+            {
+              "kind": "bullet",
+              "text": "Bespreek medicatie, medische voorgeschiedenis en pijnstilling tijdens je consult."
+            },
+            {
+              "kind": "bullet",
+              "text": "Het aantal sessies en het interval stemmen we op jouw situatie af."
+            }
+          ]
+        },
+        {
+          "kind": "disclosure",
+          "title": "Na de behandeling",
+          "items": [
+            {
+              "kind": "bullet",
+              "text": "Wacht 24 uur met je haar wassen en stylingproducten, en 7 dagen met kleuren."
+            },
+            {
+              "kind": "bullet",
+              "text": "Vermijd de eerste 48 uur intensief sporten of sterk zweten."
+            },
+            {
+              "kind": "bullet",
+              "text": "Vermijd direct daarna warmte, sauna, zonnebank en wrijven of krabben aan de hoofdhuid."
+            },
+            {
+              "kind": "bullet",
+              "text": "Tijdelijke roodheid of gevoeligheid is mogelijk. Volg je persoonlijke nazorginstructies."
+            }
+          ]
+        },
+        {
+          "kind": "disclosure",
+          "title": "Wat zit er in Hairfiller?",
+          "items": [
+            {
+              "kind": "paragraph",
+              "text": "Hyaluronzuur met zeven peptiden: Decapeptide-10, -18 en -28, Octapeptide-11 en -2, en Oligopeptide-54 en -71. De precieze werking en geschiktheid bespreken we tijdens het consult."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "in-beeld",
+      "title": "De behandeling in beeld.",
+      "bg": "rgba(0, 0, 0, 0)",
+      "items": [
+        {
+          "kind": "heading",
+          "text": "De behandeling in beeld.",
+          "level": 2
+        },
+        {
+          "kind": "paragraph",
+          "text": "Bekijk het traject en de uitleg van Hairfiller."
+        },
+        {
+          "kind": "image",
+          "src": "assets/video-journey.jpg",
+          "alt": "Videobeeld over het Hairfiller traject",
+          "w": 1080,
+          "h": 1920
+        },
+        {
+          "kind": "video",
+          "text": "▶De Hairfiller journey Bekijk de video",
+          "url": "https://www.youtube.com/watch?v=UyxnG7xZq3I"
+        },
+        {
+          "kind": "image",
+          "src": "assets/video-explainer.jpg",
+          "alt": "Videobeeld met uitleg over Hairfiller",
+          "w": 1080,
+          "h": 1920
+        },
+        {
+          "kind": "video",
+          "text": "▶Hoe werkt Hairfiller? Bekijk de video",
+          "url": "https://www.youtube.com/watch?v=OeLGZdJCpUE"
+        }
+      ]
+    },
+    {
+      "id": "longevity",
+      "title": "Skin Longevity 360°.",
+      "bg": "rgb(52, 98, 91)",
+      "items": [
+        {
+          "kind": "heading",
+          "text": "Skin Longevity 360°.",
+          "level": 2
+        },
+        {
+          "kind": "paragraph",
+          "text": "Clinic, verzorging en leefstijl horen bij elkaar. We kijken naast je behandeling ook naar dagelijkse verzorging, voeding en leefstijl. Zo sluiten het advies in de clinic en je routine thuis op elkaar aan."
+        },
+        {
+          "kind": "image",
+          "src": "assets/collagen-product.webp",
+          "alt": "Sarasin Collagen Tripeptide Complex verpakking",
+          "w": 360,
+          "h": 450
+        },
+        {
+          "kind": "link",
+          "text": "Voor jouw routine thuisOntdek de Sarasin collageenformule in onze webshop. Bekijk het product",
+          "url": "https://www.sarasin.shop/products/collageen"
+        },
+        {
+          "kind": "link",
+          "text": "Ontdek je huidroutine",
+          "url": "https://www.sarasin.shop/pages/sarasin-skin-quiz"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Supplementen vervangen geen diagnose of behandeling. Bespreek haarverlies met een professional."
+        },
+        {
+          "kind": "image",
+          "src": "assets/vision-clinic.jpg",
+          "alt": "",
+          "w": 600,
+          "h": 600
+        },
+        {
+          "kind": "paragraph",
+          "text": "CLINIC"
+        },
+        {
+          "kind": "image",
+          "src": "assets/vision-care.jpg",
+          "alt": "",
+          "w": 600,
+          "h": 600
+        },
+        {
+          "kind": "paragraph",
+          "text": "CARE"
+        },
+        {
+          "kind": "image",
+          "src": "assets/vision-lifestyle.jpg",
+          "alt": "",
+          "w": 600,
+          "h": 600
+        },
+        {
+          "kind": "paragraph",
+          "text": "LIFESTYLE"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Gegenereerde sfeerbeelden ter illustratie."
+        }
+      ]
+    },
+    {
+      "id": "meer-informatie",
+      "title": "Alle informatie, helder gebundeld.",
+      "bg": "rgba(0, 0, 0, 0)",
+      "items": [
+        {
+          "kind": "heading",
+          "text": "Alle informatie, helder gebundeld.",
+          "level": 2
+        },
+        {
+          "kind": "paragraph",
+          "text": "Verdiep je in de oorzaak, de formule en het behandelplan. Zo blijft de hoofdroute kort en is de uitleg altijd beschikbaar."
+        },
+        {
+          "kind": "disclosure",
+          "title": "Hoe ontstaat haaruitval?",
+          "items": [
+            {
+              "kind": "paragraph",
+              "text": "Erfelijkheid, hormonen, leeftijd, een bevalling, stress en voeding kunnen een rol spelen. De activiteit van haarfollikels en de haardichtheid kunnen met de jaren veranderen. Haarverlies kan iedereen treffen; de oorzaak bepaalt welke aanpak past."
+            },
+            {
+              "kind": "paragraph",
+              "text": "De clinic bespreekt dun haar, overmatige uitval, meer volume en ondersteuning rondom een haartransplantatie als mogelijke gespreksonderwerpen. Een behandeling is niet automatisch geschikt voor elke vorm of elk stadium van alopecia."
+            }
+          ]
+        },
+        {
+          "kind": "disclosure",
+          "title": "Wat zijn de mogelijke voordelen?",
+          "items": [
+            {
+              "kind": "paragraph",
+              "text": "De clinic beschrijft een korte, minimaal invasieve behandeling, afgestemd op je haar en doelen, met meestal weinig geplande hersteltijd. De beoogde verbetering betreft de hoofdhuid, haaruitval, haarkwaliteit en de omgeving van de haarfollikels. Resultaten en herstel verschillen: injecties zijn niet zonder risico."
+            },
+            {
+              "kind": "paragraph",
+              "text": "Hyaluronzuur en biomimetische peptiden vormen de basis. Peptiden zijn signaalmoleculen; biomimetische varianten bootsen zulke signalen na. De precieze klinische onderbouwing van de afzonderlijke effecten moet door de behandelaar worden toegelicht."
+            }
+          ]
+        },
+        {
+          "kind": "disclosure",
+          "title": "Welke zeven peptiden bevat de formule?",
+          "items": [
+            {
+              "kind": "image",
+              "src": "assets/source/Dr_Cyj_hairfiller-haargroei.png",
+              "alt": "Oorspronkelijke clinic-illustratie van de haarcyclus bij de peptide-hyaluronzuurformule",
+              "w": 900,
+              "h": 300
+            },
+            {
+              "kind": "caption",
+              "text": "Illustratie uit de bronpagina; het afgebeelde verloop is geen individuele resultaatgarantie."
+            },
+            {
+              "kind": "paragraph",
+              "text": "De bronpagina beschrijft een peptide-hyaluronzuurcomplex. Dit overzicht behoudt alle zeven ingrediëntnamen en codes. De functies zijn beoogde werkingsgebieden, geen individuele resultaatgarantie."
+            },
+            {
+              "kind": "table",
+              "title": "Ingrediënten en beoogde werkingsgebieden",
+              "rows": [
+                [
+                  "Peptide",
+                  "Code",
+                  "Omschrijving"
+                ],
+                [
+                  "Decapeptide-10",
+                  "CG-Keramin2",
+                  "Ondersteuning van hoofdhuid en haarwortel"
+                ],
+                [
+                  "Octapeptide-11",
+                  "CG-Seperin",
+                  "Beoogde bescherming tegen stressgerelateerde celschade"
+                ],
+                [
+                  "Octapeptide-2",
+                  "Prohairin-β4",
+                  "Ondersteuning van de activiteit van haarfollikels"
+                ],
+                [
+                  "Decapeptide-18",
+                  "CG-WINT",
+                  "Beoogde ondersteuning van folliculaire activiteit"
+                ],
+                [
+                  "Decapeptide-28",
+                  "CG-Rehairin",
+                  "Beoogde ondersteuning bij haaruitval"
+                ],
+                [
+                  "Oligopeptide-54",
+                  "CG-Nokkin",
+                  "Beoogde ondersteuning bij haarverlies"
+                ],
+                [
+                  "Oligopeptide-71",
+                  "CG-Edrin",
+                  "Beoogde ondersteuning van haargroei"
+                ]
+              ]
+            },
+            {
+              "kind": "paragraph",
+              "text": "Sterkere bronclaims, zoals de vorming van nieuwe haarzakjes, zijn apart opgenomen in het medische reviewregister en vereisen onderbouwing vóór publicatie als vaststaand effect."
+            }
+          ]
+        },
+        {
+          "kind": "disclosure",
+          "title": "Standaard, intensief en onderhoud: hoe zit dat?",
+          "items": [
+            {
+              "kind": "table",
+              "title": "Behandelprocedure",
+              "rows": [
+                [
+                  "Fase",
+                  "Wat gebeurt er?",
+                  "Duur / interval"
+                ],
+                [
+                  "Consult & diagnose",
+                  "Analyse van hoofdhuid, haardichtheid en haarverlies.",
+                  "Eerste afspraak"
+                ],
+                [
+                  "Plan op maat",
+                  "Zones, hoeveelheid, sessies, kosten en verwachtingen bespreken.",
+                  "Tijdens het consult"
+                ],
+                [
+                  "Kuur & timing",
+                  "De bron noemt gemiddeld vier sessies; de eerste sessie kan aansluitend of later.",
+                  "Vaak om de twee weken; persoonlijk te bevestigen"
+                ],
+                [
+                  "Injectieprocedure",
+                  "Hoofdhuid ontsmetten, fijne injecties rond de haarfollikels. Bespreek eventuele pijnstilling vooraf met de behandelaar.",
+                  "Ongeveer 15 minuten; totale afspraakduur bevestigen"
+                ]
+              ]
+            },
+            {
+              "kind": "bullet",
+              "text": "Consult en plan: analyse van hoofdhuid en haardichtheid; zones, hoeveelheid, verwachtingen en sessies vastleggen. Een eerste sessie kan volgens de bronpagina aansluitend of later plaatsvinden."
+            },
+            {
+              "kind": "bullet",
+              "text": "Standaard: doorgaans vier sessies, vaak om de twee weken."
+            },
+            {
+              "kind": "bullet",
+              "text": "Persoonlijke variatie: de bron noemt ook drie tot vier sessies en intervallen van twee tot vier weken. Laat het exacte schema bevestigen."
+            },
+            {
+              "kind": "bullet",
+              "text": "Intensief: de bron beschrijft vier sessies om de twee weken, gevolgd door eventueel maandelijkse sessies gedurende drie tot zes maanden."
+            },
+            {
+              "kind": "bullet",
+              "text": "Onderhoud: vaak om de drie tot zes maanden; het toestemmingsdocument noemt zesmaandelijks onderhoud."
+            },
+            {
+              "kind": "bullet",
+              "text": "Duur: ongeveer vijftien minuten voor de injectiesessie. De bron noemt elders dertig minuten; bevestig de totale afspraakduur bij het boeken."
+            }
+          ]
+        },
+        {
+          "kind": "disclosure",
+          "title": "Risico’s, geschiktheid en informed consent",
+          "items": [
+            {
+              "kind": "heading",
+              "text": "Voor- en nazorg: het volledige overzicht",
+              "level": 3
+            },
+            {
+              "kind": "paragraph",
+              "text": "De bronrichtlijnen hieronder worden tijdens het consult afgestemd op jouw situatie."
+            },
+            {
+              "kind": "table",
+              "title": "Voorzorg bij Hairfiller",
+              "rows": [
+                [
+                  "Voorzorg",
+                  "Richtlijn"
+                ],
+                [
+                  "Hoofdhuid",
+                  "Kom met een propere hoofdhuid, zonder gel, haarlak of haarvezels."
+                ],
+                [
+                  "Pijnstilling",
+                  "De bron noemt pijnstilling 45 minuten vooraf. Bespreek eerst met je behandelaar welk middel en welke timing voor jou geschikt zijn."
+                ],
+                [
+                  "Behandelreeks",
+                  "De bron noemt zowel vier sessies om de twee weken als drie tot vier sessies met twee tot vier weken ertussen. Laat jouw schema bevestigen."
+                ]
+              ]
+            },
+            {
+              "kind": "table",
+              "title": "Nazorg bij Hairfiller",
+              "rows": [
+                [
+                  "Nazorg",
+                  "Richtlijn"
+                ],
+                [
+                  "Hygiëne",
+                  "Wacht 24 uur met haar wassen."
+                ],
+                [
+                  "Activiteit",
+                  "Wacht 48 uur met sporten of intensief zweten."
+                ],
+                [
+                  "Warmte / UV",
+                  "Vermijd direct na de behandeling een warme douche, sauna en zonnebank."
+                ],
+                [
+                  "Aanraken & producten",
+                  "Raak de hoofdhuid zo min mogelijk aan; geen stylingproducten in de eerste 24 uur."
+                ],
+                [
+                  "Niet manipuleren",
+                  "Masseer of krab niet aan het behandelde gebied."
+                ],
+                [
+                  "Herstel",
+                  "De bron noemt dagelijkse activiteiten vanaf de volgende dag; herstel kan verschillen."
+                ],
+                [
+                  "Onderhoud",
+                  "De bron noemt drie tot zes maanden tussen onderhoudsbehandelingen; volg je persoonlijke plan."
+                ]
+              ]
+            },
+            {
+              "kind": "paragraph",
+              "text": "Bespreek allergieën, medicatie en je medische voorgeschiedenis. De clinic vermeldt onder meer zwangerschap, borstvoeding, auto-immuunaandoeningen en irritatie of infectie van de hoofdhuid als aandachtspunten. De behandeling is niet onderzocht voor kinderen."
+            },
+            {
+              "kind": "paragraph",
+              "text": "Gevoeligheid, roodheid, zwelling of blauwe plekken kunnen voorkomen; ook zeldzame infecties staan in het toestemmingsdocument. Resultaten zijn niet permanent of gegarandeerd. Deze cosmetische behandeling wordt volgens het document niet terugbetaald door het ziekenfonds."
+            },
+            {
+              "kind": "link",
+              "text": "Lees het volledige toestemmingsdocument (PDF, NL/FR/EN)",
+              "url": "https://sarasinclinic.com/wp-content/uploads/2023/06/TOESTEMMING_HAARFILLER_NL-FR-EN_2023_v2.pdf"
+            }
+          ]
+        },
+        {
+          "kind": "disclosure",
+          "title": "Wat kun je zelf doen?",
+          "items": [
+            {
+              "kind": "table",
+              "title": "Wat je zelf kan doen",
+              "rows": [
+                [
+                  "Wat kan je doen?",
+                  "Waarom / aandachtspunt"
+                ],
+                [
+                  "Voeding met ijzer, zink, biotine en vitamine D",
+                  "Een gevarieerd voedingspatroon levert bouwstoffen; laat mogelijke tekorten beoordelen."
+                ],
+                [
+                  "Stress verminderen",
+                  "Stress kan samenhangen met haaruitval. Bespreek aanhoudende klachten."
+                ],
+                [
+                  "Haar én hoofdhuid verzorgen",
+                  "Gebruik milde reiniging en verzorging die je hoofdhuid verdraagt."
+                ],
+                [
+                  "Hoofdhuidmassage",
+                  "De bron noemt dit als algemene verzorging. Niet direct na injecties masseren of krabben."
+                ],
+                [
+                  "Hitte, strakke kapsels en agressieve shampoos beperken",
+                  "Vermindert vermijdbare belasting van haar en hoofdhuid."
+                ],
+                [
+                  "Haargroeisupplementen bespreken",
+                  "Alleen waar passend; geen vervanging voor een diagnose of gevarieerde voeding."
+                ],
+                [
+                  "Collageen bespreken",
+                  "De clinic noemt collageen in haar 360°-aanpak. Geen bewezen oplossing voor elke oorzaak van haarverlies."
+                ],
+                [
+                  "Professionele behandeling: Hairfiller",
+                  "Een consult bepaalt of een cosmetisch traject, andere behandeling of medische verwijzing past."
+                ]
+              ]
+            },
+            {
+              "kind": "bullet",
+              "text": "Gevarieerd eten met voldoende eiwitten en bronnen van ijzer, zink, biotine en vitamine D; laat mogelijke tekorten beoordelen."
+            },
+            {
+              "kind": "bullet",
+              "text": "Aandacht voor stress, milde reiniging en verzorging van haar en hoofdhuid."
+            },
+            {
+              "kind": "bullet",
+              "text": "Beperk sterke hitte, strakke kapsels en irriterende producten."
+            },
+            {
+              "kind": "bullet",
+              "text": "De bron noemt hoofdhuidmassage als algemene verzorging; doe dit niet direct na injecties."
+            },
+            {
+              "kind": "bullet",
+              "text": "Supplementen, waaronder collageen, zijn geen vervanging voor onderzoek of behandeling. Overleg over noodzaak en gebruik."
+            },
+            {
+              "kind": "paragraph",
+              "text": "De clinic noemt Hair Grow Serum en Hydra Roller als mogelijke aanvulling. Vraag eerst naar de juiste producten en timing; de actuele productlinks moeten nog worden bevestigd."
+            }
+          ]
+        },
+        {
+          "kind": "paragraph",
+          "text": "Bronnen: de behandelingspagina van Sarasin Clinic, het toestemmingsdocument en informatie over diagnose en behandeling van haarverlies van de AAD. De bronpagina verwijst daarnaast naar Thiedke, Alopecia in women (2003)."
+        }
+      ]
+    },
+    {
+      "id": "alternatieven",
+      "title": "Welke aanpak past bij jou?",
+      "bg": "rgb(243, 244, 238)",
+      "items": [
+        {
+          "kind": "heading",
+          "text": "Welke aanpak past bij jou?",
+          "level": 2
+        },
+        {
+          "kind": "paragraph",
+          "text": "Injecties, een naaldvrije optie of een ander traject: begin met een persoonlijke beoordeling."
+        },
+        {
+          "kind": "table",
+          "title": "Hairfiller en REYU Hair vergeleken",
+          "rows": [
+            [
+              "Onderwerp",
+              "Hairfiller",
+              "REYU Hair"
+            ],
+            [
+              "Werking",
+              "Peptide-hyaluronzuurformule via injecties in de hoofdhuid.",
+              "Naaldvrije behandeling met gecontroleerde microstroom (CLEM)."
+            ],
+            [
+              "Voor wie",
+              "Bij dunner haar of diffuus haarverlies, als injecties passend zijn.",
+              "Bij diffuse haaruitval of wie een naaldvrije aanpak zoekt; geschiktheid wordt beoordeeld."
+            ],
+            [
+              "Comfort",
+              "Prikjes kunnen gevoelig zijn; tijdelijke roodheid of zwelling is mogelijk.",
+              "De clinic beschrijft de behandeling als doorgaans comfortabel en ontspannend."
+            ],
+            [
+              "Doel / effect",
+              "Cosmetische ondersteuning van de hoofdhuid en follikelomgeving; geen gegarandeerde uitkomst.",
+              "De bron noemt microcirculatie en biofeedback als beoogde werkingsgebieden; de klinische onderbouwing moet worden besproken."
+            ],
+            [
+              "Welke voorkeur past?",
+              "Voor wie injecties aanvaardbaar vindt, als de behandelaar dit passend acht.",
+              "Voor wie een naaldvrij alternatief zoekt; keuze en verwachtingen worden individueel beoordeeld."
+            ],
+            [
+              "Startkuur",
+              "Doorgaans 4 sessies, ongeveer 2–4 weken uit elkaar; jouw behandelaar bepaalt het protocol.",
+              "De bronpagina noemt 4–6 wekelijkse sessies; bevestig jouw plan tijdens het consult."
+            ],
+            [
+              "Wanneer evalueren?",
+              "De bronpagina noemt eerste veranderingen na 4–6 weken en evaluatie rond 3 maanden.",
+              "De bronpagina noemt veranderingen vanaf ongeveer 4 weken en evaluatie tot 6 maanden."
+            ],
+            [
+              "Onderhoud",
+              "Afhankelijk van het plan ongeveer elke 3–6 maanden.",
+              "De bronpagina noemt jaarlijks onderhoud."
+            ],
+            [
+              "Dagelijkse activiteiten",
+              "Meestal kort herstel; houd rekening met de nazorginstructies.",
+              "Volgens de clinic doorgaans geen geplande hersteltijd."
+            ]
+          ]
+        },
+        {
+          "kind": "paragraph",
+          "text": "De timing en effecten zijn beschrijvingen van de bronpagina, geen garantie. De clinic bespreekt ook combinaties; een persoonlijk behandelplan bepaalt of dat passend is. Het REYU-tarief moet afzonderlijk worden bevestigd."
+        },
+        {
+          "kind": "disclosure",
+          "title": "Supplementen en thuisverzorging",
+          "items": [
+            {
+              "kind": "paragraph",
+              "text": "De bronpagina noemt biotine, zink en collageen als mogelijke ondersteuning, vooral bij een vastgesteld tekort. Het effect kan beperkt zijn en kost tijd. Vul niet automatisch hoge doses aan; laat medische oorzaken en eventuele tekorten beoordelen."
+            }
+          ]
+        },
+        {
+          "kind": "disclosure",
+          "title": "Haartransplantatie, PRP en medische opties",
+          "items": [
+            {
+              "kind": "paragraph",
+              "text": "Bij een haartransplantatie worden haarfollikels van een donorgebied verplaatst. Dit is een ander, ingrijpender traject met eigen geschiktheidscriteria, kosten en herstel. De clinic bespreekt Hairfiller soms als aanvulling rondom een transplantatie, maar een betere overleving van transplantaten mag niet als gegarandeerd resultaat worden beloofd."
+            },
+            {
+              "kind": "paragraph",
+              "text": "PRP en, bij bepaalde diagnoses, geneesmiddelen zoals minoxidil of finasteride zijn andere onderwerpen voor de arts. Keuze en eventuele combinaties vragen een medische beoordeling; start hiermee niet op eigen initiatief."
+            }
+          ]
+        },
+        {
+          "kind": "button",
+          "text": "Bespreek de mogelijkheden",
+          "url": "https://booking.sarasinclinic.com/appointment/locations"
+        },
+        {
+          "kind": "link",
+          "text": "Meer over REYU Hair",
+          "url": "https://sarasinclinic.com/behandelingen/reyu-hair/"
+        }
+      ]
+    },
+    {
+      "id": "kennisbank",
+      "title": "Goed geïnformeerd naar je consult.",
+      "bg": "rgb(243, 244, 238)",
+      "items": [
+        {
+          "kind": "heading",
+          "text": "Goed geïnformeerd naar je consult.",
+          "level": 2
+        },
+        {
+          "kind": "paragraph",
+          "text": "Drie redactionele concepten voor de kennisbank, nog ter medische goedkeuring."
+        },
+        {
+          "kind": "heading",
+          "text": "Hairfiller of REYU Hair: wat bespreek je tijdens het consult?",
+          "level": 3
+        },
+        {
+          "kind": "paragraph",
+          "text": "Een helder overzicht van injecties, microstroom, behandeltrajecten en de vragen die je kunt stellen."
+        },
+        {
+          "kind": "link",
+          "text": "Lees het artikel",
+          "url": "/blog/hairfiller-of-reyu/"
+        },
+        {
+          "kind": "heading",
+          "text": "Hairfiller: voorbereiding en nazorg in één overzicht",
+          "level": 3
+        },
+        {
+          "kind": "paragraph",
+          "text": "Wat je vooraf bespreekt, welke nazorg de clinic beschrijft en wanneer je contact opneemt."
+        },
+        {
+          "kind": "link",
+          "text": "Lees het artikel",
+          "url": "/blog/hairfiller-voor-en-nazorg/"
+        },
+        {
+          "kind": "heading",
+          "text": "Haaruitval: zo bereid je een eerste consult voor",
+          "level": 3
+        },
+        {
+          "kind": "paragraph",
+          "text": "Een praktische vragenlijst over klachten, hoofdhuid, gezondheid en realistische verwachtingen."
+        },
+        {
+          "kind": "link",
+          "text": "Lees het artikel",
+          "url": "/blog/haaruitval-consult-voorbereiden/"
+        },
+        {
+          "kind": "link",
+          "text": "Naar de kennisbank",
+          "url": "/blog/"
+        }
+      ]
+    },
+    {
+      "id": "vragen",
+      "title": "Veelgestelde vragen.",
+      "bg": "rgba(0, 0, 0, 0)",
+      "items": [
+        {
+          "kind": "heading",
+          "text": "Veelgestelde vragen.",
+          "level": 2
+        },
+        {
+          "kind": "disclosure",
+          "title": "Wat mag ik verwachten van een Hairfiller behandeling?",
+          "items": [
+            {
+              "kind": "paragraph",
+              "text": "Eerst analyseren we je hoofdhuid en haarverlies. Daarna bepalen we zones, hoeveelheid en sessies. De formule wordt met fijne injecties aangebracht. We bespreken ook aanvullende thuisverzorging. Het resultaat en de geschiktheid verschillen per persoon."
+            }
+          ]
+        },
+        {
+          "kind": "disclosure",
+          "title": "PRP of Hairfiller tegen haaruitval?",
+          "items": [
+            {
+              "kind": "paragraph",
+              "text": "PRP en Hairfiller zijn verschillende behandelingen. Welke aanpak past, bespreek je met de behandelend arts op basis van de oorzaak van jouw haarverlies. Ook andere medische behandelingen kunnen geschikter zijn."
+            }
+          ]
+        },
+        {
+          "kind": "disclosure",
+          "title": "Wat zijn de risico’s en mogelijke complicaties?",
+          "items": [
+            {
+              "kind": "paragraph",
+              "text": "Tijdelijke roodheid, gevoeligheid, zwelling, jeuk of blauwe plekken zijn mogelijk. Het toestemmingsdocument vermeldt ook zeldzame infecties. Klachten verdwijnen vaak binnen enkele dagen, maar kunnen langer duren. Neem bij aanhoudende of toenemende klachten contact op met je behandelaar. Lees vóór je besluit ook het toestemmingsdocument. Toestemmingsdocument (PDF)."
+            }
+          ]
+        },
+        {
+          "kind": "disclosure",
+          "title": "Welk resultaat kan ik verwachten en hoe lang blijft het?",
+          "items": [
+            {
+              "kind": "paragraph",
+              "text": "De clinic beschrijft minder haaruitval en mogelijk voller of steviger haar als behandeldoelen. Veranderingen zijn geleidelijk; evaluatie gebeurt doorgaans rond drie maanden. Het resultaat is niet permanent of gegarandeerd. Onderhoud en je uitgangssituatie bepalen mee het vervolg."
+            }
+          ]
+        },
+        {
+          "kind": "disclosure",
+          "title": "Hoe verloopt een Hairfiller protocol?",
+          "items": [
+            {
+              "kind": "paragraph",
+              "text": "De bronpagina beschrijft een standaardkuur van vier sessies, vaak twee weken uit elkaar. Een intensiever plan kan daarna maandelijkse sessies gedurende drie tot zes maanden omvatten. Onderhoud wordt individueel afgesproken. De bron noemt ook intervallen van twee tot vier weken: volg daarom jouw persoonlijke behandelplan."
+            }
+          ]
+        },
+        {
+          "kind": "disclosure",
+          "title": "Welke aanvullende verzorging bespreekt de clinic?",
+          "items": [
+            {
+              "kind": "paragraph",
+              "text": "De bronpagina noemt Sarasin Hair Grow Serum en de Hydra Roller als aanvullende thuisverzorging. Gebruik en timing worden met de behandelaar afgesproken; ga direct na injecties niet zelf rollen of masseren. De actuele producten en instructies moeten door de clinic worden bevestigd."
+            }
+          ]
+        },
+        {
+          "kind": "disclosure",
+          "title": "Wanneer mag ik mijn haar weer kleuren?",
+          "items": [
+            {
+              "kind": "paragraph",
+              "text": "De richtlijn op de bronpagina is zeven dagen na de behandeling. Je persoonlijke instructies van de behandelaar blijven leidend."
+            }
+          ]
+        },
+        {
+          "kind": "disclosure",
+          "title": "Wanneer mag ik mijn haar weer wassen?",
+          "items": [
+            {
+              "kind": "paragraph",
+              "text": "De richtlijn op de bronpagina is na 24 uur. Vermijd in die eerste periode ook stylingproducten en volg je persoonlijke nazorginstructies."
+            }
+          ]
+        },
+        {
+          "kind": "disclosure",
+          "title": "Doet een Hairfiller behandeling pijn?",
+          "items": [
+            {
+              "kind": "paragraph",
+              "text": "De prikjes kunnen gevoelig of onaangenaam zijn. Na afloop kan de hoofdhuid tijdelijk gevoelig of gezwollen zijn. Bespreek pijnstilling vooraf met je behandelaar; neem niet op eigen initiatief medicatie voor de behandeling."
+            }
+          ]
+        },
+        {
+          "kind": "disclosure",
+          "title": "Kan Hairfiller ook worden gebruikt voor baardgroei?",
+          "items": [
+            {
+              "kind": "paragraph",
+              "text": "Hairfiller is ontwikkeld voor de hoofdhuid. De bronpagina vermeldt dat toepassing in de baardstreek zelden gebeurt. Laat eerst beoordelen of dit voor jouw situatie geschikt en verantwoord is; een resultaat kan niet worden beloofd."
+            }
+          ]
+        },
+        {
+          "kind": "disclosure",
+          "title": "Moet ik eerst naar een dermatoloog?",
+          "items": [
+            {
+              "kind": "paragraph",
+              "text": "Je kunt een intake bij de clinic aanvragen. Bij plots of pleksgewijs haarverlies, pijn, ontsteking, littekens of een mogelijke ziekte- of medicatieoorzaak is medische beoordeling belangrijk. Een juiste diagnose bepaalt welke behandeling zinvol is."
+            }
+          ]
+        },
+        {
+          "kind": "disclosure",
+          "title": "Hoeveel sessies zijn er gemiddeld nodig?",
+          "items": [
+            {
+              "kind": "paragraph",
+              "text": "De bronpagina noemt doorgaans een startkuur van vier sessies en op andere plaatsen drie tot vier sessies, met twee tot vier weken ertussen. Het exacte aantal, de timing en eventueel onderhoud moeten worden bevestigd in jouw consult."
+            }
+          ]
+        },
+        {
+          "kind": "disclosure",
+          "title": "Zijn er alternatieven zonder injecties?",
+          "items": [
+            {
+              "kind": "paragraph",
+              "text": "REYU Hair is de naaldvrije microstroomoptie die de clinic beschrijft. Afhankelijk van de diagnose zijn ook verzorging, medische behandeling, PRP of haartransplantatie onderwerpen voor het consult. Bekijk de vergelijking op deze pagina."
+            }
+          ]
+        },
+        {
+          "kind": "disclosure",
+          "title": "Wat kan ik zelf doen voor mijn haar?",
+          "items": [
+            {
+              "kind": "paragraph",
+              "text": "Milde verzorging, gevarieerde voeding, minder hitte en strakke kapsels en aandacht voor stress passen bij een bredere aanpak. Laat mogelijke tekorten beoordelen voordat je supplementen gebruikt. Masseer of rol de hoofdhuid niet direct na een behandeling."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "auteur",
+      "title": "Over de auteur",
+      "bg": "rgba(0, 0, 0, 0)",
+      "items": [
+        {
+          "kind": "image",
+          "src": "assets/source/NurseKaren-202410-bol-180x180.png",
+          "alt": "Karen Sarasin",
+          "w": 180,
+          "h": 180
+        },
+        {
+          "kind": "heading",
+          "text": "Over de auteur",
+          "level": 2
+        },
+        {
+          "kind": "paragraph",
+          "text": "Karen Sarasin is zaakvoerster van Sarasin Clinic en founder van de Sarasin-productlijn, die zowel science-based skincare als voedingssupplementen omvat. Als geregistreerd verpleegkundige (BScN) en medisch geschoold huidexpert combineert ze jaren klinische ervaring met een diepgaande kennis van huidveroudering en skin longevity."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Karen ontwikkelde de behandelprotocollen binnen Sarasin Clinic én de formules voor de skincare en supplementen die in België worden geproduceerd en via de webshop worden aangeboden. Haar aanpak is altijd gebaseerd op veiligheid, transparantie en realistische resultaten."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Biografie overgenomen uit de clinic-bron. De nieuwe redactionele bewerking wacht nog op medische goedkeuring."
+        },
+        {
+          "kind": "link",
+          "text": "Bekijk Karen’s profiel en diploma’s",
+          "url": "https://sarasinclinic.com/the-team/karen-sarasin/"
+        },
+        {
+          "kind": "link",
+          "text": "Boek een afspraak bij Karen Sarasin",
+          "url": "https://booking.sarasinclinic.com/appointment/locations"
+        }
+      ]
+    },
+    {
+      "id": "over-info",
+      "title": "",
+      "bg": "rgba(0, 0, 0, 0)",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Informatie van Sarasin ClinicKaren Sarasin, verpleegkundige (BScN) en oprichter · Een persoonlijk consult bepaalt welke aanpak past. Resultaten verschillen."
+        },
+        {
+          "kind": "link",
+          "text": "Bekijk de originele behandelingspagina",
+          "url": "https://sarasinclinic.com/behandelingen/hairfiller/"
+        }
+      ]
+    },
+    {
+      "id": "next-section",
+      "title": "Bespreek jouw haarverlies.",
+      "bg": "rgb(230, 240, 235)",
+      "items": [
+        {
+          "kind": "heading",
+          "text": "Bespreek jouw haarverlies.",
+          "level": 2
+        },
+        {
+          "kind": "paragraph",
+          "text": "Ontdek welke aanpak bij jouw hoofdhuid en doelen past."
+        },
+        {
+          "kind": "button",
+          "text": "Boek een persoonlijk consult",
+          "url": "https://booking.sarasinclinic.com/appointment/locations"
+        },
+        {
+          "kind": "image",
+          "src": "assets/next-clinic.webp",
+          "alt": "De rustige ontvangstruimte van Sarasin Clinic in Beveren",
+          "w": 1080,
+          "h": 1080
+        },
+        {
+          "kind": "caption",
+          "text": "Sarasin Clinic · Beveren"
+        },
+        {
+          "kind": "heading",
+          "text": "Ontdek ook",
+          "level": 3
+        },
+        {
+          "kind": "link",
+          "text": "REYU Hair",
+          "url": "https://sarasinclinic.com/behandelingen/reyu-hair/"
+        },
+        {
+          "kind": "link",
+          "text": "Botox",
+          "url": "https://sarasinclinic.com/behandelingen/spierontspanners/"
+        },
+        {
+          "kind": "link",
+          "text": "Laserontharing",
+          "url": "https://sarasinclinic.com/behandelingen/laserontharing/"
+        },
+        {
+          "kind": "link",
+          "text": "HIFU",
+          "url": "https://sarasinclinic.com/behandelingen/hifu/"
+        }
+      ]
+    }
+  ],
+  "sourceBlocks": [
+    {
+      "id": "SRC-001",
+      "items": [
+        {
+          "kind": "heading",
+          "text": "Hair filler behandeling: De effectieve oplossing tegen haaruitval",
+          "level": 3
+        }
+      ]
+    },
+    {
+      "id": "SRC-002",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Ervaar je problemen met haaruitval, kaalheid of dunner wordend haar? Bij Sarasin Clinic kan je nu kiezen voor één van de meest doeltreffende behandelingen tegen (vroegtijdig) haarverlies en haarverdunning."
+        }
+      ]
+    },
+    {
+      "id": "SRC-003",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Je bent niet alleen: hoe ouder we worden, hoe vaker ons haar zijn volume verliest. En dat merk je. Je haar lijkt dunner en dat kan je zelfvertrouwen beïnvloeden. Gelukkig is er Hairfiller – een veilige en krachtige boost die je haar weer voller, sterker en gezonder kan laten stralen."
+        },
+        {
+          "kind": "link",
+          "text": "Hairfiller",
+          "url": "https://sarasinclinic.com/behandelingen/hairfiller/#overbehandeling"
+        }
+      ]
+    },
+    {
+      "id": "SRC-004",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Prijs"
+        }
+      ]
+    },
+    {
+      "id": "SRC-005",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Vanaf € 210"
+        }
+      ]
+    },
+    {
+      "id": "SRC-006",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Behandeltijd"
+        }
+      ]
+    },
+    {
+      "id": "SRC-007",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "+/- 15 minuten"
+        }
+      ]
+    },
+    {
+      "id": "SRC-008",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Effect"
+        }
+      ]
+    },
+    {
+      "id": "SRC-009",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "na 3-6 maand"
+        }
+      ]
+    },
+    {
+      "id": "SRC-010",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Hairfiller voor wie is het een aanrader?"
+        },
+        {
+          "kind": "link",
+          "text": "Hairfiller voor wie is het een aanrader?",
+          "url": "https://sarasinclinic.com/behandelingen/hairfiller/#wie"
+        }
+      ]
+    },
+    {
+      "id": "SRC-011",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Hoe ontstaat haaruitval en dunner wordend haar?"
+        },
+        {
+          "kind": "link",
+          "text": "Hoe ontstaat haaruitval en dunner wordend haar?",
+          "url": "https://sarasinclinic.com/behandelingen/hairfiller/#hoe"
+        }
+      ]
+    },
+    {
+      "id": "SRC-012",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Wat doen Hair Fillers juist?"
+        },
+        {
+          "kind": "link",
+          "text": "Wat doen Hair Fillers juist?",
+          "url": "https://sarasinclinic.com/behandelingen/hairfiller/#overbehandeling"
+        }
+      ]
+    },
+    {
+      "id": "SRC-013",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Voordelen van haarfillers"
+        },
+        {
+          "kind": "link",
+          "text": "Voordelen van haarfillers",
+          "url": "https://sarasinclinic.com/behandelingen/hairfiller/#voordelen"
+        }
+      ]
+    },
+    {
+      "id": "SRC-014",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Resultaten"
+        },
+        {
+          "kind": "link",
+          "text": "Resultaten",
+          "url": "https://sarasinclinic.com/behandelingen/hairfiller/#resultaten"
+        }
+      ]
+    },
+    {
+      "id": "SRC-015",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Klantervaringen"
+        },
+        {
+          "kind": "link",
+          "text": "Klantervaringen",
+          "url": "https://sarasinclinic.com/behandelingen/hairfiller/#klant"
+        }
+      ]
+    },
+    {
+      "id": "SRC-016",
+      "items": [
+        {
+          "kind": "heading",
+          "text": "1. Voor wie is een Hairfiller behandeling geschikt?",
+          "level": 3
+        }
+      ]
+    },
+    {
+      "id": "SRC-017",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Voor mannen en vrouwen van alle leeftijden die aan alopecia lijden, in welk stadium ze zich ook bevinden: bij de eerste symptomen of zelfs in een vergevorderd stadium."
+        }
+      ]
+    },
+    {
+      "id": "SRC-018",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Mannen en vrouwen met dun haar & overmatig haarverlies."
+        }
+      ]
+    },
+    {
+      "id": "SRC-019",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Mannen en vrouwen die meer volume wensen."
+        }
+      ]
+    },
+    {
+      "id": "SRC-020",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Bij een haartransplantatie helpt het ook om de overlevingskans van getransplanteerd haar te verhogen."
+        }
+      ]
+    },
+    {
+      "id": "SRC-021",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Personen die op zoek zijn naar een krachtiger resultaat dan haargroei-supplementen."
+        }
+      ]
+    },
+    {
+      "id": "SRC-022",
+      "items": [
+        {
+          "kind": "heading",
+          "text": "Versterk het effect van je behandeling van binnenuit",
+          "level": 3
+        }
+      ]
+    },
+    {
+      "id": "SRC-023",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Onze hoogwaardige collageenformule helpt je huid en haar van binnenuit te verstevigen en ondersteunt de natuurlijke aanmaak van collageen."
+        }
+      ]
+    },
+    {
+      "id": "SRC-024",
+      "items": [
+        {
+          "kind": "heading",
+          "text": "2. Hoe ontstaat haaruitval en dunner wordend haar?",
+          "level": 3
+        }
+      ]
+    },
+    {
+      "id": "SRC-025",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Haaruitval, alopecia en dunner wordend haar vindt plaats bij zowel mannen als vrouwen (*) binnen alle leeftijdscategorieën om verschillende redenen."
+        },
+        {
+          "kind": "link",
+          "text": "mannen",
+          "url": "https://sarasinclinic.com/behandelingen/hairfiller/haarverlies-mannen/"
+        },
+        {
+          "kind": "link",
+          "text": "vrouwen",
+          "url": "https://sarasinclinic.com/behandelingen/hairfiller/haarverlies-vrouwen/"
+        },
+        {
+          "kind": "link",
+          "text": "*",
+          "url": "https://sarasinclinic.com/behandelingen/hairfiller/#bron"
+        }
+      ]
+    },
+    {
+      "id": "SRC-026",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Genetica, hormonen, leeftijd, bevalling, stress en voeding kunnen allemaal van negatieve invloed zijn op de kwetsbare haarfollikels."
+        }
+      ]
+    },
+    {
+      "id": "SRC-027",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Naarmate men ouder wordt, begint het haar zijn dichtheid vaak te verliezen en de eens gezonde follikels hun activiteit te verminderen."
+        }
+      ]
+    },
+    {
+      "id": "SRC-028",
+      "items": [
+        {
+          "kind": "heading",
+          "text": "Boek hier een eerste consultatie",
+          "level": 3
+        }
+      ]
+    },
+    {
+      "id": "SRC-029",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Boek nu een gratis en vrijblijvende consultatie en krijg advies op maat van jouw huid en wensen."
+        }
+      ]
+    },
+    {
+      "id": "SRC-030",
+      "items": [
+        {
+          "kind": "heading",
+          "text": "Video’s over hair fillers",
+          "level": 3
+        }
+      ]
+    },
+    {
+      "id": "SRC-031",
+      "items": [
+        {
+          "kind": "heading",
+          "text": "3. Wat doen Hair Fillers juist?",
+          "level": 3
+        }
+      ]
+    },
+    {
+      "id": "SRC-032",
+      "items": [
+        {
+          "kind": "heading",
+          "text": "Hair fillers zijn dé behandeling tegen haaruitval, en zorgen voor voller & dikker haar",
+          "level": 3
+        }
+      ]
+    },
+    {
+      "id": "SRC-033",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Hair fillers zijn een methode om dunner wordend haar aan te pakken door extra volume en textuur aan de haarwortels toe te voegen. Dit wordt bereikt door het injecteren van een filler, doorgaans op basis van hyaluronzuur, in de hoofdhuid. Het hyaluronzuur bevordert de groei van nieuw haar en versterkt tevens het bestaande haar, waardoor het er voller en gezonder uitziet.”"
+        }
+      ]
+    },
+    {
+      "id": "SRC-034",
+      "items": [
+        {
+          "kind": "heading",
+          "text": "Onze Hair Filler is een peptidecomplex geschikt voor haargroei en reconstructie van de hoofdhuid",
+          "level": 3
+        }
+      ]
+    },
+    {
+      "id": "SRC-035",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Voor mensen die kampen met ernstig haarverlies, alopecia of dunner wordend haar, biedt een injecteerbare behandeling op basis van een gepatenteerde peptide-hyaluronzuur formule een veelbelovende oplossing."
+        }
+      ]
+    },
+    {
+      "id": "SRC-036",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Deze behandeling is ontworpen om haarfollikels te herstellen en de gezondheid van de hoofdhuid te verbeteren."
+        }
+      ]
+    },
+    {
+      "id": "SRC-037",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Hierdoor kan het haarverliesproces worden vertraagd, wat de kans op het teruggroeien van dikker en sterker haar vergroot."
+        }
+      ]
+    },
+    {
+      "id": "SRC-038",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Deze specifieke peptide-hyaluronzuur behandeling heeft in veel gevallen bewezen het haarverlies te vertragen en de conditie van zowel de hoofdhuid als de haarfollikels te verbeteren."
+        }
+      ]
+    },
+    {
+      "id": "SRC-039",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "De formule, met gepatenteerde peptiden en hyaluronzuur, versterkt het haar vanaf de haarzakjes en heeft volgens wetenschappelijk onderzoek geleid tot merkbaar dikker en sterker haar."
+        }
+      ]
+    },
+    {
+      "id": "SRC-040",
+      "items": [
+        {
+          "kind": "heading",
+          "text": "Voor & na foto’s Hair Filler",
+          "level": 3
+        }
+      ]
+    },
+    {
+      "id": "SRC-041",
+      "items": [
+        {
+          "kind": "heading",
+          "text": "De Hairfiller is samengesteld uit:",
+          "level": 3
+        }
+      ]
+    },
+    {
+      "id": "SRC-042",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Een Hair Filler behandeling werkt met een krachtig peptidecomplex. Deze peptiden ondersteunen je hoofdhuid, voeden de haarwortels en stimuleren de follikels om opnieuw actief te worden. Hieronder vind je een overzicht van de peptiden die in Hair Filler zitten en hun werking."
+        }
+      ]
+    },
+    {
+      "id": "SRC-043",
+      "items": [
+        {
+          "kind": "table",
+          "title": "De Hairfiller is samengesteld uit:",
+          "rows": [
+            [
+              "Peptide",
+              "Code",
+              "Functie"
+            ],
+            [
+              "Decapeptide-10",
+              "CG-Keramin2",
+              "Voedt de hoofdhuid en haarwortel"
+            ],
+            [
+              "Octapeptide-11",
+              "CG-Seperin",
+              "Remt celdood veroorzaakt door stress"
+            ],
+            [
+              "Octapeptide-2",
+              "Prohairin-β4",
+              "Stimuleert haargroei door stamcellen in haarfollikels te (her)activeren"
+            ],
+            [
+              "Decapeptide-18",
+              "CG-WINT",
+              "Genereert nieuwe haarzakjes"
+            ],
+            [
+              "Decapeptide-28",
+              "CG-Rehairin",
+              "Vertraagt het haaruitvalproces"
+            ],
+            [
+              "Oligopeptide-54",
+              "CG-Nokkin",
+              "Remt haarverlies af"
+            ],
+            [
+              "Oligopeptide-71",
+              "CG-Edrin",
+              "Bevordert de haargroei"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SRC-044",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Samen zorgen deze peptiden ervoor dat haaruitval vertraagt, de kwaliteit van de hoofdhuid verbetert en de haargroei opnieuw gestimuleerd wordt. Dat maakt Hair Filler een behandeling die niet enkel cosmetisch werkt, maar ook op biologisch niveau ondersteuning biedt."
+        }
+      ]
+    },
+    {
+      "id": "SRC-045",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Peptiden zijn van nature voorkomende moleculen in de huid, die signalen naar de belangrijkste huidcellen sturen."
+        },
+        {
+          "kind": "link",
+          "text": "Peptiden",
+          "url": "https://nl.wikipedia.org/wiki/Peptide"
+        }
+      ]
+    },
+    {
+      "id": "SRC-046",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Wanneer collageen beschadigd is, geven ze cellen een signaal om meer te produceren."
+        }
+      ]
+    },
+    {
+      "id": "SRC-047",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Bij een jong lichaam worden deze peptiden op natuurlijke wijze en op het juiste moment aangemaakt."
+        }
+      ]
+    },
+    {
+      "id": "SRC-048",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Nu is mogelijk om deze natuurlijke biologische boodschappers te “kopiëren”. Deze kopieën zijn de biomimetische peptiden die de natuurlijke moleculen van de huid vervangen om deze te behouden en te regenereren."
+        }
+      ]
+    },
+    {
+      "id": "SRC-049",
+      "items": [
+        {
+          "kind": "heading",
+          "text": "4. Voordelen van haarfillers",
+          "level": 3
+        }
+      ]
+    },
+    {
+      "id": "SRC-050",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Haarfillers zijn laagdrempelig, natuurlijk en veilig. Dit zijn echter niet de enige voordelen die de behandeling populair maakt:"
+        }
+      ]
+    },
+    {
+      "id": "SRC-051",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "De procedure is snel: binnen 30 minuten zit je behandelsessie er weer op."
+        }
+      ]
+    },
+    {
+      "id": "SRC-052",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Je hoeft geen rekening te houden met een lange hersteltijd."
+        }
+      ]
+    },
+    {
+      "id": "SRC-053",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Je hebt geen last van downtime."
+        }
+      ]
+    },
+    {
+      "id": "SRC-054",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "De behandeling is minimaal invasief."
+        }
+      ]
+    },
+    {
+      "id": "SRC-055",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Er wordt gewerkt met natuurlijke, biologisch actieve ingrediënten"
+        }
+      ]
+    },
+    {
+      "id": "SRC-056",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "De behandeling wordt volledig afgestemd op jouw haartype en doelen"
+        }
+      ]
+    },
+    {
+      "id": "SRC-057",
+      "items": [
+        {
+          "kind": "heading",
+          "text": "Behandelprocedure",
+          "level": 3
+        }
+      ]
+    },
+    {
+      "id": "SRC-058",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Zo verloopt een Hairfiller-behandeling bij ons: van eerste consult tot injectiesessie. Het schema hieronder geeft per fase weer wat je mag verwachten en hoe vaak/hoelang het duurt."
+        }
+      ]
+    },
+    {
+      "id": "SRC-059",
+      "items": [
+        {
+          "kind": "table",
+          "title": "Behandelprocedure",
+          "rows": [
+            [
+              "Fase",
+              "Wat gebeurt er?",
+              "Duur / interval"
+            ],
+            [
+              "Consult & diagnose",
+              "Persoonlijke consultatie. We bekijken je hoofdhuid, haardichtheid en (indien aanwezig) haarverlies.",
+              "Eerste afspraak"
+            ],
+            [
+              "Plan op maat",
+              "We bepalen zones, hoeveelheid Hairfiller, aantal sessies en wat je mag verwachten van resultaat.",
+              "Tijdens het consult"
+            ],
+            [
+              "Kuur & timing",
+              "Aanbevolen kuur: gemiddeld 4 behandelingen. De eerste sessie kan meteen na het consult of later ingepland worden.",
+              "Elke 2 weken, 4 sessies"
+            ],
+            [
+              "Injectieprocedure",
+              "Ontsmetten van de hoofdhuid; met een fijne naald plaatsen we kleine hoeveelheden Hairfiller rond de haarzakjes. Prikjes zijn doorgaans goed te verdragen; eventueel paracetamol vooraf .",
+              "± 15 min per sessie"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SRC-060",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Kort: eerst analyseren en plannen, daarna een kuur met korte, vlot te verdragen sessies. Boek een consult en we stemmen alles af op jouw haar en doelen."
+        },
+        {
+          "kind": "link",
+          "text": "Boek een consult",
+          "url": "https://booking.sarasinclinic.com/appointment/locations"
+        }
+      ]
+    },
+    {
+      "id": "SRC-061",
+      "items": [
+        {
+          "kind": "heading",
+          "text": "Voor- en nazorg",
+          "level": 3
+        }
+      ]
+    },
+    {
+      "id": "SRC-062",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Om het meeste uit je Hair Filler behandeling te halen, zijn er enkele eenvoudige voorzorgsmaatregelen waar je rekening mee kan houden. Hieronder vind je een overzicht."
+        }
+      ]
+    },
+    {
+      "id": "SRC-063",
+      "items": [
+        {
+          "kind": "table",
+          "title": "Voor- en nazorg",
+          "rows": [
+            [
+              "Voorzorg",
+              "Richtlijn"
+            ],
+            [
+              "Hoofdhuid",
+              "Kom met een propere hoofdhuid: geen gel, haarlak of haarvezels"
+            ],
+            [
+              "Pijnstilling",
+              "De behandeling kan gevoelig zijn, neem indien gewenst 45 minuten vooraf een pijnstiller"
+            ],
+            [
+              "Behandelreeks",
+              "Voor het beste resultaat zijn 3–4 sessies nodig met een interval van 2–4 weken"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SRC-064",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Door deze voorzorgsmaatregelen te volgen, verloopt de behandeling comfortabeler en bereik je sneller een optimaal resultaat."
+        }
+      ]
+    },
+    {
+      "id": "SRC-065",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Na een Hairfiller-behandeling zijn er enkele eenvoudige nazorginstructies die bijdragen aan een goed herstel en langdurig resultaat. Hieronder vind je een overzicht."
+        }
+      ]
+    },
+    {
+      "id": "SRC-066",
+      "items": [
+        {
+          "kind": "table",
+          "title": "Voor- en nazorg",
+          "rows": [
+            [
+              "Nazorg",
+              "Richtlijn"
+            ],
+            [
+              "Hygiëne",
+              "Wacht 24 uur na de behandeling om je haar te wassen"
+            ],
+            [
+              "Activiteit",
+              "Wacht 48 uur met sporten of intens zweten na de behandeling"
+            ],
+            [
+              "Warmte / UV",
+              "Vermijd een warme douche, sauna en de zonnebank direct na de behandeling"
+            ],
+            [
+              "Aanraken & producten",
+              "Raak je hoofdhuid zo min mogelijk aan en vermijd stylingproducten (de eerste 24 uur)"
+            ],
+            [
+              "Niet manipuleren",
+              "Masseer of krab niet aan het behandelde gebied"
+            ],
+            [
+              "Herstel",
+              "De dag nadien mag je je dagelijkse activiteiten opnieuw opnemen"
+            ],
+            [
+              "Onderhoud",
+              "Tussen onderhoudsbehandelingen laten we een interval van 3–6 maanden"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SRC-067",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Met deze nazorg blijft je hoofdhuid rustig herstellen en profiteer je langer van het resultaat van de behandeling."
+        }
+      ]
+    },
+    {
+      "id": "SRC-068",
+      "items": [
+        {
+          "kind": "heading",
+          "text": "5. Resultaten",
+          "level": 3
+        }
+      ]
+    },
+    {
+      "id": "SRC-069",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Omdat haarfillers op een natuurlijke manier de haargroei stimuleren, heeft het tijd nodig om in te werken. In de eerste weken na je behandeling begin je de eerste effecten op te merken. Na een volledig behandeltraject, zo rond de 3 maanden, kan je genieten van de volledige resultaten:"
+        }
+      ]
+    },
+    {
+      "id": "SRC-070",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Vermindering van haaruitval"
+        }
+      ]
+    },
+    {
+      "id": "SRC-071",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Geactiveerde en versterkte haarzakjes"
+        }
+      ]
+    },
+    {
+      "id": "SRC-072",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Verbeterde bloedcirculatie in de hoofdhuid"
+        }
+      ]
+    },
+    {
+      "id": "SRC-073",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Zichtbare nieuwe haargroei"
+        }
+      ]
+    },
+    {
+      "id": "SRC-074",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Voller, steviger en gezonder uitziend haar"
+        }
+      ]
+    },
+    {
+      "id": "SRC-075",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Verlengde groeifase van de haarcyclus"
+        }
+      ]
+    },
+    {
+      "id": "SRC-076",
+      "items": [
+        {
+          "kind": "heading",
+          "text": "Resultaten per doelgroep",
+          "level": 3
+        }
+      ]
+    },
+    {
+      "id": "SRC-077",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Ben je benieuwd naar specifieke resultaten voor jouw situatie? Bekijk dan onze pagina’s voor mannen en vrouwen."
+        },
+        {
+          "kind": "link",
+          "text": "mannen",
+          "url": "https://sarasinclinic.com/behandelingen/hairfiller/mannen/"
+        },
+        {
+          "kind": "link",
+          "text": "vrouwen",
+          "url": "https://sarasinclinic.com/behandelingen/hairfiller/vrouw/"
+        }
+      ]
+    },
+    {
+      "id": "SRC-078",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Bekijk welke resultaten je van een Hairfiller-behandeling kan verwachten. Wil je weten of Hairfiller voor jou geschikt is? Boek een consult en we stellen samen een persoonlijk behandelplan op."
+        },
+        {
+          "kind": "link",
+          "text": "Boek een consult",
+          "url": "https://booking.sarasinclinic.com/appointment/locations"
+        }
+      ]
+    },
+    {
+      "id": "SRC-079",
+      "items": [
+        {
+          "kind": "heading",
+          "text": "Prijs hair filler",
+          "level": 3
+        }
+      ]
+    },
+    {
+      "id": "SRC-080",
+      "items": [
+        {
+          "kind": "table",
+          "title": "Prijs hair filler",
+          "rows": [
+            [
+              "Prijzen Haar Filler behandelingen"
+            ],
+            [
+              "Hair filler kleine zone (1ml)",
+              "€210/sessie"
+            ],
+            [
+              "Hair filler middelgrote zone (2ml)",
+              "€310/sessie"
+            ],
+            [
+              "Hair filler grote zone (3ml)",
+              "€415/sessie"
+            ]
+          ]
+        },
+        {
+          "kind": "link",
+          "text": "Hair filler",
+          "url": "https://sarasinclinic.com/behandelingen/hairfiller/"
+        },
+        {
+          "kind": "link",
+          "text": "Hair filler",
+          "url": "https://sarasinclinic.com/behandelingen/hair-filler/"
+        },
+        {
+          "kind": "link",
+          "text": "Hair filler",
+          "url": "https://sarasinclinic.com/behandelingen/hair-filler/"
+        }
+      ]
+    },
+    {
+      "id": "SRC-081",
+      "items": [
+        {
+          "kind": "heading",
+          "text": "Alternatieven voor haarfiller",
+          "level": 3
+        }
+      ]
+    },
+    {
+      "id": "SRC-082",
+      "items": [
+        {
+          "kind": "heading",
+          "text": "Behandeling zonder injecties",
+          "level": 3
+        }
+      ]
+    },
+    {
+      "id": "SRC-083",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Zie je een behandeling met naalden niet echt zitten? Dan is Reyu Hair een mogelijk alternatief."
+        },
+        {
+          "kind": "link",
+          "text": "Reyu Hair",
+          "url": "https://sarasinclinic.com/behandelingen/reyu-hair/"
+        }
+      ]
+    },
+    {
+      "id": "SRC-084",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Reyu Hair is een naaldvrije microstroom-behandeling (CLEM) die de microcirculatie rond je haarfollikels stimuleert en de follikels opnieuw actief ondersteunt."
+        }
+      ]
+    },
+    {
+      "id": "SRC-085",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Twijfel je tussen een Hairfiller-behandeling en Reyu Hair? Onderstaande vergelijking helpt je snel kiezen op basis van werking, protocol, comfort en kost."
+        }
+      ]
+    },
+    {
+      "id": "SRC-086",
+      "items": [
+        {
+          "kind": "table",
+          "title": "Behandeling zonder injecties",
+          "rows": [
+            [
+              "Aspect",
+              "Hairfiller",
+              "Reyu Hair"
+            ],
+            [
+              "Wat is het?",
+              "Injecteerbare peptide-gel die de hoofdhuid en haarwortel ondersteunt.",
+              "Naaldvrije apparaatbehandeling met gecontroleerde microstroom (CLEM) die de micro-omgeving van de haarfollikel activeert."
+            ],
+            [
+              "Naalden & comfort",
+              "Met injecties; meestal goed te verdragen.",
+              "Volledig zonder naalden; doorgaans pijnloos en ontspannend."
+            ],
+            [
+              "Indicaties",
+              "Dunner wordend haar, diffuus haarverlies, behoefte aan kwaliteitsboost van haar/hoofdhuid.",
+              "Diffuse haaruitval, gevoelige of naald-averse personen, algemene scalpconditie verbeteren."
+            ],
+            [
+              "Doel / effect",
+              "Cosmetische boost + ondersteuning van de follikelomgeving.",
+              "Microcirculatie & biofeedback ondersteunen voor natuurlijke stimulatie van de follikels."
+            ],
+            [
+              "Startkuur",
+              "Meestal 3–4 sessies met 2–4 weken interval; daarna onderhoud.",
+              "4-6 sessies met (1 sessie per week); daarna 1x/jaar onderhoud."
+            ],
+            [
+              "Downtime",
+              "Weinig; tijdelijke roodheid/gevoeligheid mogelijk.",
+              "Geen echte downtime; je kan meteen verder met je dag."
+            ],
+            [
+              "Wanneer merk je effect?",
+              "Eerste zichtbare resultaten na 4 tot 6 weken",
+              "Na 4 weken begin je de werking van Reyu Hair op te merken, na 6 maand merk je het beste resultaat."
+            ],
+            [
+              "Onderhoud",
+              "Typisch om de 3–6 maanden (afhankelijk van doel en startpunt).",
+              "1 x per jaar"
+            ],
+            [
+              "Voor wie geschikt?",
+              "Wie injecties oké vindt en snel een zichtbaar cosmetisch effect wil.",
+              "Wie een naaldvrij alternatief zoekt en geleidelijke, natuurlijke stimulatie wil."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SRC-087",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Kort: kies Hairfiller voor een snelle cosmetische boost via injecties; kies Reyu Hair als je een naaldvrije kuur wil die de hoofdhuidomgeving ondersteunt. Een combinatie van beide is trouwens ook perfect mogelijk: de behandelingen vullen elkaar mooi aan en versterken elkaars effect."
+        },
+        {
+          "kind": "link",
+          "text": "Reyu Hair",
+          "url": "https://sarasinclinic.com/behandelingen/reyu-hair/"
+        }
+      ]
+    },
+    {
+      "id": "SRC-088",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "👉 Boek een gratis consult en we adviseren samen wat het best bij je past."
+        },
+        {
+          "kind": "link",
+          "text": "Boek een gratis consult",
+          "url": "https://booking.sarasinclinic.com/appointment/locations"
+        }
+      ]
+    },
+    {
+      "id": "SRC-089",
+      "items": [
+        {
+          "kind": "heading",
+          "text": "Haargroeisupplementen",
+          "level": 3
+        }
+      ]
+    },
+    {
+      "id": "SRC-090",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Supplementen zoals biotine, zink of collageen kunnen je haar van binnenuit ondersteunen, zeker bij tekorten of stress. Maar… het effect is vaak beperkt en het duurt maanden voor je resultaat ziet – als je het al ziet."
+        },
+        {
+          "kind": "link",
+          "text": "collageen",
+          "url": "https://www.sarasin.shop/products/collageen"
+        }
+      ]
+    },
+    {
+      "id": "SRC-091",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Wil je sneller en gerichter resultaat? Dan zijn Hairfillers een betere keuze. Ze brengen de actieve stoffen rechtstreeks in je hoofdhuid, precies bij de haarzakjes, zodat je haargroei écht een boost krijgt."
+        }
+      ]
+    },
+    {
+      "id": "SRC-092",
+      "items": [
+        {
+          "kind": "heading",
+          "text": "Haartransplantatie",
+          "level": 3
+        }
+      ]
+    },
+    {
+      "id": "SRC-093",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Een haartransplantatie is wellicht de bekendste oplossing tegen haarverlies. Daarbij worden haarzakjes uit een donorgebied verplaatst naar zones waar je haar dunner is of uitgevallen. De getransplanteerde haren zorgen voor nieuwe, blijvende haargroei."
+        }
+      ]
+    },
+    {
+      "id": "SRC-094",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Klinkt ideaal, toch? Maar… er hangt ook een groot “maar” aan vast. Een haartransplantatie is ingrijpend, duur en vraagt een lange herstelperiode. Bovendien komt niet iedereen in aanmerking."
+        }
+      ]
+    },
+    {
+      "id": "SRC-095",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Daarom kiezen heel wat mensen liever voor een minder drastische oplossing zoals Hairfiller. Deze behandeling is veilig, nauwelijks pijnlijk en zonder downtime – én je ziet vaak al na enkele weken resultaat. Perfect als je een effectieve aanpak zoekt zonder meteen voor een operatie te gaan."
+        }
+      ]
+    },
+    {
+      "id": "SRC-096",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "👉 Belangrijk om te weten: Hair Filler kan ook een aanvullende rol spelen bij een haartransplantatie. Door de actieve ingrediënten (hyaluronzuur en peptiden) verbetert de doorbloeding en voeding van de hoofdhuid, waardoor de overlevingskans van de getransplanteerde haren groter wordt. Zo herstel je sneller én geniet je van een vollere en duurzamere uitkomst."
+        },
+        {
+          "kind": "link",
+          "text": "haartransplantatie",
+          "url": "https://sarasinclinic.com/behandelingen/haartransplantatie/"
+        }
+      ]
+    },
+    {
+      "id": "SRC-097",
+      "items": [
+        {
+          "kind": "heading",
+          "text": "Wat je zelf kan doen",
+          "level": 3
+        }
+      ]
+    },
+    {
+      "id": "SRC-098",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Onderstaande tabel bundelt praktische acties die je zelf kan nemen, plus een professionele optie."
+        }
+      ]
+    },
+    {
+      "id": "SRC-099",
+      "items": [
+        {
+          "kind": "table",
+          "title": "Wat je zelf kan doen",
+          "rows": [
+            [
+              "Wat kan je doen?",
+              "Waarom / effect"
+            ],
+            [
+              "Voeding rijk aan ijzer, zink, biotine en vitamine D",
+              "Levert bouwstenen voor gezond haar; tekorten kunnen haaruitval en dof haar in de hand werken"
+            ],
+            [
+              "Stress verminderen",
+              "Ondersteunt een stabiele haargroeicyclus; minder kans op stress-gerelateerd uitval"
+            ],
+            [
+              "Gebruik producten die haar én hoofdhuid ondersteunen",
+              "Milde reiniging en verzorging houden de huidbarrière en talg-balans op peil"
+            ],
+            [
+              "Masseer je hoofdhuid",
+              "Stimuleert de doorbloeding en ontspant de hoofdhuid"
+            ],
+            [
+              "Vermijd hitte, strakke kapsels en agressieve shampoos",
+              "Vermindert haarbreuk en irritatie van de hoofdhuid"
+            ],
+            [
+              "Overweeg haargroeisupplementen",
+              "Kan voeding aanvullen wanneer je moeilijk alle micronutriënten binnenkrijgt"
+            ],
+            [
+              "Neem collageen",
+              "Ondersteunt de haarstructuur van binnenuit en draagt tegelijk bij aan een gezonde huid en nagels"
+            ],
+            [
+              "Professionele behandeling: Hairfiller",
+              "Medisch-cosmetische behandeling die haarzakjes activeert en de groeicyclus ondersteunt"
+            ]
+          ]
+        },
+        {
+          "kind": "link",
+          "text": "Neem collageen",
+          "url": "https://www.sarasin.shop/products/collageen"
+        }
+      ]
+    },
+    {
+      "id": "SRC-100",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Kort: start met leefstijl en verzorging; wil je extra boost, overweeg een kuur met Hairfiller. Boek een consult en we stellen samen een plan op."
+        },
+        {
+          "kind": "link",
+          "text": "Boek een consult",
+          "url": "https://booking.sarasinclinic.com/appointment/locations"
+        }
+      ]
+    },
+    {
+      "id": "SRC-101",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Bron: Thiedke CC. Alopecia in women. Am Fam Physician. 2003 Mar 1;67(5):1007-14. PMID: 12643360. (PubMed)"
+        },
+        {
+          "kind": "link",
+          "text": "PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/12643360/"
+        }
+      ]
+    },
+    {
+      "id": "SRC-102",
+      "items": [
+        {
+          "kind": "heading",
+          "text": "Analyse your Face",
+          "level": 3
+        }
+      ]
+    },
+    {
+      "id": "SRC-103",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Twijfel je over welke behandelingen en producten het beste bij jouw huid passen? Laat ons je helpen met onze AI-gedreven Skincare Test!"
+        }
+      ]
+    },
+    {
+      "id": "SRC-104",
+      "items": [
+        {
+          "kind": "heading",
+          "text": "6. Klantervaringen",
+          "level": 3
+        }
+      ]
+    },
+    {
+      "id": "SRC-105",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Geloof ons vooral niet op ons woord, maar lees zelf de positieve reviews van tevreden klanten over onze verschillende esthetische behandelingen. We zijn ervan overtuigd dat we ook voor jou het verschil kunnen maken en een fantastisch resultaat zullen kunnen neerzetten!"
+        },
+        {
+          "kind": "link",
+          "text": "positieve reviews",
+          "url": "https://sarasinclinic.com/ervaringen/"
+        }
+      ]
+    },
+    {
+      "id": "SRC-106",
+      "items": [
+        {
+          "kind": "heading",
+          "text": "BV’s & Hair Filler bij Sarasin Clinic",
+          "level": 3
+        }
+      ]
+    },
+    {
+      "id": "SRC-107",
+      "items": [
+        {
+          "kind": "heading",
+          "text": "Sarasin Clinic Hair Filler in de Media",
+          "level": 3
+        }
+      ]
+    },
+    {
+      "id": "SRC-108",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Klik op de foto voor het volledige artikel"
+        }
+      ]
+    },
+    {
+      "id": "SRC-109",
+      "items": [
+        {
+          "kind": "heading",
+          "text": "Boek hier een eerste consultatie",
+          "level": 3
+        }
+      ]
+    },
+    {
+      "id": "SRC-110",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Boek nu een gratis en vrijblijvende consultatie en krijg advies op maat van jouw huid en wensen."
+        }
+      ]
+    },
+    {
+      "id": "SRC-111",
+      "items": [
+        {
+          "kind": "heading",
+          "text": "Veelgestelde vragen over hair filler",
+          "level": 3
+        }
+      ]
+    },
+    {
+      "id": "SRC-112",
+      "items": [
+        {
+          "kind": "heading",
+          "text": "Wat mag ik verwachten van een hair filler behandeling?",
+          "level": 3
+        }
+      ]
+    },
+    {
+      "id": "SRC-113",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Onze arts of verpleegkundige zal vóór de behandeling je hoofdhuid en haar analyseren en samen met jou een behandelplan opstellen om het gewenste resultaat te helpen bereiken. Klinisch onderzoek laat zien dat de hairfiller behandeling bij 4 sessies met een interval van 2 weken zichtbaar goede resultaten oplevert. Wij adviseren je graag over de benodigde hoeveelheid en behandelfrequentie. Tijdens de behandeling zal onze arts of verpleegkundige met een zeer fijne naald meerdere injecties toedienen op de gekozen zone(s) op jouw hoofdhuid. Klanten worden daarnaast aanbevolen tijdens en ná de Hair Filler behandeling dagelijks onze hairserum te gebruiken voor het behoud van het resultaat op lange termijn."
+        }
+      ]
+    },
+    {
+      "id": "SRC-114",
+      "items": [
+        {
+          "kind": "heading",
+          "text": "PRP of hair filler tegen haaruitval?",
+          "level": 3
+        }
+      ]
+    },
+    {
+      "id": "SRC-115",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Beiden zijn mogelijk, de arts bespreekt dit tijdens de afspraak"
+        }
+      ]
+    },
+    {
+      "id": "SRC-116",
+      "items": [
+        {
+          "kind": "heading",
+          "text": "Wat zijn de risico’s en complicaties bij een hair filler?",
+          "level": 3
+        }
+      ]
+    },
+    {
+      "id": "SRC-117",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Een hair filler behandeling bij Sarasin Clinic is een zeer veilige ingreep. De complicaties zijn beperkt tot wat roodheid en lichte huidirritatie direct na injecteren. Deze zijn vaak binnen 72 uur verdwenen."
+        }
+      ]
+    },
+    {
+      "id": "SRC-118",
+      "items": [
+        {
+          "kind": "heading",
+          "text": "Wat is het resultaat van een hair filler?",
+          "level": 3
+        }
+      ]
+    },
+    {
+      "id": "SRC-119",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Al na de eerste behandelsessie met Hairfiller stopt het haaruitvalproces. De volgende sessies stimuleren de bloedsomloop en revitaliseren de haarzakjes significant, waardoor de haargroei wordt versneld. Labo-onderzoek heeft laten zien dat de peptidetherapie de haarcellen en haarfollikels na een behandeling revitaliseert en de bloedcirculatie en hydratatie in de hoofdhuid stimuleert. Tijdens klinisch onderzoek naar de werking werd bij patiënten een toename van de haardichtheid waargenomen van gemiddeld 22,3% en een toename van de haardikte van gemiddeld 26% na 1 sessie elke 2 weken voor een periode van 8 weken (4 sessies). Een volledige Hair Filler behandeling bij Sarasin Clinic zou het haaruitvalproces tot ongeveer een jaar kunnen tegengaan."
+        }
+      ]
+    },
+    {
+      "id": "SRC-120",
+      "items": [
+        {
+          "kind": "heading",
+          "text": "Hoe verloopt een hair filler protocol?",
+          "level": 3
+        }
+      ]
+    },
+    {
+      "id": "SRC-121",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Standaard: 1 sessie per 2 weken, gedurende 8 weken (totaal 4 sessies) - Intensief: 4 sessies om de 2 weken, daarna 1 maandelijkse onderhoudssessie gedurende 3-6 maanden - Onderhoud: 1 sessie om het half jaar - Aanvullende verzorging: In overleg met de behandelende arts"
+        }
+      ]
+    },
+    {
+      "id": "SRC-122",
+      "items": [
+        {
+          "kind": "heading",
+          "text": "Aanvullende verzorging bij hair Fillers",
+          "level": 3
+        }
+      ]
+    },
+    {
+      "id": "SRC-123",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Het is aangewezen om ter aanvulling van de Hair Filler behandeling ons Sarasin Hair Grow Serum te gebruiken, samen met de Hydra Roller."
+        }
+      ]
+    },
+    {
+      "id": "SRC-124",
+      "items": [
+        {
+          "kind": "heading",
+          "text": "Mag ik mijn haar kleuren na een Hair Filler behandeling?",
+          "level": 3
+        }
+      ]
+    },
+    {
+      "id": "SRC-125",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Je mag je haar kleuren 7 dagen na de hair filler behandeling"
+        }
+      ]
+    },
+    {
+      "id": "SRC-126",
+      "items": [
+        {
+          "kind": "heading",
+          "text": "Vanaf wanneer mag ik mijn haar wassen na een Hair Filler behandeling?",
+          "level": 3
+        }
+      ]
+    },
+    {
+      "id": "SRC-127",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Na 24 uur mag je je haar wassen"
+        }
+      ]
+    },
+    {
+      "id": "SRC-128",
+      "items": [
+        {
+          "kind": "heading",
+          "text": "Doet een haarfiller behandeling pijn?",
+          "level": 3
+        }
+      ]
+    },
+    {
+      "id": "SRC-129",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "De behandeling kan wat onaangenaam aanvoelen, maar wordt meestal niet als pijnlijk ervaren. Na de behandeling kan er tijdelijk wat zwelling of gevoeligheid zijn."
+        }
+      ]
+    },
+    {
+      "id": "SRC-130",
+      "items": [
+        {
+          "kind": "heading",
+          "text": "Kan je haarfillers ook gebruiken voor baardgroei?",
+          "level": 3
+        }
+      ]
+    },
+    {
+      "id": "SRC-131",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Hairfillers zijn ontwikkeld en onderzocht voor haaruitval op de hoofdhuid. Voor baardgroei worden ze zelden ingezet. In principe kunnen haarfillers helpen om bestaande of verzwakte haarzakjes in de baardstreek te activeren, maar het resultaat verschilt van persoon tot persoon. Tijdens een consult bekijken we graag of dit een geschikte optie voor jou is."
+        }
+      ]
+    },
+    {
+      "id": "SRC-132",
+      "items": [
+        {
+          "kind": "heading",
+          "text": "Moet ik eerst naar een dermatoloog?",
+          "level": 3
+        }
+      ]
+    },
+    {
+      "id": "SRC-133",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Nee. Je kan rechtstreeks bij ons starten met een intake. Alleen bij “rode vlaggen” (plots pleksgewijze kaalheid, pijn/ontsteking, littekenvorming of duidelijke medicatie/ziekte-triggers) adviseren we eerst medische opvolging."
+        }
+      ]
+    },
+    {
+      "id": "SRC-134",
+      "items": [
+        {
+          "kind": "heading",
+          "text": "Hoeveel sessies hairfiller zijn er gemiddeld nodig?",
+          "level": 3
+        }
+      ]
+    },
+    {
+      "id": "SRC-135",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Een Hairfiller-behandeling wordt altijd uitgevoerd als kuur. Het minimum is 4 sessies, meestal met een interval van 2 tot 4 weken. Dit is nodig omdat de actieve peptides en hyaluronzuur hun werking stap voor stap opbouwen in de hoofdhuid en rond de haarfollikels. Na de startkuur kan een onderhoudssessie om de paar maanden helpen om het resultaat te behouden."
+        }
+      ]
+    },
+    {
+      "id": "SRC-136",
+      "items": [
+        {
+          "kind": "heading",
+          "text": "Over de auteur",
+          "level": 3
+        }
+      ]
+    },
+    {
+      "id": "SRC-137",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Karen Sarasin is zaakvoerster van Sarasin Clinic en founder van de Sarasin-productlijn, die zowel science-based skincare als voedingssupplementen omvat. Als geregistreerd verpleegkundige (BScN) en medisch geschoold huidexpert combineert ze jaren klinische ervaring met een diepgaande kennis van huidveroudering en skin longevity."
+        },
+        {
+          "kind": "link",
+          "text": "Sarasin Clinic",
+          "url": "https://sarasinclinic.com/"
+        },
+        {
+          "kind": "link",
+          "text": "Sarasin-productlijn",
+          "url": "https://www.sarasin.shop/"
+        }
+      ]
+    },
+    {
+      "id": "SRC-138",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Karen ontwikkelde de behandelprotocollen binnen Sarasin Clinic én de formules voor de skincare en supplementen die in België worden geproduceerd en via de webshop worden aangeboden. Haar aanpak is altijd gebaseerd op veiligheid, transparantie en realistische resultaten."
+        },
+        {
+          "kind": "link",
+          "text": "webshop",
+          "url": "https://www.sarasin.shop/"
+        }
+      ]
+    },
+    {
+      "id": "SRC-139",
+      "items": [
+        {
+          "kind": "paragraph",
+          "text": "Bekijk hier de diploma’s van Karen"
+        },
+        {
+          "kind": "link",
+          "text": "Bekijk hier de diploma’s van Karen",
+          "url": "https://sarasinclinic.com/the-team/karen-sarasin/"
+        }
+      ]
+    }
+  ]
+}
