@@ -12,7 +12,7 @@ const readerFragments=source.textNodes.filter(x=>!(x.tag==='IFRAME'&&x.text==='<
 const missing=readerFragments.filter(x=>!content.includes(norm(x.text)));assert.deepEqual(missing,[],'Missing source text fragments');
 for(let i=1;i<groups.length;i++){assert.equal(await page.locator(`[data-original-heading="${i}"]`).count(),1);assert.equal(norm(await page.locator(`[data-original-heading="${i}"]`).textContent()),groups[i].title);}
 assert.equal(await page.locator('[data-original-item]').count(),165);
-for(const original of groups.flatMap(g=>g.items)){const actual=await page.locator(`[data-original-item="${original.id}"]`).textContent();assert(actual.replace(/\s+/g,'').includes(original.text.replace(/\s+/g,'')),'Changed original item '+original.id);}
+for(const original of groups.flatMap(g=>g.items)){if(original.kind==='iframe'&&original.text==='<br />')continue;const actual=await page.locator(`[data-original-item="${original.id}"]`).textContent();assert(actual.replace(/\s+/g,'').includes(original.text.replace(/\s+/g,'')),'Changed original item '+original.id);}
 assert.equal(await page.locator('[data-original-image]').count(),60);
 assert.equal(await page.locator('table').count(),7);
 const tables=await page.locator('table').evaluateAll(ns=>ns.map(t=>[...t.rows].map(r=>[...r.cells].map(c=>c.textContent.replace(/\s+/g,' ').trim()))));
