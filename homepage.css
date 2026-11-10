@@ -19,6 +19,13 @@
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{transition:none!important;animation:none!important}}
 /* Keep native form controls consistent with the site's typography. */
 button,input,select,textarea,optgroup,option{font-family:inherit}
+/* Source order is the reading order on every viewport. */
+.hero>.hero-cta{grid-column:1/-1;margin-top:0}.hero-visual{order:initial}.hero .original-animation{margin-top:16px}
+.source-consult{display:block;margin-top:0}.source-consult>div:first-child{max-width:160px;margin-bottom:24px}.source-consult>div:last-child{padding:24px}
+.reading-wide.process-intro{display:block}.ordered-price-source>.source-picture{max-width:740px;margin:32px auto}.ordered-price-source>.source-picture img{width:100%;height:auto}
+#prijs>.wrap>.price-options{max-width:1100px;margin:0 auto 32px}.lifestyle-context{margin-top:48px}
+#voordelen h2{max-width:24ch}.benefits-section{align-items:start}.ingredients .reading-wide{max-width:1100px}
+@media(min-width:901px){#prijs>.wrap>.price-options{grid-template-columns:repeat(3,minmax(0,1fr))}}
 /* Keep suitability, its original video and the complementary product together. */
 .audience-layout{grid-template-columns:minmax(0,1.5fr) minmax(0,1fr);gap:clamp(32px,5vw,80px)}
 .suitability h2{margin-bottom:32px}.suitability-product{max-width:400px;width:100%;justify-self:center;text-align:center}

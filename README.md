@@ -21,7 +21,7 @@ The reference brand's testimonials, review counts, benefits, guarantees, subscri
 
 ## Current behaviour and handoff
 
-Two-second hero rotation has manual controls, pause, hidden-tab suspension and reduced-motion pause. Ingredient tabs support arrow/Home/End keys. Native disclosures retain all copy in HTML. The mobile menu overlays content without displacing it, traps focus and closes on Escape/backdrop/selection. External videos are click-to-load and removed on close. No analytics vendor, cookies or campaigns are activated.
+Two-second hero rotation has manual controls, pause, hidden-tab suspension and reduced-motion pause. Original headings and content items follow the source order, including numbered sections 1–6; the peptide table is visible inline. Native disclosures retain the long photo gallery, original animation and FAQ answers in HTML. The mobile menu overlays content without displacing it, traps focus and closes on Escape/backdrop/selection. External videos are click-to-load and removed on close. No analytics vendor, cookies or campaigns are activated. See `QA-SOURCE-ORDER-2026-11-10.md` for the fresh audit and sequence regression checks; it supersedes the earlier export-led ordering and ingredient-tab notes.
 
 `node tools/build-handoff.cjs` updates an optional WordPress staging-review package, not an installed or runtime-tested production integration. Preview remains noindex. Clinical approval, media reuse rights, final CTA approval, WordPress access/integration, production SEO/analytics and physical-device QA remain separate launch gates. See `QA-2026-11-10.md` for current evidence.
 

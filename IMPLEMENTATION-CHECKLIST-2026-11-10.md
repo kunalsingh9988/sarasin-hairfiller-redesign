@@ -1,5 +1,7 @@
 # New homepage-reference implementation — 10 November 2026
 
+Later client correction: preserve the source page's exact heading/item sequence. See `QA-SOURCE-ORDER-2026-11-10.md` for the completed sequence correction and tests; this supersedes the ingredient-tab and export-led ordering decisions below.
+
 ## Binding request
 
 - Content authority: https://sarasinclinic.com/behandelingen/hairfiller/
