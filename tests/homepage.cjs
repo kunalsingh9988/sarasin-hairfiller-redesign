@@ -7,6 +7,12 @@ const norm=s=>s.replace(/\s+/g,' ').trim();
 (async()=>{const browser=await chromium.launch();try{
 const page=await browser.newPage({reducedMotion:'reduce'});const errors=[];page.on('pageerror',e=>errors.push(e.message));await page.goto(base,{waitUntil:'networkidle'});
 const content=norm(await page.locator('main').textContent());
+// Keep the complete suitability block together, matching the original clinic page.
+assert.equal(await page.locator('#wie .suitability li').count(),5);
+assert.equal(await page.locator('#wie [data-video="IJwhkNviX20"]').count(),1);
+assert.equal(await page.locator('#wie [data-original-heading="5"]').count(),1);
+assert.equal(await page.locator('#wie [data-original-item="CONTENT-024"] img').count(),1);
+assert.equal(await page.locator('#wie a[href="https://www.sarasin.shop/products/collageen"]').count(),1);
 // The iframe's literal fallback "<br />" is markup, not reader-facing treatment text.
 const readerFragments=source.textNodes.filter(x=>!(x.tag==='IFRAME'&&x.text==='<br />'));
 const missing=readerFragments.filter(x=>!content.includes(norm(x.text)));assert.deepEqual(missing,[],'Missing source text fragments');

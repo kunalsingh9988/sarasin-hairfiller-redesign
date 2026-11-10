@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Sarasin Hairfiller Pilot — Staging Review
  * Description: Optional isolated review-page template. Does not create pages, publish posts, change themes or enable indexing.
- * Version: 0.3.1
+ * Version: 0.3.2
  * Requires at least: 6.0
  * Requires PHP: 7.4
  */
@@ -32,7 +32,7 @@ add_action('wp_enqueue_scripts', function () {
         return;
     }
     $base = plugin_dir_url(__FILE__) . 'public/';
-    wp_enqueue_style('sarasin-pilot-homepage', $base . 'homepage.css', array(), '20261110-fonts');
+    wp_enqueue_style('sarasin-pilot-homepage', $base . 'homepage.css', array(), '20261110-suitability');
     wp_enqueue_script('sarasin-pilot-ui', $base . 'homepage.js', array(), '20261110', true);
     wp_enqueue_script('sarasin-pilot-measurement', $base . 'measurement.js', array(), '20261110', true);
 }, 50);
