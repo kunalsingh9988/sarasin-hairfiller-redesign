@@ -4,82 +4,82 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Wat mag ik verwachten van een Hairfiller behandeling?",
+      "name": "Wat mag ik verwachten van een hair filler behandeling?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Eerst analyseren we je hoofdhuid en haarverlies. Daarna bepalen we zones, hoeveelheid en sessies. De formule wordt met fijne injecties aangebracht. We bespreken ook aanvullende thuisverzorging. Het resultaat en de geschiktheid verschillen per persoon."
+        "text": "Onze arts of verpleegkundige zal vóór de behandeling je hoofdhuid en haar analyseren en samen met jou een behandelplan opstellen om het gewenste resultaat te helpen bereiken. Klinisch onderzoek laat zien dat de hairfiller behandeling bij 4 sessies met een interval van 2 weken zichtbaar goede resultaten oplevert. Wij adviseren je graag over de benodigde hoeveelheid en behandelfrequentie. Tijdens de behandeling zal onze arts of verpleegkundige met een zeer fijne naald meerdere injecties toedienen op de gekozen zone(s) op jouw hoofdhuid. Klanten worden daarnaast aanbevolen tijdens en ná de Hair Filler behandeling dagelijks onze hairserum te gebruiken voor het behoud van het resultaat op lange termijn."
       }
     },
     {
       "@type": "Question",
-      "name": "PRP of Hairfiller tegen haaruitval?",
+      "name": "PRP of hair filler tegen haaruitval?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "PRP en Hairfiller zijn verschillende behandelingen. Welke aanpak past, bespreek je met de behandelend arts op basis van de oorzaak van jouw haarverlies. Ook andere medische behandelingen kunnen geschikter zijn."
+        "text": "Beiden zijn mogelijk, de arts bespreekt dit tijdens de afspraak"
       }
     },
     {
       "@type": "Question",
-      "name": "Wat zijn de risico’s en mogelijke complicaties?",
+      "name": "Wat zijn de risico’s en complicaties bij een hair filler?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Tijdelijke roodheid, gevoeligheid, zwelling, jeuk of blauwe plekken zijn mogelijk. Het toestemmingsdocument vermeldt ook zeldzame infecties. Klachten verdwijnen vaak binnen enkele dagen, maar kunnen langer duren. Neem bij aanhoudende of toenemende klachten contact op met je behandelaar. Lees vóór je besluit ook het toestemmingsdocument."
+        "text": "Een hair filler behandeling bij Sarasin Clinic is een zeer veilige ingreep. De complicaties zijn beperkt tot wat roodheid en lichte huidirritatie direct na injecteren. Deze zijn vaak binnen 72 uur verdwenen."
       }
     },
     {
       "@type": "Question",
-      "name": "Welk resultaat kan ik verwachten en hoe lang blijft het?",
+      "name": "Wat is het resultaat van een hair filler?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "De clinic beschrijft minder haaruitval en mogelijk voller of steviger haar als behandeldoelen. Veranderingen zijn geleidelijk; evaluatie gebeurt doorgaans rond drie maanden. Het resultaat is niet permanent of gegarandeerd. Onderhoud en je uitgangssituatie bepalen mee het vervolg."
+        "text": "Al na de eerste behandelsessie met Hairfiller stopt het haaruitvalproces. De volgende sessies stimuleren de bloedsomloop en revitaliseren de haarzakjes significant, waardoor de haargroei wordt versneld. Labo-onderzoek heeft laten zien dat de peptidetherapie de haarcellen en haarfollikels na een behandeling revitaliseert en de bloedcirculatie en hydratatie in de hoofdhuid stimuleert. Tijdens klinisch onderzoek naar de werking werd bij patiënten een toename van de haardichtheid waargenomen van gemiddeld 22,3% en een toename van de haardikte van gemiddeld 26% na 1 sessie elke 2 weken voor een periode van 8 weken (4 sessies). Een volledige Hair Filler behandeling bij Sarasin Clinic zou het haaruitvalproces tot ongeveer een jaar kunnen tegengaan."
       }
     },
     {
       "@type": "Question",
-      "name": "Hoe verloopt een Hairfiller protocol?",
+      "name": "Hoe verloopt een hair filler protocol?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "De bronpagina beschrijft een standaardkuur van vier sessies, vaak twee weken uit elkaar. Een intensiever plan kan daarna maandelijkse sessies gedurende drie tot zes maanden omvatten. Onderhoud wordt individueel afgesproken. De bron noemt ook intervallen van twee tot vier weken: volg daarom jouw persoonlijke behandelplan."
+        "text": "Standaard: 1 sessie per 2 weken, gedurende 8 weken (totaal 4 sessies) - Intensief: 4 sessies om de 2 weken, daarna 1 maandelijkse onderhoudssessie gedurende 3-6 maanden - Onderhoud: 1 sessie om het half jaar - Aanvullende verzorging: In overleg met de behandelende arts"
       }
     },
     {
       "@type": "Question",
-      "name": "Welke aanvullende verzorging bespreekt de clinic?",
+      "name": "Aanvullende verzorging bij hair Fillers",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "De bronpagina noemt Sarasin Hair Grow Serum en de Hydra Roller als aanvullende thuisverzorging. Gebruik en timing worden met de behandelaar afgesproken; ga direct na injecties niet zelf rollen of masseren. De actuele producten en instructies moeten door de clinic worden bevestigd."
+        "text": "Het is aangewezen om ter aanvulling van de Hair Filler behandeling ons Sarasin Hair Grow Serum te gebruiken, samen met de Hydra Roller."
       }
     },
     {
       "@type": "Question",
-      "name": "Wanneer mag ik mijn haar weer kleuren?",
+      "name": "Mag ik mijn haar kleuren na een Hair Filler behandeling?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "De richtlijn op de bronpagina is zeven dagen na de behandeling. Je persoonlijke instructies van de behandelaar blijven leidend."
+        "text": "Je mag je haar kleuren 7 dagen na de hair filler behandeling"
       }
     },
     {
       "@type": "Question",
-      "name": "Wanneer mag ik mijn haar weer wassen?",
+      "name": "Vanaf wanneer mag ik mijn haar wassen na een Hair Filler behandeling?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "De richtlijn op de bronpagina is na 24 uur. Vermijd in die eerste periode ook stylingproducten en volg je persoonlijke nazorginstructies."
+        "text": "Na 24 uur mag je je haar wassen"
       }
     },
     {
       "@type": "Question",
-      "name": "Doet een Hairfiller behandeling pijn?",
+      "name": "Doet een haarfiller behandeling pijn?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "De prikjes kunnen gevoelig of onaangenaam zijn. Na afloop kan de hoofdhuid tijdelijk gevoelig of gezwollen zijn. Bespreek pijnstilling vooraf met je behandelaar; neem niet op eigen initiatief medicatie voor de behandeling."
+        "text": "De behandeling kan wat onaangenaam aanvoelen, maar wordt meestal niet als pijnlijk ervaren. Na de behandeling kan er tijdelijk wat zwelling of gevoeligheid zijn."
       }
     },
     {
       "@type": "Question",
-      "name": "Kan Hairfiller ook worden gebruikt voor baardgroei?",
+      "name": "Kan je haarfillers ook gebruiken voor baardgroei?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Hairfiller is ontwikkeld voor de hoofdhuid. De bronpagina vermeldt dat toepassing in de baardstreek zelden gebeurt. Laat eerst beoordelen of dit voor jouw situatie geschikt en verantwoord is; een resultaat kan niet worden beloofd."
+        "text": "Hairfillers zijn ontwikkeld en onderzocht voor haaruitval op de hoofdhuid. Voor baardgroei worden ze zelden ingezet. In principe kunnen haarfillers helpen om bestaande of verzwakte haarzakjes in de baardstreek te activeren, maar het resultaat verschilt van persoon tot persoon. Tijdens een consult bekijken we graag of dit een geschikte optie voor jou is."
       }
     },
     {
@@ -87,31 +87,15 @@
       "name": "Moet ik eerst naar een dermatoloog?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Je kunt een intake bij de clinic aanvragen. Bij plots of pleksgewijs haarverlies, pijn, ontsteking, littekens of een mogelijke ziekte- of medicatieoorzaak is medische beoordeling belangrijk. Een juiste diagnose bepaalt welke behandeling zinvol is."
+        "text": "Nee. Je kan rechtstreeks bij ons starten met een intake. Alleen bij “rode vlaggen” (plots pleksgewijze kaalheid, pijn/ontsteking, littekenvorming of duidelijke medicatie/ziekte-triggers) adviseren we eerst medische opvolging."
       }
     },
     {
       "@type": "Question",
-      "name": "Hoeveel sessies zijn er gemiddeld nodig?",
+      "name": "Hoeveel sessies hairfiller zijn er gemiddeld nodig?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "De bronpagina noemt doorgaans een startkuur van vier sessies en op andere plaatsen drie tot vier sessies, met twee tot vier weken ertussen. Het exacte aantal, de timing en eventueel onderhoud moeten worden bevestigd in jouw consult."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Zijn er alternatieven zonder injecties?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "REYU Hair is de naaldvrije microstroomoptie die de clinic beschrijft. Afhankelijk van de diagnose zijn ook verzorging, medische behandeling, PRP of haartransplantatie onderwerpen voor het consult. Bekijk de vergelijking op deze pagina."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Wat kan ik zelf doen voor mijn haar?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Milde verzorging, gevarieerde voeding, minder hitte en strakke kapsels en aandacht voor stress passen bij een bredere aanpak. Laat mogelijke tekorten beoordelen voordat je supplementen gebruikt. Masseer of rol de hoofdhuid niet direct na een behandeling."
+        "text": "Een Hairfiller-behandeling wordt altijd uitgevoerd als kuur. Het minimum is 4 sessies, meestal met een interval van 2 tot 4 weken. Dit is nodig omdat de actieve peptides en hyaluronzuur hun werking stap voor stap opbouwen in de hoofdhuid en rond de haarfollikels. Na de startkuur kan een onderhoudssessie om de paar maanden helpen om het resultaat te behouden."
       }
     }
   ]

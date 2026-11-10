@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-10",
+  "clinicalImages": "All 60 original image elements are mapped to their clinic origin in audit/homepage-content-mapping-2026-11-10.json. Patient outcomes are not altered or generated.",
+  "additionalOriginalDownloads": [
+    "https://sarasinclinic.com/wp-content/uploads/2024/07/transparent-background.png",
+    "https://sarasinclinic.com/wp-content/uploads/2022/08/Sarasin-CTA-header-1-200x200.png",
+    "https://sarasinclinic.com/wp-content/uploads/2025/06/SkincareQuiz-test.gif"
+  ],
+  "generatedLifestyle": {
+    "file": "assets/lifestyle-collagen.webp",
+    "tool": "built-in image_gen",
+    "sourceOutput": "/Users/apple/.codex/generated_images/01a19ae7-56ea-7ca2-85b0-5ee82ec14c6a/exec-4ee7d79b-3fa4-4054-a009-0de3eb659283.png",
+    "reference": "assets/collagen-product.png",
+    "prompt": "Use case: photorealistic-natural. Create one editorial lifestyle photograph for Sarasin Clinic's home-care section. The reference image is the actual Sarasin collagen pouch; preserve its white pouch silhouette, sage-green brand lettering and packaging design faithfully. A naturally styled woman around 45 and a man around 45, both fully dressed in neutral linen, share an ordinary calm morning at a light oak kitchen counter; the woman stirs a clear glass of water with a spoon while the man holds the referenced collagen pouch, front facing, naturally visible. Medium wide landscape composition, bright soft window light, botanical sage accents, warm ivory stone interior. Real skin texture, unretouched candid elegance, inclusive everyday wellness, no glamour hair transformation, no clinical before/after, no implied treatment result. Product proportions credible. No added text, slogan, badges, watermark or medical claims. Leave breathing room around subjects for a landscape website image. This is illustrative lifestyle photography, not patient evidence.",
+    "encoding": "WebP quality 84, no crop or retouch",
+    "disclosure": "AI-lifestyleillustratie · geen patiënt of behandelresultaat",
+    "limits": "Generated packaging details are illustrative, not an authoritative packshot or usage instruction. The original product image remains on the page separately."
+  },
+  "existingIllustrations": ["assets/vision-clinic.jpg", "assets/vision-care.jpg"],
+  "existingClinicInterior": "assets/next-clinic.webp",
+  "icons": "Local Lucide SVGs; ISC licence comments retained in each SVG. No reference-brand icons or logos were copied.",
+  "rights": "Source provenance is not permission for reuse on the separate mini-site. Clinic/media permission remains a launch dependency."
+}

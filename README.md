@@ -1,4 +1,33 @@
-# Sarasin Clinic Hairfiller page concept
+# Sarasin Hairfiller — PDF-reference homepage, 10 November 2026
+
+Standalone HTML/CSS/JavaScript review site adapted from the supplied desktop/mobile PDF exports, with Sarasin's Dutch content, green/ivory palette and self-hosted Bricolage Grotesque. The main clinic site and Shopify are unchanged.
+
+## Current build
+
+- Run `node tools/build-homepage.cjs`, then `python3 -m http.server 8774`.
+- `homepage.css` and `homepage.js` implement the new homepage. Legacy CSS/JS remain for supporting blog/project routes and historical evidence.
+- **Do not run `tools/build-pilot.cjs` over this homepage.** It is the superseded November 7–8 builder.
+- `content/homepage-source.json` contains the original semantic content groups; `audit/source-complete-2026-11-10.json` preserves original HTML, text, links and media.
+- With Playwright available, run `node tests/homepage.cjs http://localhost:8774` for content, responsive and interaction checks.
+- `/content-check/` links directly to each original item's real section, not a separate source transcript.
+
+## Content and imagery
+
+The new homepage retains 43 original headings, 165 semantic items, seven tables, 60 original image elements and 57 links. Of 478 raw text fragments, 477 are reader-facing; one is literal iframe fallback code `<br />`. Tests verify actual text and cells, not merely headings. Source clinical claims and inconsistent protocols are retained with a review warning, not medically approved by this project.
+
+Original clinical imagery and numbered zone diagram are unaltered. `assets/lifestyle-collagen.webp` is a labelled AI lifestyle illustration based on the real Sarasin pouch, not a patient result. Existing `vision-*.jpg` imagery is illustrative too. The source packshot is retained separately. See `assets/homepage-media-provenance.json` for sources and generation prompt. Icons use the existing local Lucide library.
+
+The reference brand's testimonials, review counts, benefits, guarantees, subscriptions and press endorsements are not Sarasin content and were not imported.
+
+## Current behaviour and handoff
+
+Two-second hero rotation has manual controls, pause, hidden-tab suspension and reduced-motion pause. Ingredient tabs support arrow/Home/End keys. Native disclosures retain all copy in HTML. The mobile menu overlays content without displacing it, traps focus and closes on Escape/backdrop/selection. External videos are click-to-load and removed on close. No analytics vendor, cookies or campaigns are activated.
+
+`node tools/build-handoff.cjs` updates an optional WordPress staging-review package, not an installed or runtime-tested production integration. Preview remains noindex. Clinical approval, media reuse rights, final CTA approval, WordPress access/integration, production SEO/analytics and physical-device QA remain separate launch gates. See `QA-2026-11-10.md` for current evidence.
+
+---
+
+## Historical concept notes (superseded; not current design specifications)
 
 Standalone HTML, CSS and JavaScript refinement of the [Hairfiller page](https://sarasinclinic.com/behandelingen/hairfiller/). This is a concept deployment on Vercel and does not change the clinic website or Shopify theme.
 
