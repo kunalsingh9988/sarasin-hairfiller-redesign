@@ -5,12 +5,12 @@
 
 :root{--ink:#153e3a;--deep:#12433d;--mint:#e8f3ef;--cream:#f7f8f5;--line:#d8e8e2;--body:#455f59;--action:#dce784;--action-hover:#cbd865;--action-border:#667328}
 html{scroll-padding-top:100px}
-body{font-family:"Bricolage Grotesque",Arial,sans-serif}
+body{font-family:"Bricolage Grotesque",sans-serif}
 h1,h2,h3{letter-spacing:-.045em;font-weight:600}
 h1 em,h2 em{font-family:inherit;font-weight:500;font-style:normal;letter-spacing:-.05em;color:#67958a}
-.wordmark{font-family:Georgia,serif;font-weight:700}
-.wordmark-small{font-family:"Bricolage Grotesque",Arial,sans-serif}
-.steps h3,.price-grid strong,.video-card-title,.orbit-center,.related a{font-family:"Bricolage Grotesque",Arial,sans-serif}
+.wordmark{font-family:"Bricolage Grotesque",sans-serif;font-weight:700}
+.wordmark-small{font-family:"Bricolage Grotesque",sans-serif}
+.steps h3,.price-grid strong,.video-card-title,.orbit-center,.related a{font-family:"Bricolage Grotesque",sans-serif}
 .steps h3{font-weight:600}
 .price-grid strong{font-weight:600}
 .eyebrow{letter-spacing:.09em;font-size:11px;margin-bottom:14px}
@@ -66,13 +66,13 @@ h1 em,h2 em{font-family:inherit;font-weight:500;font-style:normal;letter-spacing
 .price-illustration{aspect-ratio:8/4}
 .price-card-content{padding:22px 24px 24px}
 .price-card h3{font-size:23px;margin-block:12px 8px}
-.price-card h3{font-family:"Bricolage Grotesque",Arial,sans-serif;font-weight:600}
+.price-card h3{font-family:"Bricolage Grotesque",sans-serif;font-weight:600}
 .price-grid .price-description{min-height:0;margin-bottom:17px}
 .price-grid .price-amount strong{font-size:42px}
 .care-grid{gap:6%;padding-block:67px}
 .video-card{height:310px;border-radius:18px}
 .video-card-title{font-weight:600}
-.video-card-title small{font-family:"Bricolage Grotesque",Arial,sans-serif}
+.video-card-title small{font-family:"Bricolage Grotesque",sans-serif}
 .longevity-grid{gap:5%;padding-block:70px}
 .longevity-grid>div:first-child{min-width:0}
 .bridge-actions{margin:20px 0 12px}
@@ -85,7 +85,7 @@ h1 em,h2 em{font-family:inherit;font-weight:500;font-style:normal;letter-spacing
 .link-arrow{display:inline-block;width:18px;height:18px;flex:none;vertical-align:-3px}
 .product-bridge:hover{background:#f6faf6}
 .orbit-center{font-weight:600}
-.orbit-item span{font-family:"Bricolage Grotesque",Arial,sans-serif}
+.orbit-item span{font-family:"Bricolage Grotesque",sans-serif}
 .faq{padding-block:70px}
 .faq-grid{gap:5%}
 .faq-content{padding-top:40px}
@@ -460,3 +460,5 @@ summary,.button{overflow-wrap:anywhere}
   html.menu-open{overflow:hidden}
   html.menu-open body{padding-right:var(--menu-scrollbar-gap,0px)}
 }
+/* Keep native form controls consistent with the site's typography. */
+button,input,select,textarea,optgroup,option{font-family:inherit}
