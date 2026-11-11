@@ -1,0 +1,599 @@
+{
+  "fileKey": "4bfik7c0UoRH24cfdhtyQX",
+  "frame": "40002354:233",
+  "captured": "2026-11-11",
+  "nodes": {
+    "40002354-466": {
+      "imgImage": "assets/figma/0988af3a-203d-4ec8-a679-8e6b809043ff.svg"
+    },
+    "40002354-893": {
+      "imgImage": "assets/figma/d46218e3-783c-497b-a416-f689af7fa59d.png",
+      "imgImageSarasinClinicHowHairFillerWorksVideo": "assets/figma/bd1fab2d-bb95-4f4c-9037-e13139ccad44.png",
+      "imgImageSarasinClinicVideoHairFillerMagicMan": "assets/figma/6630a99e-da65-499f-94b4-62ebb22cfdd9.png",
+      "imgImageSarasinClinicVideoHairFillerWomanBeforeAfter": "assets/figma/655297e5-030d-408e-8ad1-10f4f297075b.png",
+      "imgImageSarasinClinicVideoHairfillerMagicInterimResults": "assets/figma/188fb602-e89e-45c3-8ef8-f186975a0279.png",
+      "imgImageVideoAboutHairLoss": "assets/figma/17f20762-24a3-4d20-83a1-4a4cc28589d8.png",
+      "imgImage1": "assets/figma/07db7a67-b55a-4782-a13b-152ca52603e4.svg"
+    },
+    "40002354-3752": {
+      "imgImageIllustrativeImageOfAPersonalConsultation": "assets/figma/0a060616-05d1-40ca-96cf-77742e91461e.png",
+      "imgImage": "assets/figma/ed42c864-138e-4349-8c05-8cab9ebe3601.svg"
+    },
+    "40002354-3815": {
+      "imgText": "assets/figma/f83384fd-ca35-493d-a705-08246eb9f577.png",
+      "imgRectangle3176": "assets/figma/9de66e7c-e8b9-4c4a-907e-9c0c591feade.png"
+    },
+    "40002354-3817": {
+      "imgImageDrCyjHairFillerHairGrowth": "assets/figma/75dd73b0-a414-4aa8-8c90-0d6264a64c39.png",
+      "imgImageIllustrativePhotoOfAClinicalScalpTreatment": "assets/figma/6db76800-b606-444e-8c93-2536b9c0b8b1.png",
+      "imgImage": "assets/figma/d777a9da-8e15-4bdb-bbd5-44e7caf83581.svg",
+      "imgImage1": "assets/figma/6e4ea27b-1e82-4d7d-b37e-c9ad82dd8398.svg",
+      "imgImage2": "assets/figma/43276b71-b017-4697-9405-973db2af5345.svg"
+    },
+    "40002354-3816": {
+      "imgImageSarasinClinicPlasticSurgeon": "assets/figma/707b41b1-09aa-4b70-8144-c3a4efe0ee1f.png",
+      "imgImageKarenSarasin": "assets/figma/d1dd3c2d-674d-4b80-ac02-5c4463f396a1.png",
+      "imgMinimalHairFollicleWithThreeArrows12Vectorized": "assets/figma/1621f3e5-da80-4014-8f44-67746b57b2ef.svg",
+      "imgTwoHeadSilhouettesWithThinningHair32Vectorized": "assets/figma/67698624-7189-46c0-89cb-69dfb3d99d5b.svg",
+      "imgSparseHairAndClockIcon22Vectorized": "assets/figma/a526f2b0-63b8-44ab-8d9d-0221fc01dc24.svg",
+      "imgImage": "assets/figma/3465b6d6-8966-44e6-9ff6-65a73408f54e.svg"
+    },
+    "40002354-2513": {
+      "imgImageSarasinClinicHairFillerZonesDrawing": "assets/figma/3522b0df-4fc2-4ccb-b440-2025103fb93c.png",
+      "imgImage": "assets/figma/ca9b4ebc-a290-4454-a395-7fa1e96c6201.svg",
+      "imgImage1": "assets/figma/e0daa860-3a26-4619-8140-ba4f44949589.svg",
+      "imgImage2": "assets/figma/c82659be-5469-43ad-92d1-3c7fa80b4503.svg"
+    },
+    "40002354-1898": {
+      "imgText": "assets/figma/5649c08c-6dab-4bfd-8e4b-a93b72d18a5c.png",
+      "imgRectangle3176": "assets/figma/4d529b55-acae-4adf-b992-90b5387a2c4e.png",
+      "imgImageHairLossWithAndWithoutHairFiller": "assets/figma/fafef7fd-4060-46fa-a808-07199fb84d09.png",
+      "imgImageCareOfHairAndScalpIllustrativeImage": "assets/figma/9ea112ea-340d-42cf-b7b3-9b74ac177da9.png",
+      "imgImage": "assets/figma/0fb99135-996a-4cd8-b344-c943f97cea1e.svg"
+    },
+    "40002354-3064": {
+      "imgImageSarasinSkinTest": "assets/figma/e6393efe-4035-4b4e-879e-13ea90046acf.png",
+      "imgImageIllustrativeHomeRoutineWithSarasinCollagen": "assets/figma/a7b65823-297e-412d-8514-f1dd38803968.png",
+      "imgImage": "assets/figma/401991c7-4bd1-48dd-bade-6228a395bb48.svg"
+    },
+    "40002354-3448": {
+      "imgImage": "assets/figma/e79892f6-876e-438d-bf6f-f8d32db11b8a.svg",
+      "imgImage1": "assets/figma/227b1859-0366-4979-a969-9f36392bfc6c.svg"
+    },
+    "40002354-235": {},
+    "40002354-3881": {
+      "imgText": "assets/figma/608b60ca-8895-49b0-a3b7-05a70ec5bc3c.png",
+      "imgImageEchteVoorEnNafotoVanHairfillerBijSarasinClinic": "assets/figma/a987057e-3c10-4632-969d-e70eca618918.png",
+      "imgImage": "assets/figma/4305a9ea-1011-496c-a91b-0996fab15e10.svg",
+      "imgImage1": "assets/figma/b81c130e-1bfd-4cc7-9210-5767b32298ea.svg",
+      "imgImage2": "assets/figma/34fdcdd2-c766-4ddd-91b3-187bbfc26ef2.svg"
+    },
+    "40002354-635": {
+      "imgText": "assets/figma/add9174c-b947-4e1a-8cd5-f65210f31ac4.png",
+      "imgImage": "assets/figma/d58df222-e83c-4f17-a6d6-c3146369b9c6.png",
+      "imgImageSarasinCollagenTripeptideComplex": "assets/figma/e06a6678-e996-4f61-8152-7138c24bee45.png",
+      "imgImage1": "assets/figma/f3250951-48ef-49c2-941e-bb88dc2bef9c.svg",
+      "imgLogosYoutubeIcon": "assets/figma/4d231362-c77f-48fc-bf81-edf69f0f1df1.svg",
+      "imgImage2": "assets/figma/9b868e7d-7ba4-454f-a67d-db6d2e5f8928.svg",
+      "imgImage3": "assets/figma/288690d7-4f02-41f8-9fab-be6323628aee.svg"
+    },
+    "40002354-3818": {},
+    "40002354-3824": {
+      "imgImage": "assets/figma/5db610c4-ea80-49df-bafb-22ad663da4cc.svg",
+      "imgImage1": "assets/figma/698812d1-ad96-4be7-9dee-2c05c76fed98.svg"
+    },
+    "40002354-3825": {
+      "imgImage": "assets/figma/f9039771-9264-4f79-bb55-4518c4ea5845.svg"
+    },
+    "40002354-3819": {},
+    "40002354-3821": {
+      "imgImage": "assets/figma/f9163d4d-242b-4de8-9425-20e54dd020ad.svg"
+    },
+    "40002354-3820": {
+      "imgImage": "assets/figma/5fa66499-130e-4d41-8236-a3df617b9a96.svg",
+      "imgImage1": "assets/figma/b27101b1-4e14-4aa2-b2f3-bd4e569e2f0b.svg"
+    },
+    "40002354-3822": {
+      "imgImage2": "assets/figma/c9393f95-42ed-477f-9cae-a02ee8683506.png",
+      "imgImage5": "assets/figma/d733fdc9-17a0-4c13-9299-20b72ed74876.png",
+      "imgImageSarasinClinicCanGuntherLeviHairFiller": "assets/figma/afc83228-1cbe-4c2c-97e8-e70e866158a7.png",
+      "imgImageRiadhBahriHlnHairFiller": "assets/figma/bd030c46-88dd-470f-ae40-22e5ad4978ec.png",
+      "imgImageSarasinClinicReviews": "assets/figma/caa3b9e1-e1b7-4b3d-a4cb-aee7cac476d1.png",
+      "imgImageSarasinClinicPlasticSurgeon": "assets/figma/90595e1f-1195-451a-91b9-6881f2bbac5c.png",
+      "imgImage": "assets/figma/5cda18e7-7a04-4bb8-ad3d-abd21a4cb3fa.svg",
+      "imgImage1": "assets/figma/82aa54fb-8b3a-443e-93b5-d64a33aa7f28.svg",
+      "imgImage3": "assets/figma/863d38e1-baa9-41fa-9f46-d7533260ffc6.svg",
+      "imgImage4": "assets/figma/b4cf6356-75e4-4cd7-8915-557ad217ea26.svg"
+    },
+    "40002354-244": {
+      "imgImage": "assets/figma/1a58261f-162e-40b7-a6ee-f8f145dd9032.svg"
+    },
+    "40002354-2137": {
+      "imgImageAftercareForHairFillers": "assets/figma/52c180f3-b2eb-4028-a416-c21468f5ef7f.png"
+    },
+    "40002354-1167": {
+      "imgImageMaleHairFillerBeforeAndAfter5SessionsWith2Ml": "assets/figma/f55df20e-12a4-4997-a018-134dd9d345a8.png",
+      "imgImageHairFillerForWomenBeforeAndAfter": "assets/figma/58b46aa9-7827-4fef-8d7e-f905edf18b83.png",
+      "imgImageMaleHairFillerResultAfter5Sessions": "assets/figma/5051622c-d9ea-471f-b49f-aecbd23c7a4e.png",
+      "imgImageHairFillerForWomenBeforeAndAfter1": "assets/figma/99d85e88-e64c-4417-9408-924250fac449.png",
+      "imgImageHairFillerSelfieManBeforeAndAfter": "assets/figma/ddca7a18-75fd-4135-9ab8-8502dfcf5733.png",
+      "imgImageHairFillerResultForWomenWithThinningHair": "assets/figma/497aa29d-5a61-4a6e-9fcf-6b63f1202b78.png",
+      "imgImageHairFillerWomanBeforeAndAfter": "assets/figma/a0195ae6-90db-4411-953a-c440527a801c.png",
+      "imgImageWoman4HairFillerSessions2ReyuSessions": "assets/figma/d161a351-22e2-4460-ad37-fa48f306541f.png",
+      "imgImageWoman4HairFillerSessions2ReyuSessions1": "assets/figma/363db5bf-28a7-4591-a774-aa4cacc3ca6d.png",
+      "imgImageSarasinClinicHairfillerAfter3Months": "assets/figma/778ce9ad-7241-4939-b9b8-e74434f6b080.png",
+      "imgImageMensHairFillerBeforeAndAfter2Sessions": "assets/figma/ed0f00db-ae63-47d5-83c9-77de9bdb83aa.png",
+      "imgImageHairFillerYoungWomanBeforeAndAfter": "assets/figma/304f4043-cbe8-4de9-a284-45a91d240300.png",
+      "imgImageHairFillerWomanBeforeAndAfter1": "assets/figma/094090d8-7e5e-4d99-b1e0-82e69bcda85d.png",
+      "imgImageHairFillerWomanBeforeAndAfter2": "assets/figma/da261891-3e04-4e40-9d47-198489a80428.png",
+      "imgImageHairFillerWomanBeforeAndAfter3": "assets/figma/2f9a6956-50af-4e09-93a1-f49bfdaa7213.png",
+      "imgImageHerFillerManBeforeAndAfter15Years": "assets/figma/f3e076d8-0d21-4648-a650-ae8c77a2edcd.png",
+      "imgImageSarasinClinicHairFillerAfter3Sessions3SyringesEachTime": "assets/figma/15aa502c-281b-4d44-a44a-d9a0bff4489f.png",
+      "imgImageSarasinClinicHairfillerManAfter4Sessions": "assets/figma/f54328d3-e1a6-490c-85e3-9126896d2289.png",
+      "imgImageSarasinClinicHairFillerAfter3Sessions": "assets/figma/867244b1-40df-4eba-8cbc-66a5450b1bc0.png",
+      "imgImageSarasinClinicHairFillerMan": "assets/figma/75930384-0ca8-43a1-b848-758de0a28b51.png",
+      "imgImageSarasinClinicHairFillerMan1": "assets/figma/97a67804-51de-416b-b2fe-66ac8286463a.png",
+      "imgImageSarasinClinicHairFillerMan2": "assets/figma/090c6358-bace-4b64-b0f1-8af54666d9a3.png",
+      "imgImageSarasinClinicHairFillerMan3": "assets/figma/0065574a-1964-421f-8c0d-d4cc3988ee98.png",
+      "imgImageSarasinClinicHairFillerMan4": "assets/figma/8e5b68b3-0a9c-44f9-ae66-e4fd329bd3d0.png",
+      "imgImageSarasinClinicHairFillerForWomenBeforeAndAfter": "assets/figma/e8b64df2-77ac-4466-bb83-ceffe807b580.png",
+      "imgImageSarasinClinicHairFillerForMenBeforeAndAfter": "assets/figma/62c31912-ddbc-4fe0-9a94-92ee0abb0edb.png",
+      "imgImageSarasinClinicHairFillerForWomenBeforeAndAfter1": "assets/figma/f44747ea-c44e-4200-a9ed-c8ef0e65bd68.png",
+      "imgImageSarasinClinicHairFillerForMenBeforeAndAfter1": "assets/figma/f695d5c7-c854-4cd2-8572-5ca99ea0dedd.png",
+      "imgImageSarasinClinicHairFillerDetailBeforeAndAfter": "assets/figma/f45835b3-7180-4a4d-bacf-ad81a0cf65e6.png",
+      "imgImageSarasinClinicHairFillerForMenBeforeAndAfter2": "assets/figma/3fe96d4b-b50e-4527-9f85-67c7eab54dca.png",
+      "imgImageSarasinClinicHairFillerForMenBeforeAndAfter3": "assets/figma/4b863320-0a9e-411a-94e0-4611a9f3128f.png",
+      "imgImageSarasinClinicHairFillerForMenBeforeAndAfter4": "assets/figma/3a687229-6c60-4cbe-bc9f-3fa4f6983149.png",
+      "imgImageSarasinClinicHairFillerForMenBeforeAndAfter5": "assets/figma/05f6b7d3-a9e6-439e-ac79-72c6cb794a87.png",
+      "imgImageSarasinClinicHairFillerForMenBeforeAndAfter6": "assets/figma/1b2437ce-8341-44bc-89de-16cfc7991f74.png",
+      "imgImageSarasinClinicHairFillerForMenBeforeAndAfter7": "assets/figma/635ba0d7-aa71-4cd3-b58a-7667f23e5979.png",
+      "imgImageSarasinClinicHairFillerForWomenBeforeAndAfter2": "assets/figma/3f3df946-f557-43cc-ac17-ed6c821b7b7c.png",
+      "imgImageSarasinClinicHairFillerForMenBeforeAndAfter8": "assets/figma/3045cac1-4886-46d4-9232-c0d78c74f49c.png",
+      "imgImageSarasinClinicHairFillerManBeforeDuringAfter": "assets/figma/a142efff-0bfa-4040-bcba-a6767541c7e4.png",
+      "imgImageSarasinClinicHairFillerForMenBeforeAndAfter9": "assets/figma/3ba93263-02e5-4966-bac3-0176a4970453.png",
+      "imgImageSarasinClinicHairFillerForMenBeforeAndAfter10": "assets/figma/6f999d8d-775c-4225-b543-21debe3cc4a2.png",
+      "imgImage": "assets/figma/c54e2022-a049-42c4-b093-ad3f483ff484.svg"
+    },
+    "40002354-3823": {
+      "imgImageKarenSarasin": "assets/figma/747f1eca-b23e-4c1f-91fe-10f1202e25d7.png"
+    }
+  },
+  "dimensions": {
+    "assets/figma/0988af3a-203d-4ec8-a679-8e6b809043ff.svg": {
+      "width": 22.0,
+      "height": 22.0
+    },
+    "assets/figma/d46218e3-783c-497b-a416-f689af7fa59d.png": {
+      "width": 1080,
+      "height": 1920
+    },
+    "assets/figma/bd1fab2d-bb95-4f4c-9037-e13139ccad44.png": {
+      "width": 1080,
+      "height": 1920
+    },
+    "assets/figma/6630a99e-da65-499f-94b4-62ebb22cfdd9.png": {
+      "width": 1080,
+      "height": 1920
+    },
+    "assets/figma/655297e5-030d-408e-8ad1-10f4f297075b.png": {
+      "width": 1080,
+      "height": 1920
+    },
+    "assets/figma/188fb602-e89e-45c3-8ef8-f186975a0279.png": {
+      "width": 1080,
+      "height": 1920
+    },
+    "assets/figma/17f20762-24a3-4d20-83a1-4a4cc28589d8.png": {
+      "width": 1080,
+      "height": 1920
+    },
+    "assets/figma/07db7a67-b55a-4782-a13b-152ca52603e4.svg": {
+      "width": 25.0,
+      "height": 25.0
+    },
+    "assets/figma/0a060616-05d1-40ca-96cf-77742e91461e.png": {
+      "width": 1080,
+      "height": 1080
+    },
+    "assets/figma/ed42c864-138e-4349-8c05-8cab9ebe3601.svg": {
+      "width": 22.0,
+      "height": 22.0
+    },
+    "assets/figma/f83384fd-ca35-493d-a705-08246eb9f577.png": {
+      "width": 24,
+      "height": 24
+    },
+    "assets/figma/9de66e7c-e8b9-4c4a-907e-9c0c591feade.png": {
+      "width": 1080,
+      "height": 1350
+    },
+    "assets/figma/75dd73b0-a414-4aa8-8c90-0d6264a64c39.png": {
+      "width": 1100,
+      "height": 309
+    },
+    "assets/figma/6db76800-b606-444e-8c93-2536b9c0b8b1.png": {
+      "width": 800,
+      "height": 800
+    },
+    "assets/figma/d777a9da-8e15-4bdb-bbd5-44e7caf83581.svg": {
+      "width": 22.0,
+      "height": 22.0
+    },
+    "assets/figma/6e4ea27b-1e82-4d7d-b37e-c9ad82dd8398.svg": {
+      "width": 22.0,
+      "height": 22.0
+    },
+    "assets/figma/43276b71-b017-4697-9405-973db2af5345.svg": {
+      "width": 22.0,
+      "height": 22.0
+    },
+    "assets/figma/707b41b1-09aa-4b70-8144-c3a4efe0ee1f.png": {
+      "width": 200,
+      "height": 200
+    },
+    "assets/figma/d1dd3c2d-674d-4b80-ac02-5c4463f396a1.png": {
+      "width": 180,
+      "height": 180
+    },
+    "assets/figma/1621f3e5-da80-4014-8f44-67746b57b2ef.svg": {
+      "width": 48.0,
+      "height": 48.0
+    },
+    "assets/figma/67698624-7189-46c0-89cb-69dfb3d99d5b.svg": {
+      "width": 48.0,
+      "height": 48.0
+    },
+    "assets/figma/a526f2b0-63b8-44ab-8d9d-0221fc01dc24.svg": {
+      "width": 48.0,
+      "height": 48.0
+    },
+    "assets/figma/3465b6d6-8966-44e6-9ff6-65a73408f54e.svg": {
+      "width": 22.0,
+      "height": 22.0
+    },
+    "assets/figma/3522b0df-4fc2-4ccb-b440-2025103fb93c.png": {
+      "width": 740,
+      "height": 305
+    },
+    "assets/figma/ca9b4ebc-a290-4454-a395-7fa1e96c6201.svg": {
+      "width": 22.0,
+      "height": 22.0
+    },
+    "assets/figma/e0daa860-3a26-4619-8140-ba4f44949589.svg": {
+      "width": 17.0,
+      "height": 22.0
+    },
+    "assets/figma/c82659be-5469-43ad-92d1-3c7fa80b4503.svg": {
+      "width": 22.0,
+      "height": 22.0
+    },
+    "assets/figma/5649c08c-6dab-4bfd-8e4b-a93b72d18a5c.png": {
+      "width": 24,
+      "height": 24
+    },
+    "assets/figma/4d529b55-acae-4adf-b992-90b5387a2c4e.png": {
+      "width": 1080,
+      "height": 1350
+    },
+    "assets/figma/fafef7fd-4060-46fa-a808-07199fb84d09.png": {
+      "width": 1200,
+      "height": 1200
+    },
+    "assets/figma/9ea112ea-340d-42cf-b7b3-9b74ac177da9.png": {
+      "width": 800,
+      "height": 800
+    },
+    "assets/figma/0fb99135-996a-4cd8-b344-c943f97cea1e.svg": {
+      "width": 22.0,
+      "height": 22.0
+    },
+    "assets/figma/e6393efe-4035-4b4e-879e-13ea90046acf.png": {
+      "width": 250,
+      "height": 250
+    },
+    "assets/figma/a7b65823-297e-412d-8514-f1dd38803968.png": {
+      "width": 1672,
+      "height": 941
+    },
+    "assets/figma/401991c7-4bd1-48dd-bade-6228a395bb48.svg": {
+      "width": 22.0,
+      "height": 22.0
+    },
+    "assets/figma/e79892f6-876e-438d-bf6f-f8d32db11b8a.svg": {
+      "width": 22.0,
+      "height": 22.0
+    },
+    "assets/figma/227b1859-0366-4979-a969-9f36392bfc6c.svg": {
+      "width": 22.0,
+      "height": 22.0
+    },
+    "assets/figma/608b60ca-8895-49b0-a3b7-05a70ec5bc3c.png": {
+      "width": 24,
+      "height": 24
+    },
+    "assets/figma/a987057e-3c10-4632-969d-e70eca618918.png": {
+      "width": 1200,
+      "height": 1200
+    },
+    "assets/figma/4305a9ea-1011-496c-a91b-0996fab15e10.svg": {
+      "width": 22.0,
+      "height": 22.0
+    },
+    "assets/figma/b81c130e-1bfd-4cc7-9210-5767b32298ea.svg": {
+      "width": 22.0,
+      "height": 22.0
+    },
+    "assets/figma/34fdcdd2-c766-4ddd-91b3-187bbfc26ef2.svg": {
+      "width": 22.0,
+      "height": 22.0
+    },
+    "assets/figma/add9174c-b947-4e1a-8cd5-f65210f31ac4.png": {
+      "width": 24,
+      "height": 24
+    },
+    "assets/figma/d58df222-e83c-4f17-a6d6-c3146369b9c6.png": {
+      "width": 1080,
+      "height": 1920
+    },
+    "assets/figma/e06a6678-e996-4f61-8152-7138c24bee45.png": {
+      "width": 1080,
+      "height": 1350
+    },
+    "assets/figma/f3250951-48ef-49c2-941e-bb88dc2bef9c.svg": {
+      "width": 25.0,
+      "height": 25.0
+    },
+    "assets/figma/4d231362-c77f-48fc-bf81-edf69f0f1df1.svg": {
+      "width": 34.0,
+      "height": 24.0
+    },
+    "assets/figma/9b868e7d-7ba4-454f-a67d-db6d2e5f8928.svg": {
+      "width": 22.0,
+      "height": 22.0
+    },
+    "assets/figma/288690d7-4f02-41f8-9fab-be6323628aee.svg": {
+      "width": 22.0,
+      "height": 22.0
+    },
+    "assets/figma/5db610c4-ea80-49df-bafb-22ad663da4cc.svg": {
+      "width": 22.0,
+      "height": 22.0
+    },
+    "assets/figma/698812d1-ad96-4be7-9dee-2c05c76fed98.svg": {
+      "width": 22.0,
+      "height": 22.0
+    },
+    "assets/figma/f9039771-9264-4f79-bb55-4518c4ea5845.svg": {
+      "width": 22.0,
+      "height": 22.0
+    },
+    "assets/figma/f9163d4d-242b-4de8-9425-20e54dd020ad.svg": {
+      "width": 22.0,
+      "height": 22.0
+    },
+    "assets/figma/5fa66499-130e-4d41-8236-a3df617b9a96.svg": {
+      "width": 22.0,
+      "height": 22.0
+    },
+    "assets/figma/b27101b1-4e14-4aa2-b2f3-bd4e569e2f0b.svg": {
+      "width": 22.0,
+      "height": 22.0
+    },
+    "assets/figma/c9393f95-42ed-477f-9cae-a02ee8683506.png": {
+      "width": 480,
+      "height": 360
+    },
+    "assets/figma/d733fdc9-17a0-4c13-9299-20b72ed74876.png": {
+      "width": 480,
+      "height": 360
+    },
+    "assets/figma/afc83228-1cbe-4c2c-97e8-e70e866158a7.png": {
+      "width": 759,
+      "height": 700
+    },
+    "assets/figma/bd030c46-88dd-470f-ae40-22e5ad4978ec.png": {
+      "width": 700,
+      "height": 759
+    },
+    "assets/figma/caa3b9e1-e1b7-4b3d-a4cb-aee7cac476d1.png": {
+      "width": 1208,
+      "height": 928
+    },
+    "assets/figma/90595e1f-1195-451a-91b9-6881f2bbac5c.png": {
+      "width": 200,
+      "height": 200
+    },
+    "assets/figma/5cda18e7-7a04-4bb8-ad3d-abd21a4cb3fa.svg": {
+      "width": 22.0,
+      "height": 22.0
+    },
+    "assets/figma/82aa54fb-8b3a-443e-93b5-d64a33aa7f28.svg": {
+      "width": 22.0,
+      "height": 22.0
+    },
+    "assets/figma/863d38e1-baa9-41fa-9f46-d7533260ffc6.svg": {
+      "width": 25.0,
+      "height": 25.0
+    },
+    "assets/figma/b4cf6356-75e4-4cd7-8915-557ad217ea26.svg": {
+      "width": 22.0,
+      "height": 22.0
+    },
+    "assets/figma/1a58261f-162e-40b7-a6ee-f8f145dd9032.svg": {
+      "width": 22.0,
+      "height": 22.0
+    },
+    "assets/figma/52c180f3-b2eb-4028-a416-c21468f5ef7f.png": {
+      "width": 700,
+      "height": 336
+    },
+    "assets/figma/f55df20e-12a4-4997-a018-134dd9d345a8.png": {
+      "width": 1080,
+      "height": 1350
+    },
+    "assets/figma/58b46aa9-7827-4fef-8d7e-f905edf18b83.png": {
+      "width": 1080,
+      "height": 1021
+    },
+    "assets/figma/5051622c-d9ea-471f-b49f-aecbd23c7a4e.png": {
+      "width": 1200,
+      "height": 1200
+    },
+    "assets/figma/99d85e88-e64c-4417-9408-924250fac449.png": {
+      "width": 1080,
+      "height": 1075
+    },
+    "assets/figma/ddca7a18-75fd-4135-9ab8-8502dfcf5733.png": {
+      "width": 1200,
+      "height": 1200
+    },
+    "assets/figma/497aa29d-5a61-4a6e-9fcf-6b63f1202b78.png": {
+      "width": 1200,
+      "height": 1200
+    },
+    "assets/figma/a0195ae6-90db-4411-953a-c440527a801c.png": {
+      "width": 1200,
+      "height": 1200
+    },
+    "assets/figma/d161a351-22e2-4460-ad37-fa48f306541f.png": {
+      "width": 1200,
+      "height": 1200
+    },
+    "assets/figma/363db5bf-28a7-4591-a774-aa4cacc3ca6d.png": {
+      "width": 1200,
+      "height": 1200
+    },
+    "assets/figma/778ce9ad-7241-4939-b9b8-e74434f6b080.png": {
+      "width": 1200,
+      "height": 1500
+    },
+    "assets/figma/ed0f00db-ae63-47d5-83c9-77de9bdb83aa.png": {
+      "width": 1080,
+      "height": 1080
+    },
+    "assets/figma/304f4043-cbe8-4de9-a284-45a91d240300.png": {
+      "width": 1200,
+      "height": 1200
+    },
+    "assets/figma/094090d8-7e5e-4d99-b1e0-82e69bcda85d.png": {
+      "width": 1200,
+      "height": 1200
+    },
+    "assets/figma/da261891-3e04-4e40-9d47-198489a80428.png": {
+      "width": 1200,
+      "height": 1200
+    },
+    "assets/figma/2f9a6956-50af-4e09-93a1-f49bfdaa7213.png": {
+      "width": 1200,
+      "height": 1200
+    },
+    "assets/figma/f3e076d8-0d21-4648-a650-ae8c77a2edcd.png": {
+      "width": 1079,
+      "height": 887
+    },
+    "assets/figma/15aa502c-281b-4d44-a44a-d9a0bff4489f.png": {
+      "width": 1080,
+      "height": 1080
+    },
+    "assets/figma/f54328d3-e1a6-490c-85e3-9126896d2289.png": {
+      "width": 800,
+      "height": 800
+    },
+    "assets/figma/867244b1-40df-4eba-8cbc-66a5450b1bc0.png": {
+      "width": 1181,
+      "height": 1181
+    },
+    "assets/figma/75930384-0ca8-43a1-b848-758de0a28b51.png": {
+      "width": 800,
+      "height": 800
+    },
+    "assets/figma/97a67804-51de-416b-b2fe-66ac8286463a.png": {
+      "width": 800,
+      "height": 800
+    },
+    "assets/figma/090c6358-bace-4b64-b0f1-8af54666d9a3.png": {
+      "width": 800,
+      "height": 800
+    },
+    "assets/figma/0065574a-1964-421f-8c0d-d4cc3988ee98.png": {
+      "width": 800,
+      "height": 800
+    },
+    "assets/figma/8e5b68b3-0a9c-44f9-ae66-e4fd329bd3d0.png": {
+      "width": 800,
+      "height": 800
+    },
+    "assets/figma/e8b64df2-77ac-4466-bb83-ceffe807b580.png": {
+      "width": 800,
+      "height": 693
+    },
+    "assets/figma/62c31912-ddbc-4fe0-9a94-92ee0abb0edb.png": {
+      "width": 800,
+      "height": 800
+    },
+    "assets/figma/f44747ea-c44e-4200-a9ed-c8ef0e65bd68.png": {
+      "width": 800,
+      "height": 607
+    },
+    "assets/figma/f695d5c7-c854-4cd2-8572-5ca99ea0dedd.png": {
+      "width": 800,
+      "height": 800
+    },
+    "assets/figma/f45835b3-7180-4a4d-bacf-ad81a0cf65e6.png": {
+      "width": 800,
+      "height": 800
+    },
+    "assets/figma/3fe96d4b-b50e-4527-9f85-67c7eab54dca.png": {
+      "width": 800,
+      "height": 800
+    },
+    "assets/figma/4b863320-0a9e-411a-94e0-4611a9f3128f.png": {
+      "width": 800,
+      "height": 800
+    },
+    "assets/figma/3a687229-6c60-4cbe-bc9f-3fa4f6983149.png": {
+      "width": 800,
+      "height": 653
+    },
+    "assets/figma/05f6b7d3-a9e6-439e-ac79-72c6cb794a87.png": {
+      "width": 800,
+      "height": 800
+    },
+    "assets/figma/1b2437ce-8341-44bc-89de-16cfc7991f74.png": {
+      "width": 800,
+      "height": 800
+    },
+    "assets/figma/635ba0d7-aa71-4cd3-b58a-7667f23e5979.png": {
+      "width": 800,
+      "height": 800
+    },
+    "assets/figma/3f3df946-f557-43cc-ac17-ed6c821b7b7c.png": {
+      "width": 800,
+      "height": 709
+    },
+    "assets/figma/3045cac1-4886-46d4-9232-c0d78c74f49c.png": {
+      "width": 800,
+      "height": 800
+    },
+    "assets/figma/a142efff-0bfa-4040-bcba-a6767541c7e4.png": {
+      "width": 800,
+      "height": 551
+    },
+    "assets/figma/3ba93263-02e5-4966-bac3-0176a4970453.png": {
+      "width": 800,
+      "height": 800
+    },
+    "assets/figma/6f999d8d-775c-4225-b543-21debe3cc4a2.png": {
+      "width": 800,
+      "height": 800
+    },
+    "assets/figma/c54e2022-a049-42c4-b093-ad3f483ff484.svg": {
+      "width": 22.0,
+      "height": 22.0
+    },
+    "assets/figma/747f1eca-b23e-4c1f-91fe-10f1202e25d7.png": {
+      "width": 180,
+      "height": 180
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "base": "http://localhost:8774",
+  "sourceFragments": 478,
+  "sourceHeadings": 43,
+  "originalItems": 165,
+  "sourceImageElements": 60,
+  "sourceLinks": 57,
+  "sourceTables": 7,
+  "sourceOrderVerified": true,
+  "numberedSections": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "benefitsVisible": true,
+  "peptideTableVisible": true,
+  "checks": [
+    {
+      "width": 320,
+      "overflow": false,
+      "expandedTextClipping": false,
+      "sourceImagesLoaded": 60
+    },
+    {
+      "width": 360,
+      "overflow": false,
+      "expandedTextClipping": false,
+      "sourceImagesLoaded": 60
+    },
+    {
+      "width": 393,
+      "overflow": false,
+      "expandedTextClipping": false,
+      "sourceImagesLoaded": 60
+    },
+    {
+      "width": 568,
+      "overflow": false,
+      "expandedTextClipping": false,
+      "sourceImagesLoaded": 60
+    },
+    {
+      "width": 700,
+      "overflow": false,
+      "expandedTextClipping": false,
+      "sourceImagesLoaded": 60
+    },
+    {
+      "width": 768,
+      "overflow": false,
+      "expandedTextClipping": false,
+      "sourceImagesLoaded": 60
+    },
+    {
+      "width": 900,
+      "overflow": false,
+      "expandedTextClipping": false,
+      "sourceImagesLoaded": 60
+    },
+    {
+      "width": 1024,
+      "overflow": false,
+      "expandedTextClipping": false,
+      "sourceImagesLoaded": 60
+    },
+    {
+      "width": 1440,
+      "overflow": false,
+      "expandedTextClipping": false,
+      "sourceImagesLoaded": 60
+    },
+    {
+      "width": 1920,
+      "overflow": false,
+      "expandedTextClipping": false,
+      "sourceImagesLoaded": 60
+    }
+  ],
+  "overlayWithoutLayoutShift": true,
+  "videoDialog": true,
+  "reducedMotionPause": true,
+  "browserErrors": []
+}

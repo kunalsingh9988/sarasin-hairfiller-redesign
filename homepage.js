@@ -17,9 +17,20 @@ tabs.forEach((button,i)=>{button.addEventListener('click',()=>selectTab(button))
 function revealTarget(){let id;try{id=decodeURIComponent(location.hash.slice(1));}catch{return;}const target=document.getElementById(id);if(!target)return;for(let p=target.parentElement;p;p=p.parentElement)if(p instanceof HTMLDetailsElement)p.open=true;if(target.closest('[role=tabpanel]'))selectTab(tabs.find(t=>t.getAttribute('aria-controls')===target.closest('[role=tabpanel]').id));}
 window.addEventListener('hashchange',revealTarget);revealTarget();
 const stickyBooking=$('.mobile-booking');
-function updateStickyBooking(){stickyBooking.hidden=$('.hero-cta').getBoundingClientRect().bottom>$('.site-header').getBoundingClientRect().bottom;}
+function updateStickyBooking(){const headerBottom=$('.site-header').getBoundingClientRect().bottom;const inlineVisible=[...document.querySelectorAll('main a[href*="booking.sarasinclinic.com"],main a[href*="maak-een-afspraak"]')].some(a=>{const r=a.getBoundingClientRect();return r.height>35&&r.bottom>headerBottom&&r.top<innerHeight-12;});stickyBooking.hidden=$('.hero-cta').getBoundingClientRect().bottom>headerBottom||inlineVisible;}
 window.addEventListener('scroll',updateStickyBooking,{passive:true});window.addEventListener('resize',updateStickyBooking);updateStickyBooking();
-const pictures=['real-result.jpg','result-man-5.jpg','result-woman.jpg'];const pickers=[...document.querySelectorAll('[data-hero-slide]')],pause=$('#hero-pause'),hero=$('#hero-result');let active=0;let paused=matchMedia('(prefers-reduced-motion:reduce)').matches;let timer;
-function setSlide(n){active=n;hero.src=assetURL(pictures[n]);hero.alt=['Echte voor- en nafoto van Hairfiller bij Sarasin Clinic','Originele vergelijking na vijf Hairfiller sessies bij Sarasin Clinic','Originele Hairfiller voor- en nafoto van de haarlijn'][n];pickers.forEach((b,i)=>b.setAttribute('aria-pressed',String(i===n)));}
-function resetTimer(){clearInterval(timer);if(!paused&&!document.hidden)timer=setInterval(()=>setSlide((active+1)%pictures.length),2000);pause.setAttribute('aria-pressed',String(paused));pause.textContent=paused?'Afspelen':'Pauzeer';}
+const pictures=['figma/a987057e-3c10-4632-969d-e70eca618918.png','result-man-5.jpg','result-woman.jpg'];const pickers=[...document.querySelectorAll('[data-hero-slide]')],pause=$('#hero-pause'),hero=$('#hero-result');let active=0;let paused=matchMedia('(prefers-reduced-motion:reduce)').matches;let timer;
+function setSlide(n){active=n;document.querySelectorAll('.comparison-chip').forEach(chip=>chip.hidden=n!==0);hero.src=assetURL(pictures[n]);hero.alt=['Echte voor- en nafoto van Hairfiller bij Sarasin Clinic','Originele vergelijking na vijf Hairfiller sessies bij Sarasin Clinic','Originele Hairfiller voor- en nafoto van de haarlijn'][n];pickers.forEach((b,i)=>b.setAttribute('aria-pressed',String(i===n)));}
+function resetTimer(){clearInterval(timer);if(!paused&&!document.hidden)timer=setInterval(()=>setSlide((active+1)%pictures.length),6000);pause.setAttribute('aria-pressed',String(paused));pause.textContent=paused?'Afspelen':'Pauzeer';pause.setAttribute('aria-label',paused?'Speel patiëntbeelden af':'Pauzeer patiëntbeelden');}
 pickers.forEach(b=>b.addEventListener('click',()=>{setSlide(Number(b.dataset.heroSlide));paused=true;resetTimer();}));pause.addEventListener('click',()=>{paused=!paused;resetTimer();});document.addEventListener('visibilitychange',resetTimer);matchMedia('(prefers-reduced-motion:reduce)').addEventListener('change',e=>{paused=e.matches;resetTimer();});resetTimer();
+
+// Native tables retain their semantics and gain compact row labels on phones.
+document.querySelectorAll('.table-scroll table').forEach(table=>{
+  const first=table.rows[0];if(!first)return;table.dataset.columns=first.cells.length;
+  const hasColumnHeaders=[...first.cells].every(cell=>cell.tagName==='TH');
+  const labels=hasColumnHeaders?[...first.cells].map(cell=>cell.textContent.trim()):[];
+  [...table.rows].forEach((row,index)=>{if(hasColumnHeaders&&index===0)return;[...row.cells].forEach((cell,i)=>{cell.dataset.label=labels[i]||['Behandeling','Informatie','Duur / interval'][i]||'Informatie';});});
+});
+// The video strip supports touch, trackpads, keyboard scrolling and explicit controls.
+const rail=$('.video-rail');
+if(rail){const moveRail=direction=>rail.scrollBy({left:direction*(rail.querySelector('.video-card').getBoundingClientRect().width+24),behavior:matchMedia('(prefers-reduced-motion:reduce)').matches?'instant':'smooth'});$('.rail-prev').addEventListener('click',()=>moveRail(-1));$('.rail-next').addEventListener('click',()=>moveRail(1));}

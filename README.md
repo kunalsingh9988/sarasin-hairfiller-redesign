@@ -1,3 +1,18 @@
+# Sarasin Hairfiller — Figma homepage, 11 November 2026
+
+The homepage now follows Figma file `4bfik7c0UoRH24cfdhtyQX`, frame `40002354:233`. It uses the frame's peach CTAs, comparison hero, product compositions, cause illustrations, video rail, paired information layouts and visual hierarchy. Dutch clinic content and the complete original source order are retained. The Figma frame contains English text; no translation was applied.
+
+- Run `node tools/build-homepage.cjs` to regenerate the homepage and content checklist.
+- `homepage.css` supplies existing base components; `figma-homepage.css` applies the Figma desktop design and phone layouts.
+- `audit/figma-homepage-assets.json` records every downloaded asset, its Figma section and intrinsic dimensions. Assets are local under `assets/figma/`; no temporary Figma URLs are used at runtime.
+- `audit/homepage-figma-mapping-2026-11-11.json` records source content and the displayed image files.
+- Run `node tests/homepage.cjs http://localhost:8774` for complete source/content order and interaction regression checks.
+- Run `node tests/figma-homepage.cjs http://localhost:8774` for Figma hero geometry, critical asset slots, phone layouts and video rail checks. Playwright must be available through the local Node environment.
+
+The new design is the standalone review homepage. The historical WordPress review ZIP is a prior handoff and has not been regenerated for this Figma revision.
+
+---
+
 # Sarasin Hairfiller — PDF-reference homepage, 10 November 2026
 
 Standalone HTML/CSS/JavaScript review site adapted from the supplied desktop/mobile PDF exports, with Sarasin's Dutch content, green/ivory palette and self-hosted Bricolage Grotesque. The main clinic site and Shopify are unchanged.

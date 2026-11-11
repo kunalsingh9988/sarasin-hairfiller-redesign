@@ -1,0 +1,1040 @@
+{
+  "source": "https://sarasinclinic.com/behandelingen/hairfiller/",
+  "sourceCapturedAt": "2026-11-10T06:50:46.643Z",
+  "sourceRecheckedAt": "2026-11-10",
+  "designRevision": "2026-11-11",
+  "figmaFrame": "40002354:233",
+  "method": "Original heading and content-item order preserved; all source items rendered once in the corresponding section.",
+  "originalItems": 165,
+  "headings": 43,
+  "sourceOrderVerified": true,
+  "entries": [
+    {
+      "id": "CONTENT-001",
+      "section": "group-1"
+    },
+    {
+      "id": "CONTENT-002",
+      "section": "group-1"
+    },
+    {
+      "id": "CONTENT-003",
+      "section": "group-1"
+    },
+    {
+      "id": "CONTENT-004",
+      "section": "group-1"
+    },
+    {
+      "id": "CONTENT-005",
+      "section": "group-1"
+    },
+    {
+      "id": "CONTENT-006",
+      "section": "group-1"
+    },
+    {
+      "id": "CONTENT-007",
+      "section": "group-1"
+    },
+    {
+      "id": "CONTENT-008",
+      "section": "group-1"
+    },
+    {
+      "id": "CONTENT-009",
+      "section": "group-1"
+    },
+    {
+      "id": "CONTENT-010",
+      "section": "group-1"
+    },
+    {
+      "id": "CONTENT-011",
+      "section": "group-2"
+    },
+    {
+      "id": "CONTENT-012",
+      "section": "group-2"
+    },
+    {
+      "id": "CONTENT-013",
+      "section": "group-2"
+    },
+    {
+      "id": "CONTENT-014",
+      "section": "group-3"
+    },
+    {
+      "id": "CONTENT-015",
+      "section": "group-3"
+    },
+    {
+      "id": "CONTENT-016",
+      "section": "group-3"
+    },
+    {
+      "id": "CONTENT-017",
+      "section": "group-3"
+    },
+    {
+      "id": "CONTENT-018",
+      "section": "group-3"
+    },
+    {
+      "id": "CONTENT-019",
+      "section": "group-3"
+    },
+    {
+      "id": "CONTENT-020",
+      "section": "group-3"
+    },
+    {
+      "id": "CONTENT-021",
+      "section": "group-3"
+    },
+    {
+      "id": "CONTENT-022",
+      "section": "group-4"
+    },
+    {
+      "id": "CONTENT-023",
+      "section": "group-4"
+    },
+    {
+      "id": "CONTENT-024",
+      "section": "group-4"
+    },
+    {
+      "id": "CONTENT-025",
+      "section": "group-5"
+    },
+    {
+      "id": "CONTENT-026",
+      "section": "group-5"
+    },
+    {
+      "id": "CONTENT-027",
+      "section": "group-6"
+    },
+    {
+      "id": "CONTENT-028",
+      "section": "group-6"
+    },
+    {
+      "id": "CONTENT-029",
+      "section": "group-7"
+    },
+    {
+      "id": "CONTENT-030",
+      "section": "group-7"
+    },
+    {
+      "id": "CONTENT-031",
+      "section": "group-8"
+    },
+    {
+      "id": "CONTENT-032",
+      "section": "group-8"
+    },
+    {
+      "id": "CONTENT-033",
+      "section": "group-8"
+    },
+    {
+      "id": "CONTENT-034",
+      "section": "group-8"
+    },
+    {
+      "id": "CONTENT-035",
+      "section": "group-8"
+    },
+    {
+      "id": "CONTENT-036",
+      "section": "group-8"
+    },
+    {
+      "id": "CONTENT-037",
+      "section": "group-8"
+    },
+    {
+      "id": "CONTENT-038",
+      "section": "group-10"
+    },
+    {
+      "id": "CONTENT-039",
+      "section": "group-10"
+    },
+    {
+      "id": "CONTENT-040",
+      "section": "group-11"
+    },
+    {
+      "id": "CONTENT-041",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-042",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-043",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-044",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-045",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-046",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-047",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-048",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-049",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-050",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-051",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-052",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-053",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-054",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-055",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-056",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-057",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-058",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-059",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-060",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-061",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-062",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-063",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-064",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-065",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-066",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-067",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-068",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-069",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-070",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-071",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-072",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-073",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-074",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-075",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-076",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-077",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-078",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-079",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-080",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-081",
+      "section": "group-13"
+    },
+    {
+      "id": "CONTENT-082",
+      "section": "group-13"
+    },
+    {
+      "id": "CONTENT-083",
+      "section": "group-13"
+    },
+    {
+      "id": "CONTENT-084",
+      "section": "group-13"
+    },
+    {
+      "id": "CONTENT-085",
+      "section": "group-13"
+    },
+    {
+      "id": "CONTENT-086",
+      "section": "group-14"
+    },
+    {
+      "id": "CONTENT-087",
+      "section": "group-14"
+    },
+    {
+      "id": "CONTENT-088",
+      "section": "group-14"
+    },
+    {
+      "id": "CONTENT-089",
+      "section": "group-15"
+    },
+    {
+      "id": "CONTENT-090",
+      "section": "group-15"
+    },
+    {
+      "id": "CONTENT-091",
+      "section": "group-15"
+    },
+    {
+      "id": "CONTENT-092",
+      "section": "group-15"
+    },
+    {
+      "id": "CONTENT-093",
+      "section": "group-16"
+    },
+    {
+      "id": "CONTENT-094",
+      "section": "group-16"
+    },
+    {
+      "id": "CONTENT-095",
+      "section": "group-16"
+    },
+    {
+      "id": "CONTENT-096",
+      "section": "group-16"
+    },
+    {
+      "id": "CONTENT-097",
+      "section": "group-16"
+    },
+    {
+      "id": "CONTENT-098",
+      "section": "group-16"
+    },
+    {
+      "id": "CONTENT-099",
+      "section": "group-16"
+    },
+    {
+      "id": "CONTENT-100",
+      "section": "group-16"
+    },
+    {
+      "id": "CONTENT-101",
+      "section": "group-16"
+    },
+    {
+      "id": "CONTENT-102",
+      "section": "group-17"
+    },
+    {
+      "id": "CONTENT-103",
+      "section": "group-17"
+    },
+    {
+      "id": "CONTENT-104",
+      "section": "group-18"
+    },
+    {
+      "id": "CONTENT-105",
+      "section": "group-18"
+    },
+    {
+      "id": "CONTENT-106",
+      "section": "group-18"
+    },
+    {
+      "id": "CONTENT-107",
+      "section": "group-18"
+    },
+    {
+      "id": "CONTENT-108",
+      "section": "group-18"
+    },
+    {
+      "id": "CONTENT-109",
+      "section": "group-18"
+    },
+    {
+      "id": "CONTENT-110",
+      "section": "group-18"
+    },
+    {
+      "id": "CONTENT-111",
+      "section": "group-18"
+    },
+    {
+      "id": "CONTENT-112",
+      "section": "group-18"
+    },
+    {
+      "id": "CONTENT-113",
+      "section": "group-19"
+    },
+    {
+      "id": "CONTENT-114",
+      "section": "group-19"
+    },
+    {
+      "id": "CONTENT-115",
+      "section": "group-21"
+    },
+    {
+      "id": "CONTENT-116",
+      "section": "group-21"
+    },
+    {
+      "id": "CONTENT-117",
+      "section": "group-21"
+    },
+    {
+      "id": "CONTENT-118",
+      "section": "group-21"
+    },
+    {
+      "id": "CONTENT-119",
+      "section": "group-21"
+    },
+    {
+      "id": "CONTENT-120",
+      "section": "group-21"
+    },
+    {
+      "id": "CONTENT-121",
+      "section": "group-21"
+    },
+    {
+      "id": "CONTENT-122",
+      "section": "group-21"
+    },
+    {
+      "id": "CONTENT-123",
+      "section": "group-22"
+    },
+    {
+      "id": "CONTENT-124",
+      "section": "group-22"
+    },
+    {
+      "id": "CONTENT-125",
+      "section": "group-22"
+    },
+    {
+      "id": "CONTENT-126",
+      "section": "group-23"
+    },
+    {
+      "id": "CONTENT-127",
+      "section": "group-23"
+    },
+    {
+      "id": "CONTENT-128",
+      "section": "group-23"
+    },
+    {
+      "id": "CONTENT-129",
+      "section": "group-23"
+    },
+    {
+      "id": "CONTENT-130",
+      "section": "group-23"
+    },
+    {
+      "id": "CONTENT-131",
+      "section": "group-24"
+    },
+    {
+      "id": "CONTENT-132",
+      "section": "group-24"
+    },
+    {
+      "id": "CONTENT-133",
+      "section": "group-24"
+    },
+    {
+      "id": "CONTENT-134",
+      "section": "group-24"
+    },
+    {
+      "id": "CONTENT-135",
+      "section": "group-24"
+    },
+    {
+      "id": "CONTENT-136",
+      "section": "group-24"
+    },
+    {
+      "id": "CONTENT-137",
+      "section": "group-25"
+    },
+    {
+      "id": "CONTENT-138",
+      "section": "group-25"
+    },
+    {
+      "id": "CONTENT-139",
+      "section": "group-26"
+    },
+    {
+      "id": "CONTENT-140",
+      "section": "group-27"
+    },
+    {
+      "id": "CONTENT-141",
+      "section": "group-27"
+    },
+    {
+      "id": "CONTENT-142",
+      "section": "group-28"
+    },
+    {
+      "id": "CONTENT-143",
+      "section": "group-28"
+    },
+    {
+      "id": "CONTENT-144",
+      "section": "group-28"
+    },
+    {
+      "id": "CONTENT-145",
+      "section": "group-28"
+    },
+    {
+      "id": "CONTENT-146",
+      "section": "group-28"
+    },
+    {
+      "id": "CONTENT-147",
+      "section": "group-29"
+    },
+    {
+      "id": "CONTENT-148",
+      "section": "group-29"
+    },
+    {
+      "id": "CONTENT-149",
+      "section": "group-31"
+    },
+    {
+      "id": "CONTENT-150",
+      "section": "group-32"
+    },
+    {
+      "id": "CONTENT-151",
+      "section": "group-33"
+    },
+    {
+      "id": "CONTENT-152",
+      "section": "group-34"
+    },
+    {
+      "id": "CONTENT-153",
+      "section": "group-35"
+    },
+    {
+      "id": "CONTENT-154",
+      "section": "group-36"
+    },
+    {
+      "id": "CONTENT-155",
+      "section": "group-37"
+    },
+    {
+      "id": "CONTENT-156",
+      "section": "group-38"
+    },
+    {
+      "id": "CONTENT-157",
+      "section": "group-39"
+    },
+    {
+      "id": "CONTENT-158",
+      "section": "group-40"
+    },
+    {
+      "id": "CONTENT-159",
+      "section": "group-41"
+    },
+    {
+      "id": "CONTENT-160",
+      "section": "group-42"
+    },
+    {
+      "id": "CONTENT-161",
+      "section": "group-42"
+    },
+    {
+      "id": "CONTENT-162",
+      "section": "group-43"
+    },
+    {
+      "id": "CONTENT-163",
+      "section": "group-43"
+    },
+    {
+      "id": "CONTENT-164",
+      "section": "group-43"
+    },
+    {
+      "id": "CONTENT-165",
+      "section": "group-43"
+    }
+  ],
+  "mediaOrigins": [
+    {
+      "id": "CONTENT-009",
+      "source": "https://sarasinclinic.com/wp-content/uploads/2022/08/Haarfillersgifwebsite1-ezgif.com-speed.gif",
+      "local": "assets/source/Haarfillersgifwebsite1-ezgif.com-speed.gif",
+      "section": "group-1"
+    },
+    {
+      "id": "CONTENT-024",
+      "source": "https://sarasinclinic.com/wp-content/uploads/2024/07/transparent-background.png",
+      "local": "assets/figma/e06a6678-e996-4f61-8152-7138c24bee45.png",
+      "section": "group-4"
+    },
+    {
+      "id": "CONTENT-028",
+      "source": "https://sarasinclinic.com/wp-content/uploads/2022/08/Sarasin-CTA-header-1-200x200.png",
+      "local": "assets/figma/707b41b1-09aa-4b70-8144-c3a4efe0ee1f.png",
+      "section": "group-6"
+    },
+    {
+      "id": "CONTENT-031",
+      "source": "https://sarasinclinic.com/wp-content/uploads/2024/03/SarasinClinic_video_Haarfiller-Journey.jpg",
+      "local": "assets/figma/d46218e3-783c-497b-a416-f689af7fa59d.png",
+      "section": "group-8"
+    },
+    {
+      "id": "CONTENT-032",
+      "source": "https://sarasinclinic.com/wp-content/uploads/2024/03/SarasinClinic_video_Haarfiller-Journey.jpg",
+      "local": "assets/figma/d46218e3-783c-497b-a416-f689af7fa59d.png",
+      "section": "group-8"
+    },
+    {
+      "id": "CONTENT-033",
+      "source": "https://sarasinclinic.com/wp-content/uploads/2024/03/SarasinClinic_Hoe-werkt-haarfiller-video.jpg",
+      "local": "assets/figma/bd1fab2d-bb95-4f4c-9037-e13139ccad44.png",
+      "section": "group-8"
+    },
+    {
+      "id": "CONTENT-034",
+      "source": "https://sarasinclinic.com/wp-content/uploads/2024/03/SarasinClinic_video_Haar-Filler-Magic-Man.jpg",
+      "local": "assets/figma/6630a99e-da65-499f-94b4-62ebb22cfdd9.png",
+      "section": "group-8"
+    },
+    {
+      "id": "CONTENT-035",
+      "source": "https://sarasinclinic.com/wp-content/uploads/2024/03/SarasinClinic_VIDEO_Haarfiller-Vrouw-Before-After.jpg",
+      "local": "assets/figma/655297e5-030d-408e-8ad1-10f4f297075b.png",
+      "section": "group-8"
+    },
+    {
+      "id": "CONTENT-036",
+      "source": "https://sarasinclinic.com/wp-content/uploads/2024/03/SarasinClinic_video_Hairfiller-Magic-tussentijdse-resultaten.jpg",
+      "local": "assets/figma/188fb602-e89e-45c3-8ef8-f186975a0279.png",
+      "section": "group-8"
+    },
+    {
+      "id": "CONTENT-037",
+      "source": "https://sarasinclinic.com/wp-content/uploads/2025/01/sarasinclinic-video_Haaruitval-De-Belangrijkste-Oorzaken-Uitgelegd.jpg",
+      "local": "assets/figma/17f20762-24a3-4d20-83a1-4a4cc28589d8.png",
+      "section": "group-8"
+    },
+    {
+      "id": "CONTENT-039",
+      "source": "https://sarasinclinic.com/wp-content/uploads/2022/08/Dr_Cyj_hairfiller-haargroei.png",
+      "local": "assets/figma/75dd73b0-a414-4aa8-8c90-0d6264a64c39.png",
+      "section": "group-10"
+    },
+    {
+      "id": "CONTENT-041",
+      "source": "https://sarasinclinic.com/wp-content/uploads/2026/01/haarfiller-5sessies-2ml_012026.jpeg",
+      "local": "assets/figma/f55df20e-12a4-4997-a018-134dd9d345a8.png",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-042",
+      "source": "https://sarasinclinic.com/wp-content/uploads/2025/04/Haarfiller-vrouw_032025_2a.jpeg",
+      "local": "assets/figma/58b46aa9-7827-4fef-8d7e-f905edf18b83.png",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-043",
+      "source": "https://sarasinclinic.com/wp-content/uploads/2025/06/SarasinClinic_haarfiller-man_5-sessies.jpg",
+      "local": "assets/figma/5051622c-d9ea-471f-b49f-aecbd23c7a4e.png",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-044",
+      "source": "https://sarasinclinic.com/wp-content/uploads/2025/04/Haarfiller-vrouw_032025_2b.jpeg",
+      "local": "assets/figma/99d85e88-e64c-4417-9408-924250fac449.png",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-045",
+      "source": "https://sarasinclinic.com/wp-content/uploads/2025/03/3-sessies-Haarfiller-na-4-maand.jpg",
+      "local": "assets/figma/ddca7a18-75fd-4135-9ab8-8502dfcf5733.png",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-046",
+      "source": "https://sarasinclinic.com/wp-content/uploads/2025/03/Haarfiller-vrouw_032025.jpg",
+      "local": "assets/figma/497aa29d-5a61-4a6e-9fcf-6b63f1202b78.png",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-047",
+      "source": "https://sarasinclinic.com/wp-content/uploads/2025/03/Haarfiller-vrouw_032025_b.jpg",
+      "local": "assets/figma/a0195ae6-90db-4411-953a-c440527a801c.png",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-048",
+      "source": "https://sarasinclinic.com/wp-content/uploads/2025/03/Vrouw-4-sessies-haarfiller-en-2-sessies-reyu.jpg",
+      "local": "assets/figma/d161a351-22e2-4460-ad37-fa48f306541f.png",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-049",
+      "source": "https://sarasinclinic.com/wp-content/uploads/2025/03/Vrouw-4-sessies-haarfiller-en-2-sessies-reyu_2.jpg",
+      "local": "assets/figma/363db5bf-28a7-4591-a774-aa4cacc3ca6d.png",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-050",
+      "source": "https://sarasinclinic.com/wp-content/uploads/2025/01/sarasinclinic_hairfiller-na-3-maand_202501.jpg",
+      "local": "assets/figma/778ce9ad-7241-4939-b9b8-e74434f6b080.png",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-051",
+      "source": "https://sarasinclinic.com/wp-content/uploads/2024/12/sarasin-clinic-haarfiller-2-sessies.jpeg",
+      "local": "assets/figma/ed0f00db-ae63-47d5-83c9-77de9bdb83aa.png",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-052",
+      "source": "https://sarasinclinic.com/wp-content/uploads/2024/11/SarasinClinic_haarfiller-vrouw_112024_4.jpg",
+      "local": "assets/figma/304f4043-cbe8-4de9-a284-45a91d240300.png",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-053",
+      "source": "https://sarasinclinic.com/wp-content/uploads/2024/11/SarasinClinic_haarfiller-vrouw_112024_3.jpg",
+      "local": "assets/figma/094090d8-7e5e-4d99-b1e0-82e69bcda85d.png",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-054",
+      "source": "https://sarasinclinic.com/wp-content/uploads/2024/11/SarasinClinic_haarfiller-vrouw_112024_2.jpg",
+      "local": "assets/figma/da261891-3e04-4e40-9d47-198489a80428.png",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-055",
+      "source": "https://sarasinclinic.com/wp-content/uploads/2024/11/SarasinClinic_haarfiller-vrouw_112024_1.jpg",
+      "local": "assets/figma/2f9a6956-50af-4e09-93a1-f49bfdaa7213.png",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-056",
+      "source": "https://sarasinclinic.com/wp-content/uploads/2024/08/202408_SarasinClinic_haarfiller.png",
+      "local": "assets/figma/f3e076d8-0d21-4648-a650-ae8c77a2edcd.png",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-057",
+      "source": "https://sarasinclinic.com/wp-content/uploads/2023/05/SarasinClinic_haarfiller-na-3sessie-telkens-3-spuiten_2023-05-19.png",
+      "local": "assets/figma/15aa502c-281b-4d44-a44a-d9a0bff4489f.png",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-058",
+      "source": "https://sarasinclinic.com/wp-content/uploads/2023/01/2023-01-haarfiller-man_Na-4-sessies.jpg",
+      "local": "assets/figma/f54328d3-e1a6-490c-85e3-9126896d2289.png",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-059",
+      "source": "https://sarasinclinic.com/wp-content/uploads/2023/01/SarasinClinic_haarfiller-Na-3-sessie-102022-02.jpg",
+      "local": "assets/figma/867244b1-40df-4eba-8cbc-66a5450b1bc0.png",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-060",
+      "source": "https://sarasinclinic.com/wp-content/uploads/2022/12/2022-12-23_SarasinClinic_Hairfiller-man_16.jpg",
+      "local": "assets/figma/75930384-0ca8-43a1-b848-758de0a28b51.png",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-061",
+      "source": "https://sarasinclinic.com/wp-content/uploads/2022/12/2022-12-23_SarasinClinic_Haarfiller-man_17.jpg",
+      "local": "assets/figma/97a67804-51de-416b-b2fe-66ac8286463a.png",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-062",
+      "source": "https://sarasinclinic.com/wp-content/uploads/2022/12/2022-12-23_SarasinClinic_Haarfiller-man_15.jpg",
+      "local": "assets/figma/090c6358-bace-4b64-b0f1-8af54666d9a3.png",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-063",
+      "source": "https://sarasinclinic.com/wp-content/uploads/2022/12/2022-12-23_SarasinClinic_Haarfiller-man_12.jpg",
+      "local": "assets/figma/0065574a-1964-421f-8c0d-d4cc3988ee98.png",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-064",
+      "source": "https://sarasinclinic.com/wp-content/uploads/2022/12/2022-12-23_SarasinClinic_Haarfiller-man_13.jpg",
+      "local": "assets/figma/8e5b68b3-0a9c-44f9-ae66-e4fd329bd3d0.png",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-065",
+      "source": "https://sarasinclinic.com/wp-content/uploads/2022/12/2022-12-23_SarasinClinic_Haarfiller-vrouw_03.jpg",
+      "local": "assets/figma/e8b64df2-77ac-4466-bb83-ceffe807b580.png",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-066",
+      "source": "https://sarasinclinic.com/wp-content/uploads/2022/12/2022-12-23_SarasinClinic_Haarfiller-man_11.jpg",
+      "local": "assets/figma/62c31912-ddbc-4fe0-9a94-92ee0abb0edb.png",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-067",
+      "source": "https://sarasinclinic.com/wp-content/uploads/2022/12/2022-12-23_SarasinClinic_Haarfiller-vrouw_02.jpg",
+      "local": "assets/figma/f44747ea-c44e-4200-a9ed-c8ef0e65bd68.png",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-068",
+      "source": "https://sarasinclinic.com/wp-content/uploads/2022/12/2022-12-23_SarasinClinic_Haarfiller-man_10.jpg",
+      "local": "assets/figma/f695d5c7-c854-4cd2-8572-5ca99ea0dedd.png",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-069",
+      "source": "https://sarasinclinic.com/wp-content/uploads/2022/12/2022-12-23_SarasinClinic_Haarfiller-man_09.jpg",
+      "local": "assets/figma/f45835b3-7180-4a4d-bacf-ad81a0cf65e6.png",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-070",
+      "source": "https://sarasinclinic.com/wp-content/uploads/2022/12/2022-12-23_SarasinClinic_Haarfiller-man_08.jpg",
+      "local": "assets/figma/3fe96d4b-b50e-4527-9f85-67c7eab54dca.png",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-071",
+      "source": "https://sarasinclinic.com/wp-content/uploads/2022/12/2022-12-23_SarasinClinic_Haarfiller-man_07.jpg",
+      "local": "assets/figma/4b863320-0a9e-411a-94e0-4611a9f3128f.png",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-072",
+      "source": "https://sarasinclinic.com/wp-content/uploads/2022/12/2022-12-23_SarasinClinic_Haarfiller-man_06.jpg",
+      "local": "assets/figma/3a687229-6c60-4cbe-bc9f-3fa4f6983149.png",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-073",
+      "source": "https://sarasinclinic.com/wp-content/uploads/2022/12/2022-12-23_SarasinClinic_Haarfiller-man_05.jpg",
+      "local": "assets/figma/05f6b7d3-a9e6-439e-ac79-72c6cb794a87.png",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-074",
+      "source": "https://sarasinclinic.com/wp-content/uploads/2022/12/2022-12-23_SarasinClinic_Haarfiller-man_04.jpg",
+      "local": "assets/figma/1b2437ce-8341-44bc-89de-16cfc7991f74.png",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-075",
+      "source": "https://sarasinclinic.com/wp-content/uploads/2022/12/2022-12-23_SarasinClinic_Haarfiller-man_01.jpg",
+      "local": "assets/figma/635ba0d7-aa71-4cd3-b58a-7667f23e5979.png",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-076",
+      "source": "https://sarasinclinic.com/wp-content/uploads/2022/12/2022-12-23_SarasinClinic_Haarfiller-vrouw_01.jpg",
+      "local": "assets/figma/3f3df946-f557-43cc-ac17-ed6c821b7b7c.png",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-077",
+      "source": "https://sarasinclinic.com/wp-content/uploads/2022/12/2022-12-23_SarasinClinic_Haarfiller-man_03.jpg",
+      "local": "assets/figma/3045cac1-4886-46d4-9232-c0d78c74f49c.png",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-078",
+      "source": "https://sarasinclinic.com/wp-content/uploads/2022/12/2022-12-23_SarasinClinic_Haarfiller-man_02.jpg",
+      "local": "assets/figma/a142efff-0bfa-4040-bcba-a6767541c7e4.png",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-079",
+      "source": "https://sarasinclinic.com/wp-content/uploads/2022/12/2022-12-23_SarasinClinic_Haarfiller-man-na-3-sessies.jpg",
+      "local": "assets/figma/3ba93263-02e5-4966-bac3-0176a4970453.png",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-080",
+      "source": "https://sarasinclinic.com/wp-content/uploads/2022/12/2022-12-23_SarasinClinic_Haarfiller-man_18.jpg",
+      "local": "assets/figma/6f999d8d-775c-4225-b543-21debe3cc4a2.png",
+      "section": "group-12"
+    },
+    {
+      "id": "CONTENT-088",
+      "source": "https://sarasinclinic.com/wp-content/uploads/2022/08/haaruitval-klein-haaruitval1week_zonderhaarfiller_grote-1week-zonder-haarfiller.jpg",
+      "local": "assets/figma/fafef7fd-4060-46fa-a808-07199fb84d09.png",
+      "section": "group-14"
+    },
+    {
+      "id": "CONTENT-097",
+      "source": "https://sarasinclinic.com/wp-content/uploads/2022/08/sarasinclinic-haarfiller_nazorg.png",
+      "local": "assets/figma/52c180f3-b2eb-4028-a416-c21468f5ef7f.png",
+      "section": "group-16"
+    },
+    {
+      "id": "CONTENT-114",
+      "source": "https://sarasinclinic.com/wp-content/uploads/2022/08/SarasinClinic_hairfiller-zones_tekening.png",
+      "local": "assets/figma/3522b0df-4fc2-4ccb-b440-2025103fb93c.png",
+      "section": "group-19"
+    },
+    {
+      "id": "CONTENT-136",
+      "source": "https://sarasinclinic.com/wp-content/uploads/2025/06/SkincareQuiz-test.gif",
+      "local": "assets/figma/e6393efe-4035-4b4e-879e-13ea90046acf.png",
+      "section": "group-24"
+    },
+    {
+      "id": "CONTENT-142",
+      "source": "https://sarasinclinic.com/wp-content/uploads/2023/09/2023-08-SarasinClinic-BLIK-Gunther-Levi-haarfiller.jpg",
+      "local": "assets/figma/afc83228-1cbe-4c2c-97e8-e70e866158a7.png",
+      "section": "group-28"
+    },
+    {
+      "id": "CONTENT-144",
+      "source": "https://sarasinclinic.com/wp-content/uploads/2024/09/SararsinClinic_Riadh-Bahri-HLN-haarfiller.jpg",
+      "local": "assets/figma/bd030c46-88dd-470f-ae40-22e5ad4978ec.png",
+      "section": "group-28"
+    },
+    {
+      "id": "CONTENT-145",
+      "source": "https://sarasinclinic.com/wp-content/uploads/2022/10/SarasinClinic_reviews.jpg",
+      "local": "assets/figma/caa3b9e1-e1b7-4b3d-a4cb-aee7cac476d1.png",
+      "section": "group-28"
+    },
+    {
+      "id": "CONTENT-146",
+      "source": "https://sarasinclinic.com/wp-content/uploads/2022/08/Sarasin-CTA-header-1-200x200.png",
+      "local": "assets/figma/90595e1f-1195-451a-91b9-6881f2bbac5c.png",
+      "section": "group-28"
+    },
+    {
+      "id": "CONTENT-161",
+      "source": "https://sarasinclinic.com/wp-content/uploads/2024/10/NurseKaren-202410-bol-180x180.png",
+      "local": "assets/figma/747f1eca-b23e-4c1f-91fe-10f1202e25d7.png",
+      "section": "group-42"
+    }
+  ],
+  "limitations": [
+    "Clinical claims and protocol differences preserved from source and awaiting clinical approval.",
+    "Lifestyle illustration is not patient evidence.",
+    "Main-content boundary excludes global original WordPress header/footer."
+  ]
+}

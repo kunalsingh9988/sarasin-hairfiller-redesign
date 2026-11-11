@@ -1,0 +1,60 @@
+{
+  "base": "http://localhost:8774",
+  "frame": "40002354:233",
+  "language": "nl-BE",
+  "desktopHeroGeometryMatches": true,
+  "criticalAssetSlotsVerified": 7,
+  "videoRail": true,
+  "videoDialog": true,
+  "checks": [
+    {
+      "width": 320,
+      "pageOverflow": false,
+      "brokenImages": 0,
+      "figmaImageSlots": 108
+    },
+    {
+      "width": 393,
+      "pageOverflow": false,
+      "brokenImages": 0,
+      "figmaImageSlots": 109
+    },
+    {
+      "width": 700,
+      "pageOverflow": false,
+      "brokenImages": 0,
+      "figmaImageSlots": 109
+    },
+    {
+      "width": 768,
+      "pageOverflow": false,
+      "brokenImages": 0,
+      "figmaImageSlots": 108
+    },
+    {
+      "width": 900,
+      "pageOverflow": false,
+      "brokenImages": 0,
+      "figmaImageSlots": 108
+    },
+    {
+      "width": 1024,
+      "pageOverflow": false,
+      "brokenImages": 0,
+      "figmaImageSlots": 109
+    },
+    {
+      "width": 1440,
+      "pageOverflow": false,
+      "brokenImages": 0,
+      "figmaImageSlots": 110
+    },
+    {
+      "width": 1728,
+      "pageOverflow": false,
+      "brokenImages": 0,
+      "figmaImageSlots": 110
+    }
+  ],
+  "browserErrors": []
+}
