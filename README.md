@@ -1,6 +1,6 @@
 # Sarasin Hairfiller — Figma homepage, 11 November 2026
 
-The homepage now follows Figma file `4bfik7c0UoRH24cfdhtyQX`, frame `40002354:233`. It uses the frame's peach CTAs, comparison hero, product compositions, cause illustrations, video rail, paired information layouts and visual hierarchy. Dutch clinic content and the complete original source order are retained. The Figma frame contains English text; no translation was applied.
+The homepage now follows Figma file `4bfik7c0UoRH24cfdhtyQX`, frame `40002354:233`. It uses the frame's peach CTAs, comparison hero, product compositions, cause illustrations, video rail, paired information layouts and visual hierarchy. The homepage uses the English wording from the supplied Figma frame, as requested. The complete source item inventory, original media, link destinations and numbered topic order are retained. `content/homepage-en.json` stores the English content; `content/homepage-source.json` remains the original Dutch reference.
 
 - Run `node tools/build-homepage.cjs` to regenerate the homepage and content checklist.
 - `homepage.css` supplies existing base components; `figma-homepage.css` applies the Figma desktop design and phone layouts.

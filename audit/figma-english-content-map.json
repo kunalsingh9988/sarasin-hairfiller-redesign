@@ -1,0 +1,397 @@
+{
+  "CONTENT-001": {
+    "figmaNode": "40002354:313",
+    "kind": "p"
+  },
+  "CONTENT-002": {
+    "figmaNode": "40002354:313",
+    "kind": "p"
+  },
+  "CONTENT-003": {
+    "figmaNode": "40002354:361",
+    "kind": "p"
+  },
+  "CONTENT-004": {
+    "figmaNode": "40002354:371",
+    "kind": "p"
+  },
+  "CONTENT-005": {
+    "figmaNode": "40002354:381",
+    "kind": "p"
+  },
+  "CONTENT-006": {
+    "figmaNode": "40002354:382",
+    "kind": "p"
+  },
+  "CONTENT-007": {
+    "figmaNode": "40002354:400",
+    "kind": "p"
+  },
+  "CONTENT-008": {
+    "figmaNode": "40002354:409",
+    "kind": "p"
+  },
+  "CONTENT-010": {
+    "figmaNode": "40002354:459",
+    "kind": "a"
+  },
+  "CONTENT-011": {
+    "figmaNode": "40002354:499",
+    "kind": "ol"
+  },
+  "CONTENT-012": {
+    "figmaNode": "40002354:550",
+    "kind": "a"
+  },
+  "CONTENT-013": {
+    "figmaNode": "40002354:558",
+    "kind": "a"
+  },
+  "CONTENT-014": {
+    "figmaNode": "40002354:572",
+    "kind": "a"
+  },
+  "CONTENT-015": {
+    "figmaNode": "40002354:579",
+    "kind": "a"
+  },
+  "CONTENT-016": {
+    "figmaNode": "40002354:586",
+    "kind": "a"
+  },
+  "CONTENT-017": {
+    "figmaNode": "40002354:593",
+    "kind": "a"
+  },
+  "CONTENT-018": {
+    "figmaNode": "40002354:600",
+    "kind": "a"
+  },
+  "CONTENT-019": {
+    "figmaNode": "40002354:607",
+    "kind": "a"
+  },
+  "CONTENT-020": {
+    "figmaNode": "40002354:614",
+    "kind": "a"
+  },
+  "CONTENT-021": {
+    "figmaNode": "40002354:621",
+    "kind": "a"
+  },
+  "CONTENT-022": {
+    "figmaNode": "40002354:643",
+    "kind": "ul"
+  },
+  "CONTENT-025": {
+    "figmaNode": "40002354:761",
+    "kind": "p"
+  },
+  "CONTENT-026": {
+    "figmaNode": "40002363:262"
+  },
+  "CONTENT-027": {
+    "figmaNode": "40002354:810",
+    "kind": "ul"
+  },
+  "CONTENT-029": {
+    "figmaNode": "40002354:876",
+    "kind": "p"
+  },
+  "CONTENT-030": {
+    "figmaNode": "40002366:364"
+  },
+  "CONTENT-038": {
+    "figmaNode": "40002354:1013",
+    "kind": "p"
+  },
+  "CONTENT-040": {
+    "figmaNode": "40002354:1060",
+    "kind": "ul"
+  },
+  "CONTENT-081": {
+    "figmaNode": "40002354:1722",
+    "kind": "p"
+  },
+  "CONTENT-084": {
+    "figmaNode": "40002354:1842",
+    "kind": "p"
+  },
+  "CONTENT-085": {
+    "figmaNode": "40002354:1847",
+    "kind": "ul"
+  },
+  "CONTENT-086": {
+    "figmaNode": "40002354:1905",
+    "kind": "p"
+  },
+  "CONTENT-087": {
+    "figmaNode": "40002354:1924",
+    "kind": "ul"
+  },
+  "CONTENT-089": {
+    "figmaNode": "40002354:2042",
+    "kind": "p"
+  },
+  "CONTENT-092": {
+    "figmaNode": "40002354:2121",
+    "kind": "p"
+  },
+  "CONTENT-093": {
+    "figmaNode": "40002354:2147",
+    "kind": "p"
+  },
+  "CONTENT-094": {
+    "figmaNode": "40002354:2151",
+    "kind": "text"
+  },
+  "CONTENT-096": {
+    "figmaNode": "40002354:2194",
+    "kind": "p"
+  },
+  "CONTENT-098": {
+    "figmaNode": "40002354:2203",
+    "kind": "p"
+  },
+  "CONTENT-099": {
+    "figmaNode": "40002354:2210",
+    "kind": "text"
+  },
+  "CONTENT-101": {
+    "figmaNode": "40002354:2301",
+    "kind": "p"
+  },
+  "CONTENT-102": {
+    "figmaNode": "40002354:2326",
+    "kind": "p"
+  },
+  "CONTENT-103": {
+    "figmaNode": "40002354:2345",
+    "kind": "ul"
+  },
+  "CONTENT-104": {
+    "figmaNode": "40002354:2439",
+    "kind": "p"
+  },
+  "CONTENT-105": {
+    "figmaNode": "40002354:2458",
+    "kind": "p"
+  },
+  "CONTENT-107": {
+    "figmaNode": "40002354:2482",
+    "kind": "text"
+  },
+  "CONTENT-108": {
+    "figmaNode": "40002354:2486",
+    "kind": "text"
+  },
+  "CONTENT-109": {
+    "figmaNode": "40002354:2490",
+    "kind": "text"
+  },
+  "CONTENT-110": {
+    "figmaNode": "40002354:2494",
+    "kind": "text"
+  },
+  "CONTENT-111": {
+    "figmaNode": "40002354:2496",
+    "kind": "a"
+  },
+  "CONTENT-112": {
+    "figmaNode": "40002354:2503",
+    "kind": "text"
+  },
+  "CONTENT-115": {
+    "figmaNode": "40002354:2674",
+    "kind": "p"
+  },
+  "CONTENT-116": {
+    "figmaNode": "40002354:2686",
+    "kind": "p"
+  },
+  "CONTENT-117": {
+    "figmaNode": "40002354:2698",
+    "kind": "p"
+  },
+  "CONTENT-120": {
+    "figmaNode": "40002354:2842",
+    "kind": "p"
+  },
+  "CONTENT-121": {
+    "figmaNode": "40002354:2865",
+    "kind": "p"
+  },
+  "CONTENT-122": {
+    "figmaNode": "40002367:402"
+  },
+  "CONTENT-123": {
+    "figmaNode": "40002354:2895",
+    "kind": "p"
+  },
+  "CONTENT-124": {
+    "figmaNode": "40002354:2911",
+    "kind": "p"
+  },
+  "CONTENT-125": {
+    "figmaNode": "40002354:2938",
+    "kind": "a"
+  },
+  "CONTENT-126": {
+    "figmaNode": "40002354:2950",
+    "kind": "p"
+  },
+  "CONTENT-127": {
+    "figmaNode": "40002354:2962",
+    "kind": "p"
+  },
+  "CONTENT-128": {
+    "figmaNode": "40002354:3002",
+    "kind": "p"
+  },
+  "CONTENT-129": {
+    "figmaNode": "40002354:3035",
+    "kind": "p"
+  },
+  "CONTENT-130": {
+    "figmaNode": "40002354:3052",
+    "kind": "a"
+  },
+  "CONTENT-131": {
+    "figmaNode": "40002354:3072",
+    "kind": "p"
+  },
+  "CONTENT-132": {
+    "figmaNode": "40002354:3079",
+    "kind": "text"
+  },
+  "CONTENT-134": {
+    "figmaNode": "40002354:3168",
+    "kind": "p"
+  },
+  "CONTENT-135": {
+    "figmaNode": "40002354:3187",
+    "kind": "p"
+  },
+  "CONTENT-137": {
+    "figmaNode": "40002354:3212",
+    "kind": "p"
+  },
+  "CONTENT-138": {
+    "figmaNode": "40002354:3225",
+    "kind": "a"
+  },
+  "CONTENT-139": {
+    "figmaNode": "40002354:3287",
+    "kind": "p"
+  },
+  "CONTENT-147": {
+    "figmaNode": "40002354:3418",
+    "kind": "p"
+  },
+  "CONTENT-148": {
+    "figmaNode": "40002354:3431",
+    "kind": "a"
+  },
+  "CONTENT-149": {
+    "figmaNode": "40002354:3480",
+    "kind": "p"
+  },
+  "CONTENT-150": {
+    "figmaNode": "40002354:3496",
+    "kind": "p"
+  },
+  "CONTENT-151": {
+    "figmaNode": "40002354:3511",
+    "kind": "p"
+  },
+  "CONTENT-152": {
+    "figmaNode": "40002354:3526",
+    "kind": "p"
+  },
+  "CONTENT-153": {
+    "figmaNode": "40002354:3541",
+    "kind": "p"
+  },
+  "CONTENT-154": {
+    "figmaNode": "40002354:3556",
+    "kind": "p"
+  },
+  "CONTENT-155": {
+    "figmaNode": "40002354:3571",
+    "kind": "p"
+  },
+  "CONTENT-156": {
+    "figmaNode": "40002354:3586",
+    "kind": "p"
+  },
+  "CONTENT-157": {
+    "figmaNode": "40002354:3601",
+    "kind": "p"
+  },
+  "CONTENT-158": {
+    "figmaNode": "40002354:3616",
+    "kind": "p"
+  },
+  "CONTENT-159": {
+    "figmaNode": "40002354:3631",
+    "kind": "p"
+  },
+  "CONTENT-160": {
+    "figmaNode": "40002354:3650",
+    "kind": "p"
+  },
+  "CONTENT-082": {
+    "figmaNode": "40002354:1729"
+  },
+  "CONTENT-090": {
+    "figmaNode": "40002354:2049"
+  },
+  "CONTENT-118": {
+    "figmaNode": "40002354:2705"
+  },
+  "CONTENT-083": {
+    "figmaNode": "40002354:1732"
+  },
+  "CONTENT-091": {
+    "figmaNode": "40002354:2052"
+  },
+  "CONTENT-095": {
+    "figmaNode": "40002354:2154"
+  },
+  "CONTENT-100": {
+    "figmaNode": "40002354:2213"
+  },
+  "CONTENT-113": {
+    "figmaNode": "40002354:2590"
+  },
+  "CONTENT-119": {
+    "figmaNode": "40002354:2708"
+  },
+  "CONTENT-133": {
+    "figmaNode": "40002354:3082"
+  },
+  "CONTENT-162": {
+    "figmaNode": "40002356:3910"
+  },
+  "CONTENT-163": {
+    "figmaNode": "40002356:3910"
+  },
+  "CONTENT-164": {
+    "figmaNode": "40002356:3910"
+  },
+  "CONTENT-165": {
+    "figmaNode": "40002356:3910"
+  },
+  "CONTENT-023": {
+    "mediaUnchanged": true
+  },
+  "CONTENT-106": {
+    "mediaUnchanged": true
+  },
+  "CONTENT-140": {
+    "mediaUnchanged": true
+  },
+  "CONTENT-141": {
+    "mediaUnchanged": true
+  }
+}

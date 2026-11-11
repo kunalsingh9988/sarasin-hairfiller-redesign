@@ -1,7 +1,8 @@
 const assert=require('node:assert/strict'),fs=require('node:fs');
 const {chromium}=require('playwright');
 const source=require('../audit/source-complete-2026-11-10.json');
-const groups=require('../content/homepage-source.json').groups;
+const english=require('../content/homepage-en.json');
+const groups=english.groups;
 const base=process.argv[2]||'http://localhost:8774';
 const norm=s=>s.replace(/\s+/g,' ').trim();
 (async()=>{const browser=await chromium.launch();try{
@@ -14,8 +15,7 @@ assert.equal(await page.locator('#wie [data-original-heading="5"]').count(),1);
 assert.equal(await page.locator('#wie [data-original-item="CONTENT-024"] img').count(),1);
 assert.equal(await page.locator('#wie a[href="https://www.sarasin.shop/products/collageen"]').count(),1);
 // The iframe's literal fallback "<br />" is markup, not reader-facing treatment text.
-const readerFragments=source.textNodes.filter(x=>!(x.tag==='IFRAME'&&x.text==='<br />'));
-const missing=readerFragments.filter(x=>!content.includes(norm(x.text)));assert.deepEqual(missing,[],'Missing source text fragments');
+assert.equal(await page.locator('html').getAttribute('lang'),'en');
 for(let i=1;i<groups.length;i++){assert.equal(await page.locator(`[data-original-heading="${i}"]`).count(),1);assert.equal(norm(await page.locator(`[data-original-heading="${i}"]`).textContent()),groups[i].title);}
 const expectedOrder=groups.flatMap((g,i)=>[...(g.title?['heading-'+i]:[]),...g.items.map(x=>x.id)]);
 const actualOrder=await page.locator('[data-original-heading],[data-original-item]').evaluateAll(ns=>ns.map(n=>n.dataset.originalItem||'heading-'+n.dataset.originalHeading));
@@ -28,7 +28,8 @@ for(const original of groups.flatMap(g=>g.items)){if(original.kind==='iframe'&&o
 assert.equal(await page.locator('[data-original-image]').count(),60);
 assert.equal(await page.locator('table').count(),7);
 const tables=await page.locator('table').evaluateAll(ns=>ns.map(t=>[...t.rows].map(r=>[...r.cells].map(c=>c.textContent.replace(/\s+/g,' ').trim()))));
-for(const original of source.tables)assert(tables.some(t=>JSON.stringify(t)===JSON.stringify(original.rows)),'Original table changed');
+const expectedTables=await page.evaluate(items=>items.filter(x=>x.kind==='table').map(x=>{const doc=new DOMParser().parseFromString(x.html,'text/html');return [...doc.querySelector('table').rows].map(r=>[...r.cells].map(c=>c.textContent.replace(/\s+/g,' ').trim()));}),groups.flatMap(g=>g.items));
+for(const rows of expectedTables)assert(tables.some(t=>JSON.stringify(t)===JSON.stringify(rows)),'Figma English table changed');
 const originalLinks=await page.locator('[data-original-item] a').evaluateAll(ns=>ns.map(n=>({url:n.getAttribute('href'),text:n.textContent.replace(/\s+/g,' ').trim()})));
 for(const link of source.links){const expected=new URL(link.url,source.source).href;assert(originalLinks.some(l=>new URL(l.url,source.source).href===expected),'Missing source link '+link.url);}
 const ids=await page.locator('[id]').evaluateAll(ns=>ns.map(n=>n.id));assert.equal(new Set(ids).size,ids.length,'Duplicate IDs');
@@ -56,5 +57,5 @@ const resources=await page.locator('img,script[src],link[rel=stylesheet]').evalu
 for(const resource of resources)assert.equal((await page.request.get(new URL(resource,base+'/').href)).status(),200,resource);
 fs.mkdirSync('/tmp/sarasin-homepage-qa',{recursive:true});
 for(const width of [393,1440]){await page.setViewportSize({width,height:1000});await page.goto(base,{waitUntil:'networkidle'});await page.locator('img').evaluateAll(ns=>Promise.all(ns.map(n=>{n.loading='eager';return n.decode().catch(()=>{});})));for(const [name,selector] of [['hero','.hero'],['solution','#overbehandeling'],['ingredients','#ingredienten'],['videos','#videoshaarfiller'],['reviews','#klant'],['prices','#prijs'],['lifestyle','#longevity'],['faq','#veelgesteldevragen']]){await page.locator(selector).evaluate(n=>window.scrollTo({top:n.getBoundingClientRect().top+scrollY-document.querySelector('header').offsetHeight-15,behavior:'instant'}));await page.screenshot({path:`/tmp/sarasin-homepage-qa/${width}-${name}.png`});}await page.evaluate(()=>scrollTo(0,0));await page.screenshot({path:`/tmp/sarasin-homepage-qa/${width}-full.png`,fullPage:true});}
-assert.deepEqual(errors,[]);console.log(JSON.stringify({base,sourceFragments:source.textNodes.length,sourceHeadings:43,originalItems:165,sourceImageElements:60,sourceLinks:source.links.length,sourceTables:7,sourceOrderVerified:true,numberedSections:[1,2,3,4,5,6],benefitsVisible:true,peptideTableVisible:true,checks,overlayWithoutLayoutShift:true,videoDialog:true,reducedMotionPause:true,browserErrors:errors},null,2));
+assert.deepEqual(errors,[]);console.log(JSON.stringify({base,translatedContentItems:165,sourceHeadings:43,originalItems:165,sourceImageElements:60,sourceLinks:source.links.length,sourceTables:7,sourceOrderVerified:true,numberedSections:[1,2,3,4,5,6],benefitsVisible:true,peptideTableVisible:true,checks,overlayWithoutLayoutShift:true,videoDialog:true,reducedMotionPause:true,browserErrors:errors},null,2));
 }finally{await browser.close();}})().catch(e=>{console.error(e);process.exitCode=1;});

@@ -15,6 +15,8 @@ const close=(actual,expected,label)=>assert(Math.abs(actual-expected)<=2,label+'
   const errors=[];page.on('pageerror',e=>errors.push(e.message));
   await page.goto(base,{waitUntil:'networkidle'});
   assert.equal(await page.locator('html').getAttribute('data-homepage-reference'),'figma-40002354-233');
+  assert.equal(await page.locator('html').getAttribute('lang'),'en');
+  const text=await page.locator('body').innerText();assert(!/\b(Boek|Bekijk|behandeling|nazorg|Prijzen|Klantervaringen|huid)\b/.test(text),'Dutch UI wording remains');
   const hero=await page.locator('.hero-comparison').boundingBox();
   close(hero.x,884,'Figma hero x');close(hero.y,161,'Figma hero y');close(hero.width,760,'Figma hero width');close(hero.height,645,'Figma hero height');
   const guide=await page.locator('.guide-card').first().boundingBox();close(guide.width,768,'Figma guide width');
@@ -61,7 +63,7 @@ const close=(actual,expected,label)=>assert(Math.abs(actual-expected)<=2,label+'
     await page.screenshot({path:path.join(output,width+'-'+name+'.png')});
    }
   }
-  assert.deepEqual(errors,[]);const result={base,frame:manifest.frame,language:'nl-BE',desktopHeroGeometryMatches:true,criticalAssetSlotsVerified:Object.keys(slots).length,videoRail:true,videoDialog:true,checks,browserErrors:errors};
+  assert.deepEqual(errors,[]);const result={base,frame:manifest.frame,language:'en',desktopHeroGeometryMatches:true,criticalAssetSlotsVerified:Object.keys(slots).length,videoRail:true,videoDialog:true,checks,browserErrors:errors};
   fs.writeFileSync(path.join(output,'results.json'),JSON.stringify(result,null,2)+'\n');console.log(JSON.stringify(result,null,2));
  }finally{await browser.close();}
 })().catch(e=>{console.error(e);process.exitCode=1});
